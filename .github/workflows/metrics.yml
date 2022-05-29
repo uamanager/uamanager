@@ -25,7 +25,8 @@ jobs:
           plugin_achievements_display: compact
           # StackOverflow
           plugin_stackoverflow: yes
-          plugin_stackoverflow_lines: 0
+          plugin_stackoverflow_lines: 1
+          plugin_stackoverflow_sections: questions-top
           plugin_stackoverflow_user: 3757668
           # Music Plug
           plugin_music: yes
