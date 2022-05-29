@@ -1,4 +1,6 @@
-### uamanager [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/uamanager)
+[![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine)
+[!["Buy Me A Coffee"](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/uamanager)
+### 🇺🇦uamanager 
 
 Result-oriented Software Engineer with 10+ years of experience in designing, developing, maintaining and testing software applications. Investigated and integrated new ways to improve applications performance. 
 
@@ -10,6 +12,6 @@ Result-oriented Software Engineer with 10+ years of experience in designing, dev
 
 Develop Software with ❤️
 
-
-## Some Profile Information
-![Metrics](https://github.com/uamanager/uamanager/blob/master/github-metrics.svg)
+<p align="center">
+  <img alt="Metrics" src="https://github.com/uamanager/uamanager/blob/master/github-metrics.svg">
+</p>
