@@ -1,4 +1,5 @@
 [![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine)
+![Counter](https://envgwa8cdg1qw8p.m.pipedream.net)
 [!["Buy Me A Coffee"](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/uamanager)
 ### 🇺🇦uamanager 
 
