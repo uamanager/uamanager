@@ -4,7 +4,7 @@
 [!["Ko-fi"](https://img.shields.io/badge/Ko--fi-donate-ff5f5f.svg)](https://ko-fi.com/uamanager)
 ### 🇺🇦uamanager 
 
-Result-oriented Software Engineer with 10+ years of experience in designing, developing, maintaining and testing software applications. Investigated and integrated new ways to improve applications performance. 
+Result-oriented Software Engineer with 11+ years of experience in designing, developing, maintaining and testing software applications. Investigated and integrated new ways to improve applications performance. 
 
 - Proficient in MEAN stack. 
 - Learning and integrating new technologies.
