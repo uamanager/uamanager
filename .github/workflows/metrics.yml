@@ -21,10 +21,10 @@ jobs:
           # Most used language
           plugin_languages: yes
           # Achievements
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_display: compact
           # StackOverflow
-          plugin_stackoverflow: yes
+          plugin_stackoverflow: no
           plugin_stackoverflow_lines: 1
           plugin_stackoverflow_sections: questions-top
           plugin_stackoverflow_user: 3757668
