@@ -31,18 +31,18 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -296,31 +296,32 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAIDAQQFBgcI/8QALxAAAQIEBQIEBQUAAAAAAAAAAQIDAAQRIQUGEjFhQVETMnGBByJCVNEUI5GT4f/EABoBAAICAwAAAAAAAAAAAAAAAAAGBAcBBQj/xAAqEQACAgECBQALAAAAAAAAAAABAgADBAURBiExQZESExQVIlFSU2Gh0f/aAAwDAQACEQMRAD8AdDI+pJ3GxpEoZTQ2Vta/X+IvA0keYgdefYbmIp59uRbQt1txQUaDSnb17Q6GxR1lLBnbYAdZCGkaiSlWntX/ACKllFPKrbv1iUzcvp/bq4sU1No8ybVuDCGcH2c0fRI/MRzm0A7Fx5k9dI1J1DLQxB7gGIplJ8qSL2qekEBnR9jO/wBY/MEHt2P9Y8w9z6l9hvBmdSzesMqXStBQ4kKSqxBjJNyLitxSLpGG2vWsDWr0M0KVXsd1E5hmTDnMGrOtlZlEW8VFNbQ7KrZSfX2IO6YLjzU+ykoWmtSkEGqVHjng3EdUVhiFJKVjUlQoQRUEciOPZ6yLN5aeexfLqSvDj8z8vSvhc03KeRdPeFzVNPru+NZa3BfFmThEY2RzHbfof4f0ZsyJkkb1gjUMAzJLTTSUvPBDlgUOH5k+/wBQ5Fx1A3JCnZjWI2228vHGz8TKrFisB+DyInodLAHSH8K20EEPHpGc0CpflKeDCLYBFCBSCCAMZhq1nnb4qZaZwLOcsjBAUKnEfqG2Gxdpeog6ewNK8X6QQQRD9SpZo44+bYuPXuAeXef/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHAv/EAC0QAAIBAwIFAwMEAwAAAAAAAAECEQADBAUhBhIxQVETInEUYZEyUoGhscHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERMf/aAAwDAQACEQMRAD8AVaOU1TTcPPsL7MyyDy9YbrH5kU2xMEmCF8dqt8E6NpmgaNa0v6i9kC25dTeiQZnt0E9q3WEvqgJYx25G7mFH460GZx8FrOGgfZrkmIP+txUjJct7j3j9sgj/AL/mtM2MLyuGJAEggCGU/bvSi6toOE5WuDb3kch8ye39A1NCHIDXJBsK4M9RB/uinf0jgErcLLGwmQaKClpeLZDuqsrOrRcRDJDQDB8GK12jW7rMPp0VAP1FjJ+K4zwrpPFml8RLpiZaXNDRmyLmdd3LKTuGEyXJ7d+sxXbdAU2bPJaHpIWJEj3EfHQUlt6tkedO1bSMrX8/TbV2y2o44BuKGALbbwJkxG+21WL+nLZsgYtmyGLBmW4CRP28VJicNcP4eoPqeDouJZ1N2ZjlJzcxLTzHrEmTVm7eeLhu2ntqilmMSAAJ7ddvFRGd1L1LOL7rardO0TIopXj8VaZxBYN7T3e9jPc9BR6ZDM20mDvAnfpHzRSBdiXbgsoxtoHgcyrvv8xJE/YU+0l73MrXXFvuAWn89z/JoorQf29RFlHEs7IfdMTHn4qjm6jcuOj8xVkMrFFFQZi1p2Hj5Wdkabg2ca7l3PUyGQQGfz9vMDvNFFFB/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">My Type</div>
-                                    <div class="artist">Saint Motel</div>
+                                    <div class="name">Jocelyn Flores
+Explicit content</div>
+                                    <div class="artist">XXXTENTACION</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAcFCP/EADEQAAIBAwIDBgQGAwAAAAAAAAECAwAEEQUSITFhBhMiMkGBFBVRcRYjM1KRobHB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgD/xAAdEQACAgMBAQEAAAAAAAAAAAABAgARAxIhBCJx/9oADAMBAAIRAxEAPwDSm7aafp7mOQOyq+xn54PtxxTPouvWWsQCWyuIpl5eE+teedX1200SKCea1muPiJAiBBhZHwDgE+bnjgDWidiEuBb2uoTWkNn8SgljiTIKZ5A+2PTjmqGQKIQOxmiahGZI5UKgrINoUeU/X7VWiWW2RkSRWfbu2FvKa4lz2i+VNJHdF3dvzAThuHrjpU0eu2U0iTOid6y8OPED250RSxGGRl7J3ZpZXElmdjMCXKjnRV8XkQjd5REAvmOeA69KKA4TEHoJFgTFNS7XaX+N9CtpdOVLqVZbeGWQA92GwAVAJXiRgHGRTrHewxSRW9w5Q+XO7+vpWba92W+da7o2t2FyqTabIm+Fh+rGr5yp9Dz58D0pl1eKO/vHeEt3G8Mrk49M4x6VSCGHzJwNSLnR7VdzLbuY3Esi+FvFnAPLl0pPS5vo2Ud+u+PyjB/z9ftTLHYFoTHFtVuPQH/tLU8ITVns7gK1zt3LtPNf9ca5e8lKNqP2Wz2iuYrcwqsod/CTguF64J/vFFR/Kp1i3LdgKPNGU449qKw2N7+Yy5sY40ljknt/DIjKuMgqMZHSrumu0ME8TKS5PhZuR4D1ooqTE5WwILAEi50Hvu5t2kZFL7fEQ3CuJr10C1hfwt3ckU4DADiUfCnP8g0UU+xuZ1FStJqd4uphVAaLOGwucL+49aKKKPJ6HU0Jbi8yMtmf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcBAv/EACwQAAIBBAAFAgQHAAAAAAAAAAECAwAEBRESEyExQQaBFCJRYQcyUnGhwdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AkYH1sJLiK3yEAjDkLzEboD9wfHvT4tYZa2F1dDcEDuPr4rUMR6itExcK3kpS5hRY5lYdQwGqBmFFUseehni44VZFPZ5Bpf8Aa85POfAQNJyxLw91DaOvtQXtFQsRkYMrYx3VqxKP4PdT5BooE301dW0dqAZAZXHyhh/FLN/FLFl7zhdtkb4tjuetV1tLMy8qISMw6rw7JFaRgsPBe41Dkrc85gC29jrQVN5fSPikVkmV1A2y6A7eR9KW87fXFxKpZmWIqAB9ac5PRMUc7SQzPLFvaws2vbfn3rmY9KXF9bqlskEO2BZnPVR7d6Dz+Fhf4C+BJ5YlHD++uv8AVFNOExsWKx8VrDrSj5m/UfJooMvwkktzfrb46DlREhmI/NoeCa1DHRGOBFYkkdz96KKCd2HSiiig7RRRQf/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Run</div>
-                                    <div class="artist">Vallis Alps</div>
+                                    <div class="name">Basic Instinct</div>
+                                    <div class="artist">The Acid</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcI/8QALhAAAgEDAwMCBAYDAAAAAAAAAQIDBAURAAYhEhMxMkEHIlFxFBVhgZGhQrHB/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwECBAD/xAAgEQACAgICAgMAAAAAAAAAAAAAAQIRAyEEEjFRYXGB/9oADAMBAAIRAxEAPwDErDYYLlBLLVXilt5EixiOoBywJHI/T205l2/CaB3kvNCJA8amNXDthioY8HwuTn7aQ1kJ6VPPMg/2NWva9pt9dBcnrZD3o+ntw/i46YAY+aQu4PVjj5VGTnSrDO21PX4XTVeCBX7Up4qiBafcVpkWRSrOTwmAxHGcnJGPHGdL7tteOhpFdLzBXuzFTHDkFOAcn2x++tNo9tbNp6qGlrLrNKavMInKK5Tqx0SqVyqZKscMQ2DjGTprBZdjql1JWWUqJUEjySmMMoTDL0LlUOfU3UR0njXQxSUrlJtfSJbXowqejMS4EZ9P350avO+oLRSXqOnsCymBYyXlaXudTOFfpGPZQen6kgk6NauifgrViOOgqbhPDBRQSzzM/UI4xlj58D31d9uU0m39yUawQUP5oIZe8KyoHZbwAvI4dWK8c8p99Xj4L7Jpquinu1zlMUDII0lR+lw3khD7YGATg+4HgnVV+Je0Ya67JJt2uEkERJ6a1wrPkj0sBgjj3wedBkyOMknpD4scckH12yxVG4hcqhqeul29TmOZZEkaqdF60+eMRqgBOM8BuODx7aK290slLdLZJXWimoJy9OwikklMXUS5kXPLcu3jGs+ulNatr7deCpSmr79cJFbvRklKGNR4VvDM3uRwBxk6TGQS1kzZGCyEcexUabFU1aCnBxdMYXe12ymp0ejuq1kveChVjKgqUbJ558gfzzzwDSuNx2oDn/KPn+v+6NPXyVOn7TdbRZfhlb6p5o/wtPS9yaRfSCSSwA+uSRj665K3Fumur79VVdtZ6OnqZWZKeM4VFzxx4zj+9GjQchaM/HlK20yOZ5qh42qZWmfJ6mY/odTaeo7Es6yMQE6W/bnRo1ENLRpu9skQTAUsbFjgFT/DaNGjSNvRDP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAABgAFBwQD/8QAMhAAAQMDAgMGBAYDAAAAAAAAAQIDBAAFEQYSByFBExQxUXGBFSIjwUJSYWKRsaHC4f/EABcBAQEBAQAAAAAAAAAAAAAAAAUEAgP/xAAkEQACAgEEAgEFAAAAAAAAAAABAgADEQQFITESImETI3Gh8P/aAAwDAQACEQMRAD8AaOcQG7iFXh9Mq3uzI62GY7gG5lvekpVjOCrkT0wVY5gUH1Xrq3WxEl6Em5urTJQ/ElPqG+KnmpxpA3fKlajg45bTg5wBRbSQm6ru0ufLcCMucgAdqAPBKR+n/acu6Eiy2PqPqWeo2jxpSqqhqck8zOsGsGpVak+2O/mGY/F55+Chm3sT4jrdmRbGZBe3KS7uy4+f3KxgHxGSc0na1ZHmTpEqyfEbeArtIsVC9zCdyEocSsZ+YKAUrI8FEEc8mil00pDiyClLIdWnog5Pv5e9aNrgzQA3G7vDT57d6vsP7qWseJwYqduDqDzFbms24DcT6E0Ji3DvgQVbt6Ss8iSrlhvCQOYJJPKqsWbp1xbG6Xc5bqvJO1A/gCqkFSphlhAtRobA58GwJ5eGUVhuKG0KAwCpRz06k1pStaWyLKWyyqQ/HBw5IbR8nok+J9f4rnl11JEgyHNOWRp74WAUyJWcOyldTnokdAK8NnspbkKkWdyQtt3kpoqK0+uKk09LWL6EYj+57rVRcAyH+/cc3bWFnjNlbYV2auY5AZ+9GzxPjMOHu9sWseZXj7VuWPhZIlJS/cUNxmvzPnJ9hS2PonTkNsJcQuUodUpCB/muY07IfZ8/iUtubXpimrA+YIg8TrbOIblsuxT5qO5NVIr3pjTakEoskdSh4do4v/UiqqB9QdYMOYnPPE5BbnpFz1GzFhRTJecPZttp5FXnz6evSuzuXK18N7I2yvspN4cSVojICilB8yQCcZ69elVVQVsVTA6irgWMXYck9w6zxdbmuYuLBS5jP09xA9sVqR+IlikJSnvYbcP4VIUP7GKqq5Je/kBNcBOJ95FzYlNFbTiVpPgQaqqqWHQhVjHyn//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Are You Sure</div>
-                                    <div class="artist">Willie Nelson</div>
+                                    <div class="name">Passion Is a Dying Theme</div>
+                                    <div class="artist">Garden City Movement</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQEBAAMAAAAAAAAAAAAAAAUHBAECBv/EACoQAAEDAwMDAwQDAAAAAAAAAAECAwQABRESEyExQVEGFGEiMoGRByNx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAeEQEAAgICAwEAAAAAAAAAAAABAAIDERIxEyFBUf/aAAwDAQACEQMRAD8Aw+um3e2EtCp7brkVOS4logKIx2J464rmqvZ2GHW1iSytSyle1o4OrQdIVnqkkdeoI+aGNUbOie27Yds5jTivbwP7B9+ev+YqfOEdcp1dvbdREzlCXFalJHA5I4619Y1/HlyU3dpMh5mNAgR/cb7nO6C2HEAAdyCPgGoGwuLaMy0lkvo3GQRy4CRj8cE/qkLHyMVbCsk0pSnk4q76NkS2b/E9nLXGKVbhKV4yE/URg8Hp0NQqqel50e3X+HJnIUuIF6XtA+oIUClRTnuAcj5rE2ajUdWGagm2T7lZ2odkvezMeeW9J33MNnAASlGAfHfxmsjuLb7M11uUoreQopKtWrOPB7itcklpmI7OtspgQHUuoYyMltSeUuHAAyRxn91nHqeDJjylKlLQspA1OBf3KPOAO+PI4qVV5aOp0s+DH4HIurfkhUpSrTlxXkHCgcA47GlKIS1J9T3JxpLTPtozQ40NMgDT456fjn5rgudxfuLyVvlICBpQhI4SPilKzidyjmvavFfROOlKVsnP/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAAAAUBBAYCAwcI/8QAKhAAAgEDAwQBAwUBAAAAAAAAAQIDAAQREiExBRNBUQYyYaEUFSJxkcH/xAAYAQEAAwEAAAAAAAAAAAAAAAAFAgMGBP/EACARAAIDAAICAwEAAAAAAAAAAAECAAMRBEESMRMhMoH/2gAMAwEAAhEDEQA/APmC37SgtJz4AOCD7q5HaxG40uNayKf5KfoPv7jNLasG6kbA4AznHnO1RIPUurdR+hNPbtGOnT2ncVlCaSW2CnAx+anonTZ0WZ5BiIj6dWcnPO1Zprlu0oVz644FaL464tokkmulUOVUR6s6lOc7eK5bEKqc7ifHuW2xdHqOekW7ft+GG4duN/NFXujAfoZQQAO61FHs58jHq6wUE8rrlGQuSRk42qFGpgKZrAO1nCoynb2fdNMcmLRSfUWhjrDYGaYXXVZZltkCxoLdSqlBznzXbLatNZvLyseATp/7SkjG3mojH/ksJesYPRm3+E3Lt064Ejs2JNtX9e6Kp/E5CvT5lBxiTP4FFHXJthml4VmULsy0QGGZjgjj71EkjSPkk/7RRSncyu4I3sOrNHA0MialI8NjAxwKVznVIz4VdR4HAooqIUKfqWNYzqA3Ub/HpQlvcKeMg0UUVzuB5GL8Vz8Sz//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Genghis Khan</div>
-                                    <div class="artist">Miike Snow</div>
+                                    <div class="name">Chains</div>
+                                    <div class="artist">Azedia</div>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +330,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2023, 00:06:11  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 16 Feb 2023, 00:05:53  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
