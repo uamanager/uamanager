@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1142 Commits
+                            1109 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -88,7 +88,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            3 Issues opened
+                            2 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -296,32 +296,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIDBAYHBQH/xAApEAACAgEDAgUEAwAAAAAAAAABAgADEQUSEwQhMUFRYXEGFBYiQnKB/8QAGAEBAAMBAAAAAAAAAAAAAAAAAQACBAP/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAISEf/aAAwDAQACEQMRAD8A3jzMJA6nUK6mABBJ95KquRwGBBB95os0+Ub0MQZ5yj1Mbe1R5gD5hTyUTCQ+o62uogEjMI0s9fVcOctCv6iIBVbSo9MysXUPZaW5l2+m6QPtLS+OesAsf5TkrU6bT/yStdMXNg5SMZzOe2t8gxyk/wCynvSyrjlXt7xvpenvF5zem35h01nVbrNS/buxz8wlcKOGO61Mf2hEWHTZzbrdvK3dx4yK2rXbx+7bfEQhKNkFuvb1nUNp62qz588A95Ar1i5TuDuDCEjLpltrdosL7m7+PaEIRIVv/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUEBggDAgf/xAAqEAACAgEDAwQBBAMAAAAAAAABAgMEEQAFEgYhMRMiQVFhByMykXFygf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAdEQACAgMAAwAAAAAAAAAAAAAAAQIREiExIkFR/9oADAMBAAIRAxEAPwD7WlpK/UViO56oeaPjDHx7MsZJHH7J5HsPhdS2mc2YIbcbrDKUaKTGDz9zcW7/AEPGNdpRSqqVmhaSSn7llKcivNvg+fn+tUn9T+vF6PED34IZo7FpVr8CGdYQuJZR8AgnAz5J1JK+FWq6Wm3NLZ3KhUoWVZ68nO7EXHqemQwViPokf1qZVsPPJYQIyIqnjKVJUNyKgDt3xjOPzrKW0/qZum39TWeoGd5Hs2OTRkDDxeCmf9cAfRUHWk+mOodq6hasuyX1srQhjkm9pBcSRgr4OAfsEHB7aaUGqAmnob147K0IDHJLNbQ8H9QcA2WHJip/AONGuVaKO1dr7oDYiszQKoTmeDKPfxx8H8kfOjSmoi9Xb6m09O73ucEcTXKER9dFiLkt6YKqD5PdlOe4AzrJ1Lda+60LEHUF55GSIV4fUBPBeRc4b495z+c61n1Ht92S8ke1kvHd9RLgkYlAvpMFBx3XJI7/AI1jyxte47RvNOtv1B6sglEDL6XE4UjJIweXnzg5H3qkNIMulaYNlYOQwrYyD2Ort0d1Pf6T3VrWzcFMyBWUn2sOxIP9Z/GkO97XuG21Ft3Nos14LEzLDamjZA4A/iAcDwc+Afrtp101tTbltNOKlGHvzXEMcgAbgwZFVCvyDlm7+cD409pLYFFt6NiUxatwPJcdK7SSq9YxsCyoVUkZ8En3D/GjUO3t9beHylyOJ1/baSOJOfqIww6FsgYIIxg9jo1ALGteOrVv2RHzSxazIy8iVbHYsM9ge/xpHUoSWX2yWO5NBbRYrVuGQM7SqAVXz/E5Bz9/I0aNBbNkyFudVbG4bfE+21J4dwblfM1cskhBIX9tshTjkeRGR4B76aUeheldvnaxS2DbYLDKVMkcAVsHzgjx/wA0aNNF2jS8eHufpSg19LkDTQyJFJGFDZXLkEsc985Hn8986NGjQcIv0LnL6f/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Homegrown</div>
-                                    <div class="artist">Haux</div>
+                                    <div class="name">Silvertongue</div>
+                                    <div class="artist">Young the Giant</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAYHBQgBAwT/xAAsEAACAQQBAgQFBQEAAAAAAAABAgMABAURBgcSITFBYRMicaGxFDJRUoGR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwUCBAYB/8QAIhEAAgICAgICAwAAAAAAAAAAAQIAAwQREiEiQQUTUWGR/9oADAMBAAIRAxEAPwCc5fqvmbmRhjbeG1h9Cy97ffw+1eC16lckhcPJLDKvqHiA+4pGb9xoDEUtGPWBrQmn99y78S6lY/MSra5aIWdw3yh97Rj9fT/accpjALaWWJiIjGx7l9PCtX7cEk6rYLpNmjleJX1tlHZo7aMqXPn2jR/FLcvFUeSQhUheXqSe941cSZSQ7kneR+7YGzrdFV/K8r4fiJLqKzeOUCZGicnZKgfMCB77oqItvA1rcBtD2TNdCo8TquAg9aczxONLWaSeZge4BO0envWLfjl0hY+Hw9gK39qYi9PzGzfH2jR1MPEpV9L+Kr/Ri3NzgOQwlmHfGw2B5fJS5xrjttHA8+Tj7yfAA+AUEHxps6JZWDD2PJLyVDLbwK5KjzICGg3NzUgQeTSaqu/5I/yKNLW8lSM7aNmDFvMmirxjchwzmVooMduJ0gbaSKO9n3/H0ori5orHF1O4lbFDHYMmV7yGMSiNZG+CxGiD5HQruy2ahWzYpOzsGBUb96KKj9S9TWrlP5/qYO/5TNLjzbozBmABbftTZ0kj/U8a5HEfORCn/UIooo1yBKjxiW657XAYyZy4+8xOTRZO5GEg0ynWxvzBoooqwrc1BMpNWEOhP//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACcDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAIGBwMEBQEI/8QAKxAAAQQBAwIEBgMAAAAAAAAAAQACAxEEBRIhMWETIkFxFBUzUaGxUmKR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAUBAwQG/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMEEjEFIUFRof/aAAwDAQACEQMRAD8A+aXuIKXe7unIt49wpPqGRjYsxjjaZHjg7efyt2pqLsXyaqluPEHBJNVIqXO56pdzu6lkeZBJHbWG/ttT5Bjk03JOzkRuo160mTeFTgWTJdC+pYNcH5kRabQmjaUJBUzR3jlWToOPPiaYyCPNwJWHz7a8zSRZsh1quGfXZZFbh+1Y+p6Ppzcx2RgahjREmzH4woHtzwmnjFvJ76m3TLKSyi51D8dDHUjcEjkOIhvaKNWdw6+nHuuXrunTy6ZmZMupYxZHG9whjZQcS0Djnt79Vqh+55MmrQk1t5mJsLYyXY3yXMY3Lx3lsLyPOLca9AuifVVcbMTXr7jAOcoIYfsrmNC8iQuJPcRRZGuPQH/Fj8F38fwhCLMI5xSI929h/qLv9UlbE4HkIQjkYXM7WkDohCFEif/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Cinema</div>
-                                    <div class="artist">Doctor Flake</div>
+                                    <div class="name">Nothing Like You</div>
+                                    <div class="artist">Nuit Oceān</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcEBQYBAgP/xAAqEAABBAECBgEEAwEAAAAAAAABAgMEEQAFEgYTITFBURQyQmFxIoGRU//EABoBAAICAwAAAAAAAAAAAAAAAAMEAAIBBQf/xAAhEQACAgIBBAMAAAAAAAAAAAAAAQIRAyExBBITQRQiUf/aAAwDAQACEQMRAD8AZGstcUK1cr0p+KnTjtHLcA3jtuIJH7Avz17ZTvTOI0SHw/rmlRkshtTre5oqZso3BRIoAjeQSB4Fet7if12PATxrrksOymNRS42k7VilpUkJA2KAChYAPUj36znfSVluLS0vw3E9extfKj2QH2+lfcPPbOfkM/8AVH+5l9PC24S2EuNPKK0p6ApSkAKKQBf8f6seslob1Bctx51CozbQCdodSpKz7rbfnvYwEsKT5L9xoUqCgCkgj2DhldBlKE4QgwssBgOofskKO4gpJPmqPezeGBlGnstZZYrOJIUwcRzBOcjCJKeCoiHBuNgpTYo2jr9wr8408XvFeqtxeONHjoWPkLbdaSzuCuYpa07QU90i0/UenjGuhbU2or0DyVRP4cUXYDbRIaeS7yyFWqlJ3Dv56eTk5+ZLStxnmMcrdQcHagTuNHyCMo4ephnUFNofZ28rq5ZUN6AhKj0HWju9g5PVLbkQXFrfSVqjuLFGrTtVagCbq/8AMLOD7ra5MJ6L6K3JGpNrZdSNM5FJZ6fXuPWqvtXmvxhnSDBYkzousNvOX8floRVJKSSb9+cMQytJ0ERb5kNf4blT9f02e0oqREU8ulvUbWUikiqAoEf3hhl8ORwlcSSSa2Z6Hwfr+n8WK1mA1p4SLCYq3lcuiKPWrvzddz2zx1XhPjCfIjvIGkRTHjGMhDDignaQQT1Hm6/WGGN/OyL7Ur4B+NDK0Zl6NpMNmUGw+20lLgbNp3Ada/GGGGIvbbYVH//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEEBgcF/8QAKBAAAgEDAwIFBQAAAAAAAAAAAAECAwQREiExBiITFEFRsTJhcZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEE/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AO4AD4NLMAqq/oO8dsnLxF66e3PtktfAAAADPdV31Szo01rdNSltiOrKTWrPtszQkNJ8pfoEc5jd1qlxXfmI01TWVUcFs2m1t68Yyv5sarpq9ndUWoylUiu6TcHFJNvGE/suD29EMfRHH4JSS4SRJFtSACoAAAAAAAA//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">When You Die
-Explicit content</div>
-                                    <div class="artist">MGMT</div>
+                                    <div class="name">Angel</div>
+                                    <div class="artist">Joseph of Mercury</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAUGAQQCAwf/xAAuEAACAQMDAgUDAwUAAAAAAAABAgMEBREABiESMRMiQVFxFDJhBxUjQlJigZH/xAAZAQACAwEAAAAAAAAAAAAAAAADBAECBQD/xAAhEQACAgICAgMBAAAAAAAAAAABAgARAxIEIRORFCIxQf/aAAwDAQACEQMRAD8AQbhs1TT2K11MxdmpoKinjjVcgOsuATxkA5b/AGF99eh094rhZqOppqMzH9tiFJiIs0siNh4jjt1EgA8YwTqO31uW30dHbKmeZ2Mn1Un08R8xLyZQEduy5/HGnG1N73U2e3SUO2Z5KIxsB0ycLh2Ger5ydZeRWKUF6j6kX+9zY3teK+5QWy00MbOzqk1V/C3nfpBAxjgDJONLK+skj2/QWpoOqvpm8WoTwjhncgdIx6qo59M/jWxcN7NR3S8XKlonM9OzP0SuvnRnVAUAOTwR6ahXo79X3NpJp69HqZ2hhAJiTqJOAx7dvYH50VMZRdWFCCY21CNLTaJbxcqOjxJJHh2kPglFYKASFJGR3xz7dtGqv9J9uXi13WplusaU/VCyrH4vW0nIy5I478aNJ8jk6PqnYhGxEGjE+5tjU0+8bPHeJ5jE0BWM08YMQZTk9TMe2PTHIB50y3Tt91hWafclDDQeGUKtAuG82MRrnAAU+gznVCtRFb6q4yXkJdFgcRwRiISeOJAfKg4GPt+NFXNZrdt2nqZ9vUviwlhHEsYKxK/m7nj5PuNF4+bJ59SLUSHxsR9DRPupN7FsW3qaaGopqapucYcF3EZVDjz9jjq+3tkj8dtOpq+3T1MlFX0d5pusfyVxnWIIO5CsBhfgEfnW/YnuVdZbrUXQLQQSIkNLTwswKBmBJJGMEgdhggfOk1Xs20XB4A8FPUvMemRuqUOjE4HmLHJxzp9vExO5iy4zjcE91HVsjpLXcJaa0tPK8cyU0c8tV4iFHIdgOc9h3IyM6NKt5WdaG7SU9DPJ0t0yMWIXHsBgD098nPro1mfHFk37jJeYsNzuVRBLT2ekSaeGaPpnGC8aMD14zkH7Exnn20zvcV2rZvE/ZUneklljd4mZkV15RhGTgE8HOP6vTGjRpoUGFCcWM4TXG4RWm1UtRRhXMjPOxbLkgAH1/uDrn/Htzrvt7XStqrKZaJIWSnWWSPOTkSkfdnABBByRo0asQB1UgmSN4vFXWSXKW4WxIj9SqyVHWcxDBAUDnI4985H/AA0aNWYKf5KXP//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAj/xAAxEAACAQIDBgQEBwEAAAAAAAABAgMABAURIQYHEhMxUUFhcZEUIjLBCBUjUnKh0eH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQMEAv/EAB4RAAICAwADAQAAAAAAAAAAAAECACEDERIiMVFB/9oADAMBAAIRAxEAPwBHW0DzSxxQxtJK5CqijMsfACmFhuwMVvGn51Mz30oHBZwHp/JvsPepXdFs7A+DXOO3K8U5uo7W30+lc/nYeZ6e/empLaxJdqgJbKR9ctRkdMj30rMqgAsxifokcygYPsds9LKLLEcGeK54c8w0vzDwJOehrk2n3SQGFptnLl1lGvw1w2YbyD9QfXP1pmysiXIYozzNn8xb7VmnHmTzivk4BHv/AMpDJjIuXx4ixIY3PKF7ay2txLb3MTQ3ETFXjcZFT2NFODffgYltIMcjjiWaIiGZoukiHRWOXiDp6GiuKNqdicv4HkmSm7FeZsRYKH4UEpfT9ysTrV7gnWXmF2UsodgexLjT1ypJ7rcbjSGXCLjU8wTQgnr3HvrTNF2xAAUIM9dKqXBTn9mXtsbj5O3FJGSVGRta12TX99cLBakPI3QNkP7rTfv+rFmRw8OVSWy8UYxWORCVIBJINRxAkaEeVt5tStbysMxKz2LxZ76BVh5a5spBGfEMuh70Vz/iG2qVcPh2btp+OaZlnuhn9CDVVPmTrl2A70U9aqWdSDVxCW8zxyJJE7JIhDKynIg9xTEwLeHwQiLGIGZ8sufCPq9V/wA9qKKIOoNyxSbbYDKI2e+OSL05T/5UZeb0/goZo8AtiZnHCLi4XRB3CeJ9faiihfH1J6BffyK+8uprq5luLqV5riVizyOcyxPiTRRRRNAFT//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Let Me Down Easy</div>
-                                    <div class="artist">Max Frost</div>
+                                    <div class="name">Truth</div>
+                                    <div class="artist">Alex Ebert</div>
                                 </div>
                             </div>
                         </div>
@@ -330,7 +329,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jul 2023, 00:06:18  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 31 Jul 2023, 00:05:37  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
