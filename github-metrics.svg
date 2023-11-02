@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -69,13 +69,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1077 Commits
+                            1078 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            182 Pull requests reviewed
+                            184 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -296,31 +296,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAQACAgMAAAAAAAAAAAAAAAcECAUGAQID/8QALRAAAQMDAgUCBQUAAAAAAAAAAQIDEQAEBQYSBxMhMUEiYRQVUVJxMjOBkaH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EABkRAAMBAQEAAAAAAAAAAAAAAAABAhEhA//aAAwDAQACEQMRAD8A1frsWkNKXuqLrlWrzFugK28x4kCe8CBXXTVU4eZiyw2BYD7Dwe5pe5yEb0x7pmew8UttpcHhJvpkr4I3o9I1Bji9E8vYqp5qfTt3p28DF2tpwEkJcaJKSR37itjl63xa8GjNpYIYW4bcJS2VLn6gASR0/wB8VIOJGStcphLdbVvcJdQ8Vc14AFU9xA7fipzdN9KVEpcJtSgpViANVbg7kLdSX7a7bS6pCISFqhET0KvECe5qUmuU07fCxyKC4QGHPQ5Mxt946xS2tQ8VjNgPmWOTZG2+Z2gyYyBIb5ZjbAG/b9sD9VT3jTfMOPWrLQQl0p9aEGUiD3BHSCfMCudeXaLtDc/AWMBO43ByKtpP47/xUfzt38Zk33Er3thW1BjpHtPipRPdK+lYsMAUoKVc5xWXb3Fs3t5til6B1l1Qn+qUoNR8A56SkhRT9NxivG5Mft9Y+6lKDD0pSlAH/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDAv/EACoQAAIBAwMCBQQDAAAAAAAAAAECAwAEEQUSITFxBhMiQWEUUYHBMqGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwECAP/EABgRAQEBAQEAAAAAAAAAAAAAAAEAESES/9oADAMBAAIRAxEAPwDGNYmUaaiKwzLIqnjoOv6rQtNtV+hmMJUhYzwOo44rJb65MlvFyTiRT1p40zUtisof0yjaeecHg/1xS9jEmDXNLWPRxdROrxQ7PWDxkgj/AGlSyuJbGe3mVwXhBZWUYIPtTNrtxaHw3JZRDIkZJFIOQuCR+/elDUNtrbSIrYfdjHx71l21paD4c8RwGyutR1o7uIFcFeWYlkLj4wM96KyiS+lkgRZJHYINg54C5JAH5JoqY19S3NNt8sfdqvLS6yFbdx3pXlctIpzXdLh1Uc9uK2JsaOWgG4ll0mWaMHy4iqscfP36VRXtw0zEs24tUfStWmj0e+j8w7SAuD7An2qBHPjGSfzSOcj1rQELBt465oqve4yOvNFTCutSj+YwDxUgMJAAAwOO9FFCTNL08qttNGwyr4z3BzmuySwJkAKe1FFbGmXiWVMZVVooortuwv/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Container</div>
-                                    <div class="artist">Therr Maitz</div>
+                                    <div class="name">Harvest (feat. TR/ST)</div>
+                                    <div class="artist">ionnalee</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECBwj/xAAgEAACAgICAgMAAAAAAAAAAAAAAQIRAwUxYQYhEiJB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APKt9i+yAC32L7IAKuUAuUABAAANRq1d10dw0nj/AIZ5vo8ubT4Met2UcWWebFkm5ShNY3TSTS+N/a0q/KTA4cuQWvYAyAABvHOeNtwlKLap069AAZXKAAH/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAQBAgUHAwb/xAAsEAABBAEDAQcDBQAAAAAAAAABAAIDBBEFEiExBhMVIkFRcUJhgSMyobHh/8QAGQEBAQEAAwAAAAAAAAAAAAAAAQADAgQF/8QAHxEAAgICAgMBAAAAAAAAAAAAAAECEQMEEkEhMXGB/9oADAMBAAIRAxEAPwDgnZBzrcrq9o767G4aD9O72P4T9qCHTNbZBbO6JxG2Z7iA0ffHx0Wf2R/SrXJ84Len4BKzLFs3K001iYOsOLGkE87WjqFlVyZ60c8cetG1crv8Ogip2bdHK5uqRbfoG2TLvnj/AD3XyWoVG6hqhp0gx0LHbRK3OCPcZwc+vKz7c0PhdbuRK12XYBORj1XrX1Calp1aevt3slcPMM9QnjXlBPahlahNUvbo1XPGjxWY4qLXGtK1pL35ByMhxx1P8D0QsHXrkt202zJkCRgI5+5QlRXZjn3pxlxwuor4NaXJ3Wh2znru/oBYQTgn26aYgf3HlJZXJI6WSfJRS6RYucRgk4TkM0fhk8Mmd2Q5vyklOeEmcZNOyp6IV48GRocOOiFAlZBPlAVUIUCJChCFEHqOeUIQoT//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Tearing Me Up</div>
-                                    <div class="artist">Bob Moses</div>
+                                    <div class="name">III</div>
+                                    <div class="artist">Foster the People</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAABgAHBQME/8QANRAAAgECBAMFBgQHAAAAAAAAAQIDABEEBRIhEzFBBgciMlEjQmFxgbEUFSTRM0NigqHB8P/EABkBAAIDAQAAAAAAAAAAAAAAAAEEAgMFAP/EACERAAEEAgICAwAAAAAAAAAAAAEAAgMEETESISKRMjNx/9oADAMBAAIRAxEAPwDT51w4QCLWWuo1X25jpah2TWfCygW9pjMQbWB1HiknbryBsTbYFjYWLbH4UwQq1j/EQcv6h8KD9m2LZcgKli8spVdJYsOITsp8wv8AJBzNzRs9uXVD49qzkB8oxNiSjIWDF9nOtbsL7v8AFzYHkBagSx+Of12+1aNmq6sqxjCzEqAzAa7nUPNJyY/BdhQUR+1m29PtUYtKcu0q7qYmmySdd2bWp3cMT4fUc6q63cypjy7MEVF2dDumm3m6dKqbbLxGEk+DkcpR2zjzdcZOcCp/Cl0WEao9AOkevi1B999rVnGVDFjB4cYVQ8EhLcKwZmNybsoOph87D0Fajmc2Lkig46si8VDuLdf2+lZv2ekCdnsMpmh0OpJWTE8Nee90jGo/3G9ISx4d2Vt1744ACNvpe2cfjzg2ErShVi8UbyR6gbj3F8o/zRJBJx5OXS9NsU0X5PiUh4NtBb2WEaNfMPebc/WiKL+ol5+7/ujGzraMl/v62+kz7nJ48NhseqoXgIS0gcMFIL8yTc+m17VV8fdm4OHxwisENttGnkzdKqeihy3axblzMmQ0D8TrM1lheETSfzFtv/370C7LTMnZrLrYl94dQRMfFF19NNx9TVVS1j5K+qMMXQzNJlyrEvKMWVeK4aXFCZfMPTkaEo/6qX5L1+dVVCPSsk2Et7oIWxk2YRvriZRf2jazbWd7jp9hVVVTDXkDASr4WuOSv//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAECAwUGBAf/xAAtEAABAwMCBQMCBwAAAAAAAAABAgMEAAURBhITITFBUSJCYRSBFSNicZHB0f/EABgBAAMBAQAAAAAAAAAAAAAAAAADBAEC/8QAHxEAAgIDAAIDAAAAAAAAAAAAAAECEQMSIQQxEyNR/9oADAMBAAIRAxEAPwDyTSdlTqC26dt27a641cFMrzja4kJUg/yBSyLTO1Ii2X+fBNwkT3nQ60lwtIQ02kITlXt9QUfmshZtRTbU5AXFmPMqilYQW8ZQlZG/GfIBq8vOqFnS0OwxUusR2gpxX5meJuWSnOOnInke5pc71Sj7DBj+zeXpFwq1xPw/Us19LkSfZm2BAQiUT9OcZ9JB9XPvXNZ7iuQ+y1dzw4kNyTOZQej724lRPykdqwn1oVLStYJS2UhoYBKUhWQD55ec1NLursprgvvOOMcVTu0j3KUdx+4NcfE6oepxWRzffw2UNy3nR9wjKuCpCp5YmSG0pwWnOKQoAnryUn/aKyl3v8i5sx0yX3XFR2UtNhQACfIGO3IUU3Uk1ld2TaKjQpF0JuMCTPabSF8Jk7U4BGS4eoTjPQjnTNQ3hmc+4i3xG4cPeVJbR5J5kn+ugFU8d5TW8BxaQpOCEqxu/f4qI1jjbtlSyVDVDsDGSaiJyrNSJ5tqGBnI786aUHIA710KYyilIwaK0wUGl3eaKKAFShSkkgEhPWr6zWsTV5U6lltsblL6n7DuaKKVlbSKvGipS6apy22TUsZcVpCIF9RzZfV6Eyse1SQNu89cgAn9RoooqKWacOJlj8fHLrR//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">HEAVEN</div>
-                                    <div class="artist">The Blaze</div>
+                                    <div class="name">Simply Falling</div>
+                                    <div class="artist">Iyeoka</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcBAv/EACwQAAIBBAAFAgQHAAAAAAAAAAECAwAEBRESEyExQQaBFCJRYQcyUnGhwdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AkYH1sJLiK3yEAjDkLzEboD9wfHvT4tYZa2F1dDcEDuPr4rUMR6itExcK3kpS5hRY5lYdQwGqBmFFUseehni44VZFPZ5Bpf8Aa85POfAQNJyxLw91DaOvtQXtFQsRkYMrYx3VqxKP4PdT5BooE301dW0dqAZAZXHyhh/FLN/FLFl7zhdtkb4tjuetV1tLMy8qISMw6rw7JFaRgsPBe41Dkrc85gC29jrQVN5fSPikVkmV1A2y6A7eR9KW87fXFxKpZmWIqAB9ac5PRMUc7SQzPLFvaws2vbfn3rmY9KXF9bqlskEO2BZnPVR7d6Dz+Fhf4C+BJ5YlHD++uv8AVFNOExsWKx8VrDrSj5m/UfJooMvwkktzfrb46DlREhmI/NoeCa1DHRGOBFYkkdz96KKCd2HSiiig7RRRQf/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QALRAAAQIFAgUFAAEFAAAAAAAAAQIDAAQFERIGExQhMUFhByJRcYEjMkJiocH/xAAZAQACAwEAAAAAAAAAAAAAAAAFBgECBAP/xAAhEQABBAICAwEBAAAAAAAAAAACAAEDEQQFEiETQXEiMf/aAAwDAQACEQMRAD8An1f6Z0eqyilJlWmJi3tfaTipJ7dP6vowkqdSZGmauepWrXzJsoSrCZTySogXF7g8lAWv2No6hq08EIW1LrRv2IuoXCT9Rzr6r6UrDPDVt/B9hxAafW2m2DmSrX8G4seXxYQvarJLl4zLr1aYtljXF5WHtRrk9K1CUQ4uqIlXcmCGeIHJBKd4kkD3C6rJ/wAb87xRtSr9S1K3RNPvhUo6MUvJcDmbXUqVYDHlzKbAjpGZbkHibEfphnemWkKqUu1uVW200hstsrcRfJzJN7eBY8+fxaDWTK0UbldIRiwvNKw1bJoaR9NKPSZRJ4Vp5+3N10ZKUf3p9CCNlSp5K0IafWjfsBdIsFGCE+SWQy5E9pn4vF+GamVBJvys21dh5BUfMZbXiWH3ZaTqu6mUsXG9pdis98gRbl2hW6x1yZnUTxoLmxKsnBpxsWLp7q/T08RR1HVVQqC2lz027MKQMU5m+Ig3ia0gJpCdYs7axmJRAmENMyoq2zmrg9vf3LC+11+r39v3Gq0CpDcxNydODpk0gLWXXMilXawAtY94WB1yoaQEny4zcwzt7tvr1+L/AO4pafq6dpy1Lkn3mVOJxc212uPiN0+KU0bgT/EOx80IJGNm69rpScmJWVau+8gKHmCEPpDXSWdSoVXCVyL6sVqcOWyT0Vf4HfxBASXXHGXGr+Jjg2kEo8nKvqXAGSjhcc+R6RYU8SKnXTUhMIbx9glgOSvOR6f9gghoJJQ/1XKZugJQpvh5pTe3iFGXZzv0Jv8AXfreKeebpxfZMiZvZt/Lv45df7bePnvBBFBGu7Uk6jfw3EtDLhyq6ckJC7Hufz5NoIII6Kq//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Basic Instinct</div>
-                                    <div class="artist">The Acid</div>
+                                    <div class="name">El Viaje</div>
+                                    <div class="artist">Vitalic</div>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2023, 02:06:05 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Nov 2023, 02:05:52 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
