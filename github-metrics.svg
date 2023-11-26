@@ -37,12 +37,12 @@
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -296,18 +296,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHAv/EAC0QAAIBAwIFAwMEAwAAAAAAAAECEQADBAUhBhIxQVETInEUYZEyUoGhscHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERMf/aAAwDAQACEQMRAD8AVaOU1TTcPPsL7MyyDy9YbrH5kU2xMEmCF8dqt8E6NpmgaNa0v6i9kC25dTeiQZnt0E9q3WEvqgJYx25G7mFH460GZx8FrOGgfZrkmIP+txUjJct7j3j9sgj/AL/mtM2MLyuGJAEggCGU/bvSi6toOE5WuDb3kch8ye39A1NCHIDXJBsK4M9RB/uinf0jgErcLLGwmQaKClpeLZDuqsrOrRcRDJDQDB8GK12jW7rMPp0VAP1FjJ+K4zwrpPFml8RLpiZaXNDRmyLmdd3LKTuGEyXJ7d+sxXbdAU2bPJaHpIWJEj3EfHQUlt6tkedO1bSMrX8/TbV2y2o44BuKGALbbwJkxG+21WL+nLZsgYtmyGLBmW4CRP28VJicNcP4eoPqeDouJZ1N2ZjlJzcxLTzHrEmTVm7eeLhu2ntqilmMSAAJ7ddvFRGd1L1LOL7rardO0TIopXj8VaZxBYN7T3e9jPc9BR6ZDM20mDvAnfpHzRSBdiXbgsoxtoHgcyrvv8xJE/YU+0l73MrXXFvuAWn89z/JoorQf29RFlHEs7IfdMTHn4qjm6jcuOj8xVkMrFFFQZi1p2Hj5Wdkabg2ca7l3PUyGQQGfz9vMDvNFFFB/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgMI/8QALhAAAQMEAAQEBAcAAAAAAAAAAQIDBAAFBhEHEiExE0FRkQgUI3EVFiQyUmGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAHBEAAgMAAwEAAAAAAAAAAAAAAAERITECElFh/9oADAMBAAIRAxEAPwDy4kbNOMdsM++3BqFbIjsh9xQSlKE7rrhlldv2RQbawNrkOpb9zVj4lZlA4ctrxfA0NMykpImTRouFRHUBXcf5TSthbcITv8A8jRFCkuwDLKSUxvmU86yO6U9ep1WEyHA7/YEk3W2SI2u5WgikS8juq5AfM14Og7Cgogj7EVbeEnFR+9+FimY/r7fJBZDrg5nG9jQUCfT3qn0evjIK42Uk7FFbTitijmI5VNtqlczbattr/kk9QfaipoExx8PLqW+J1sCgna+dKeYb0opPKfesNnCJTeW3ZFwUFSkyXPEIHQnmO9V1xO8OWK+w7izvxI7iXAN63o7qscSsKOfRPzthTQkfMAGdBb6utOeZA8xU8kVrRBab4mFnI7elsqBU8lOx31uuf4FdRJEc2+X4yjyhBaVsn7aqtYNgrODhjLOIRMVllQXFt3d6SruOm+id+Zo2kOWxh8UMpIvVrtx5VvRIiPEdI+opShvSleevKipdn+VS8uyKVc5pAW6olKB2QnyA/oCirkpBfTOpPXYp9Ycnu1jWhdsnPxuVQV9NZAJHrRRVLWE0UNnjvk6WCHFRHHtEB5UdPOD6713qb5HkVxyCauXdJjsl5Z2S4omiintJmBGv9xooooNH/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Jocelyn Flores
-Explicit content</div>
-                                    <div class="artist">XXXTENTACION</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBQECAwb/xAAxEAABAwMCAwUGBwAAAAAAAAABAgMRAAQSITEFB1EiQWFxgQYTFDJCwSNikqHR8PH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQMCBP/EABoRAAMBAQEBAAAAAAAAAAAAAAABEQISMVH/2gAMAwEAAhEDEQA/AFrYuJeITkJFXLLIUe0QB/eleRUnU+7XijuCRr5+dWTHFX7dsYqCx1UifvWaVh6xi1ssMcXiUkycu79NV9zbFtBO+XhXS04qhXDVXSoTj2VAdelUzntHcrdhtlsjuyoEbuWS1KKlgkUVCuONXLqYUIH5RIopgd2bcNqGBCsjHZIPp1rDzDSE/iYJWlUkTqKa3DuXrSG0peQ0XkgmUAxO243/AJ3FSDy4s31QW8WlfM4FkZEbzPfUXqV/CvKcSfoqSlpXDUspcbwU7nEaqkRPlpVettlKIS6kDulJOnX/AGm3dcqbf4uLS9eZbCTiknJQ9DqBUe25QuNXyvibx1y2P1ssSU7b6/at5aeejOsxwUBZXkDiST9I3HpRT7Ty9srC3WLU3SHXN31jJXhHh+1FFHEPQN260kFlvUY/KNulasWVszEN5mZlw5R5TRRVHlHP0yTCM8sU5RExrHSs5AbRHlRRRB00U4B0ooopwVP/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Little by Little</div>
-                                    <div class="artist">Lane 8</div>
+                                    <div class="name">Full Circle</div>
+                                    <div class="artist">Hælos</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -318,10 +310,17 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHQAAAgEFAQEAAAAAAAAAAAAAAAYDAQIEBQcICf/EAC0QAAEDAwMDAgQHAAAAAAAAAAECAwQABRESIUEGEzEHYRRRcaEVIiNSgZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgEA/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAEREiH/2gAMAwEAAhEDEQA/AO5XLpWBOt8mI63pbkNqaUU+cEUtRfTVqLAmsFxDne1aFgaVIB1ePfcb+1PnUcp2BYbhLiIC5DDKnG0qSSCoDbYbmk/p3qmTerVe3bnFSx+HJUrLeRrA1nOD4OEfehSmvD3VFml2fquVab8XIrzDhSpx5Gpek7pUrG6sgg5ydjWturzUp/4htX6jiQpxAZS2Er8EAJ2x/FNc2/udZeoTN0vimXm33CXEuIISltAITrCfOEpBODkgUp3RK2p0plRbPbdUjLacJGCfHyG39UpUzxhrABAA433zvRVFbknAFFVH03dnMpTkFR52FI3XHV1rjwJUMuFcqRHcShttY1ZKSATv4ya4pN9YJVwT2Ly3EYtzhCXERwVOFPOCo4/ytXf7x0Tc4MpqG6+iW8UoYec1o0ZUMqKASnAAI880Llvh83HG5Fhm2+4tszop/IpPcTnAKdiRqHtyPnV93tK2bULnnsRXZK248dZJOAcnHOACBk4zW4uYZj3B6NGcMmAytaWytwgLHjUBxn7iobrdplwtTke5ylPsF3vJBGMO+CvbYnTtvx9BS6wcpYYhvuxX5DbZU2yBrP7QeaKsdQhKiEk44zRV1GW9JK0DUTn61VEjSjKcUUUG1A9McXycVCuQtScFRxRRSkZESSaKKKrP/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAECAwUGBAf/xAAtEAABAwMCBQMCBwAAAAAAAAABAgMEAAURBhITITFBUSJCYRSBFSNicZHB0f/EABgBAAMBAQAAAAAAAAAAAAAAAAADBAEC/8QAHxEAAgIDAAIDAAAAAAAAAAAAAAECEQMSIQQxEyNR/9oADAMBAAIRAxEAPwDyTSdlTqC26dt27a641cFMrzja4kJUg/yBSyLTO1Ii2X+fBNwkT3nQ60lwtIQ02kITlXt9QUfmshZtRTbU5AXFmPMqilYQW8ZQlZG/GfIBq8vOqFnS0OwxUusR2gpxX5meJuWSnOOnInke5pc71Sj7DBj+zeXpFwq1xPw/Us19LkSfZm2BAQiUT9OcZ9JB9XPvXNZ7iuQ+y1dzw4kNyTOZQej724lRPykdqwn1oVLStYJS2UhoYBKUhWQD55ec1NLursprgvvOOMcVTu0j3KUdx+4NcfE6oepxWRzffw2UNy3nR9wjKuCpCp5YmSG0pwWnOKQoAnryUn/aKyl3v8i5sx0yX3XFR2UtNhQACfIGO3IUU3Uk1ld2TaKjQpF0JuMCTPabSF8Jk7U4BGS4eoTjPQjnTNQ3hmc+4i3xG4cPeVJbR5J5kn+ugFU8d5TW8BxaQpOCEqxu/f4qI1jjbtlSyVDVDsDGSaiJyrNSJ5tqGBnI786aUHIA710KYyilIwaK0wUGl3eaKKAFShSkkgEhPWr6zWsTV5U6lltsblL6n7DuaKKVlbSKvGipS6apy22TUsZcVpCIF9RzZfV6Eyse1SQNu89cgAn9RoooqKWacOJlj8fHLrR//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lit Me Up</div>
-                                    <div class="artist">Brand New</div>
+                                    <div class="name">Simply Falling</div>
+                                    <div class="artist">Iyeoka</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYDBQcBBAL/xAAqEAABAwMDAwQCAwEAAAAAAAABAgMEAAUREiExBhNRIjJBYRRxFiORgv/EABgBAQADAQAAAAAAAAAAAAAAAAIAAwQB/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECEQMSITFB/9oADAMBAAIRAxEAPwDHH5JTrWFDKfaPumDp+7yOo7euwvyHo0Ntta1uJUMKIBKQSeRzt/lWsv8Ah9ogPTEx1TpiFZZS+8FIUMbL0jAP2knbjeme99UW209LWdM23xXTLZGohn0uKwNXA4Gf92HmsU8u3Ejbjx6q2zMZvTMiJaY0ppxp9DoUpSEnC0AfJSeRj5GRXmhsyktpLTDhAPvUnSkeQVHammbJZZtNzjx3PzLAuO5Ihh1JC47+U5Sk843O2ceazn81VwPadWUAZUEJ9mw4x5wOashKUkCUYp8GGbKbQUIbWiQ7nSotq1JR/wBcE/rOKKr46ktxUIb2AI/QNFK6BSKaYgKb9JUdA0p1HO3in5pK7x0xY0SHEKbtURxxxJWNXrVpSN/njFL1nlWeMjuzmy9LDnpQv2BPnHyangdRPQZM8RRG7b7iVqccb14CSSkJA2+a5JX4OEtejXeJzFgtohz4wWotnuMDT/TqIKhxjkAY+ayuS6y5LW5FbU00cBKSRkDGN8Vez5xuMlT7qUvMexS1jQrfzgnG9eO8KtXb7cGE/Gfbx6lPd0L854x9YFTHHX0szZnk5SRxpwdhHn90VBH3CRRVlGayKWElKcDeuW4hSXWFZAI1A/dFFT4Jen08A1bVaScqd33+qhlEKWFpzhQB5ooqIjJGFb80UUUgn//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Magazine</div>
+                                    <div class="artist">Editors</div>
                                 </div>
                             </div>
                         </div>
@@ -330,7 +329,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2023, 02:05:34 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2023, 02:06:21 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
