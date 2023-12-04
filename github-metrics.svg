@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1104 Commits
+                            1102 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -296,31 +296,32 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QALRAAAQIFAgUFAAEFAAAAAAAAAQIDAAQFERIGExQhMUFhByJRcYEjMkJiocH/xAAZAQACAwEAAAAAAAAAAAAAAAAFBgECBAP/xAAhEQABBAICAwEBAAAAAAAAAAACAAEDEQQFEiETQXEiMf/aAAwDAQACEQMRAD8An1f6Z0eqyilJlWmJi3tfaTipJ7dP6vowkqdSZGmauepWrXzJsoSrCZTySogXF7g8lAWv2No6hq08EIW1LrRv2IuoXCT9Rzr6r6UrDPDVt/B9hxAafW2m2DmSrX8G4seXxYQvarJLl4zLr1aYtljXF5WHtRrk9K1CUQ4uqIlXcmCGeIHJBKd4kkD3C6rJ/wAb87xRtSr9S1K3RNPvhUo6MUvJcDmbXUqVYDHlzKbAjpGZbkHibEfphnemWkKqUu1uVW200hstsrcRfJzJN7eBY8+fxaDWTK0UbldIRiwvNKw1bJoaR9NKPSZRJ4Vp5+3N10ZKUf3p9CCNlSp5K0IafWjfsBdIsFGCE+SWQy5E9pn4vF+GamVBJvys21dh5BUfMZbXiWH3ZaTqu6mUsXG9pdis98gRbl2hW6x1yZnUTxoLmxKsnBpxsWLp7q/T08RR1HVVQqC2lz027MKQMU5m+Ig3ia0gJpCdYs7axmJRAmENMyoq2zmrg9vf3LC+11+r39v3Gq0CpDcxNydODpk0gLWXXMilXawAtY94WB1yoaQEny4zcwzt7tvr1+L/AO4pafq6dpy1Lkn3mVOJxc212uPiN0+KU0bgT/EOx80IJGNm69rpScmJWVau+8gKHmCEPpDXSWdSoVXCVyL6sVqcOWyT0Vf4HfxBASXXHGXGr+Jjg2kEo8nKvqXAGSjhcc+R6RYU8SKnXTUhMIbx9glgOSvOR6f9gghoJJQ/1XKZugJQpvh5pTe3iFGXZzv0Jv8AXfreKeebpxfZMiZvZt/Lv45df7bePnvBBFBGu7Uk6jfw3EtDLhyq6ckJC7Hufz5NoIII6Kq//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">El Viaje</div>
-                                    <div class="artist">Vitalic</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAABgAHBQME/8QANRAAAgECBAMFBgQHAAAAAAAAAQIDABEEBRIhEzFBBgciMlEjQmFxgbEUFSTRM0NigqHB8P/EABkBAAIDAQAAAAAAAAAAAAAAAAEEAgMFAP/EACERAAEEAgICAwAAAAAAAAAAAAEAAgMEETESISKRMjNx/9oADAMBAAIRAxEAPwDT51w4QCLWWuo1X25jpah2TWfCygW9pjMQbWB1HiknbryBsTbYFjYWLbH4UwQq1j/EQcv6h8KD9m2LZcgKli8spVdJYsOITsp8wv8AJBzNzRs9uXVD49qzkB8oxNiSjIWDF9nOtbsL7v8AFzYHkBagSx+Of12+1aNmq6sqxjCzEqAzAa7nUPNJyY/BdhQUR+1m29PtUYtKcu0q7qYmmySdd2bWp3cMT4fUc6q63cypjy7MEVF2dDumm3m6dKqbbLxGEk+DkcpR2zjzdcZOcCp/Cl0WEao9AOkevi1B999rVnGVDFjB4cYVQ8EhLcKwZmNybsoOph87D0Fajmc2Lkig46si8VDuLdf2+lZv2ekCdnsMpmh0OpJWTE8Nee90jGo/3G9ISx4d2Vt1744ACNvpe2cfjzg2ErShVi8UbyR6gbj3F8o/zRJBJx5OXS9NsU0X5PiUh4NtBb2WEaNfMPebc/WiKL+ol5+7/ujGzraMl/v62+kz7nJ48NhseqoXgIS0gcMFIL8yTc+m17VV8fdm4OHxwisENttGnkzdKqeihy3axblzMmQ0D8TrM1lheETSfzFtv/370C7LTMnZrLrYl94dQRMfFF19NNx9TVVS1j5K+qMMXQzNJlyrEvKMWVeK4aXFCZfMPTkaEo/6qX5L1+dVVCPSsk2Et7oIWxk2YRvriZRf2jazbWd7jp9hVVVTDXkDASr4WuOSv//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">HEAVEN</div>
-                                    <div class="artist">The Blaze</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwIDBAH/xAAxEAABAwMCBAQEBgMAAAAAAAABAgMEAAURBiESEzFBByJRcRQVFjIlUmFkgYKh0fH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAfEQACAgICAwEAAAAAAAAAAAAAAQIRAyESQSIxUWH/2gAMAwEAAhEDEQA/AKEVHkuRUK+GHKG4cCME+5716i1T1tpcREdKF/acdaklvjqesClD7G2Qon/FPrE38wuUKBEw46rhaZbCgCtRwNsn1qLd0hX9IK3p67r3RbpCv612/Jb7g/gnX9uKu9FiuMVy7sCCp121IC5OHmwlIxxdSr0pRc3brF0zGv8A8sAtUlaENuKktpJKum2d98/rsdqvhk+CeXGuyoZttuzMV1cm0pZaAypzkAcI9c9qKsnxRtt907pxp28RIrbNwHAjlywtQzvnhA3HTcZG9FLfYKcX6ZDo76k6ZZjpQAl1Ayr2B/3W623i32mzuTEw2jeIbzC2JHMKVnfzBPbYbe6htXI1FvUqxwURVBTK08KUoSAUp/Mo4yf4OTUY1FcpjkhuFIluPphoDLaUq8qfUADbOevqaFHdilcb/S85OprbdU6ped1I5BVJt7b+wSpx9RbBLPECASDtjAz12pFfmbc74XWee3q5/mh5sKs6FI4W1YAKyniznAznvnoN6T6e1u01CnKvOl4c5T9tbgtqUlILS20lIc4SO4wSO5Gc1nc9V6SkeGkCz/TAb1DHLaXJ3w6DzEpI4vOFBW42/wC1plk9Uefwkm7Rl4z21y3QdPcWs39QodRlDSsFLKcnoQdt+x3260Uj8TJ2iJhtH0PbHobgQDK5nGDxb+XfY+/eiuU6vRrwrx2PrfqSIzpKFCamRmZCY/LUpR8yCc9NutVnOitRHMw1rddSoKDoWDk+uMUUVPRoybqzS7KuLmCt90n3Fcy1TVZypZoooZFIGRI5yOYFcOd6KKKRSR//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Bugatti</div>
-                                    <div class="artist">Tiga</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUEBgECAwf/xAArEAABAwMDAwMEAwEAAAAAAAABAgMEAAUREiExBhNBFFFhMnGBkQciobH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHhEAAwEAAgIDAAAAAAAAAAAAAAECEQMhMVEEEkH/2gAMAwEAAhEDEQA/APMbQrt9MIX7p2pZaW4rz0xycpaW9IbTo5yo74/ANNnUen6fiRlbLKd/1VWlOduGEBWNbhUoZ3I4H/DWPN8G2ni7G0W0RblPmptri0RYcdTzi3VDfG5+3t53qbBQkRSyhL3aKco7uMkfGNsZqHDgxh0Wt1px5M+TKLJ0qIT20jJBHnJI/VcelZq/UCEtZLY1KCSOFbA4PPjimcv9Jxa0mdKametLQU41CUjGeOaKyw+Ld1Lb5p+hiShwnHhKgTRS4G5bZt1HL0zG2xsGmtP3JpXeHojka0toaUlTMdbbxKvrXrUQR7c1renO5PUSdqiSO482HJIHp+4QlSRuojBIH4NFPvQ36Gh6jnHppmwORGFRWn0usvlvDrR8jUDg5+au/QPSNxYbnrejMJiTGlNNyXHUlTW+pKtPO+nH5qkLuipqY8TUyiMXQUgNDVtwCR/tW2z/AMhTk2t61rYjIS5/VMhtsBaUA8Z5z8g09PUSlNPoR3qK4I74cQErbcIO/ngj90U0vLqZLkg69YdQFk/PB5+1FIaV4KdGaTNkOKddCANhnyas1qdFuh9ln0zqsrVqdTq3UAMY48CiijKVLGSr2cRNuQcaZbYgLjnPcQhpOgqwBqwTzgeKkSIkm5PJS4WUKSpRPaZCCSTnkfPtRRWb5C+mOS3ClS7I9wt0+EguOgqaAxnbaiiijx02uxsP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Clouds</div>
                                     <div class="artist">BØRNS</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHAv/EAC0QAAIBAwIFAwMEAwAAAAAAAAECEQADBAUhBhIxQVETInEUYZEyUoGhscHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERMf/aAAwDAQACEQMRAD8AVaOU1TTcPPsL7MyyDy9YbrH5kU2xMEmCF8dqt8E6NpmgaNa0v6i9kC25dTeiQZnt0E9q3WEvqgJYx25G7mFH460GZx8FrOGgfZrkmIP+txUjJct7j3j9sgj/AL/mtM2MLyuGJAEggCGU/bvSi6toOE5WuDb3kch8ye39A1NCHIDXJBsK4M9RB/uinf0jgErcLLGwmQaKClpeLZDuqsrOrRcRDJDQDB8GK12jW7rMPp0VAP1FjJ+K4zwrpPFml8RLpiZaXNDRmyLmdd3LKTuGEyXJ7d+sxXbdAU2bPJaHpIWJEj3EfHQUlt6tkedO1bSMrX8/TbV2y2o44BuKGALbbwJkxG+21WL+nLZsgYtmyGLBmW4CRP28VJicNcP4eoPqeDouJZ1N2ZjlJzcxLTzHrEmTVm7eeLhu2ntqilmMSAAJ7ddvFRGd1L1LOL7rardO0TIopXj8VaZxBYN7T3e9jPc9BR6ZDM20mDvAnfpHzRSBdiXbgsoxtoHgcyrvv8xJE/YU+0l73MrXXFvuAWn89z/JoorQf29RFlHEs7IfdMTHn4qjm6jcuOj8xVkMrFFFQZi1p2Hj5Wdkabg2ca7l3PUyGQQGfz9vMDvNFFFB/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Jocelyn Flores
+Explicit content</div>
+                                    <div class="artist">XXXTENTACION</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAIBAwYECP/EACcQAAIBBAEDBAIDAAAAAAAAAAECAwAEESEFEjFBExQiU1FhIzNx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAjH/2gAMAwEAAhEDEQA/APTM0koncK5AzUq0uNyGnmA9Vtbqtz8dd60AxeT7DSs83hzWQuOe5Ky523tri1lkinf0x6cTFVGvkWxgefNa5XBHcVJ01rLyTDJMZ0DOSM7op4tyr/tFDAS8LZk6D8sazWV408zDyh92HkgdiGbI6VHgjef12ya1k/8Aa1USKCKZYxzqJqFYliZivUvX+PNZvnuP5Jr1bqyd5gpysXWECH89t61+q4uZ4HlhyEU/C3KozSfySTOSUTWQq4we3bI33zWzjyFHV3ql6aqw7l0ni2mMcHuQBLgdQB1nzRVtuR6yb80UMwV3SXBuHKRsVzoiqwtz9L0UU0iTHcfS9KyXPiB6KKqAWsdyLqIvEwUNs0UUUMj/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Waste a Moment</div>
+                                    <div class="artist">Kings of Leon</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgDBgIFBwH/xAAyEAABAgQEAwUHBQAAAAAAAAABAgMABAURBhIhMQciQQgTFGFxFTJCUYGRsSNSocHR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgEDBP/EAB4RAAICAgIDAAAAAAAAAAAAAAABAhEDIQQxEhMi/9oADAMBAAIRAxEAPwBqI5zV+LNDo1ZmJCpNvpCStLDrFng6tBKS2cvuKKgAAd7jaLbJzNYmqm53sizJU1HuuOO53nT5IGiB6knyEVGr4DnatWpb2lPsuUCVmETbLDTZbWhaHM4SrfOCQLkkekFtroUUneyah8XcHVZwsmp+BmAbFqdbLRB+ROw+8bDEdekqSy1U5Obk3WnVczYfR+vpug31WB06gW+UR4swTh/F6ke2aQ067lVlmEktujyCkm59DeFq4xYRlOH9YlpOmzLr6JhjxAD9ipvmItcDXb5RZK1o0wuOOV5OhpMPYwpdflQ7TJlDiwbLSrkyC+mYHa/9wQpdG4iyWHajSXJSSaqqPCoE8xMjKnvSbnuzbQpGmY36jbWCJFSr6qzXO+N5v13Q7F8wGXUEbx7luNYwleVrIPgJT9Bt/ESwjkMEtpTbKALQnnaAn01TibV0F5KG5RCWE5j1QjMQPMqJEONCsdqnDFLo0/TapT2VMzVRcfcmeclK1DKc1jsdTtFQZbORYWoiK7TMSsS7YcrEvKonJMFW6G13eAHU5Df0SYI2mDvamBMe4aqNSZXIpmA1NIUv4pdzQn0sTp0gikboetHLMOJ/dZQ/B/ESwQQRh0hYu0NNLxjxPoWEKS0XpmWIQ4SeXM5lUfolCQSf8ggioMixdrHDrbuC6XWJZtIXTHwwSBs0sWt6BQT94IIIqDLs/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Blow</div>
+                                    <div class="artist">Ghinzu</div>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +330,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2023, 02:06:17 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2023, 02:06:20 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
