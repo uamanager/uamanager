@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -296,17 +296,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAIBAwYECP/EACcQAAIBBAEDBAIDAAAAAAAAAAECAwAEESEFEjFBExQiU1FhIzNx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAjH/2gAMAwEAAhEDEQA/APTM0koncK5AzUq0uNyGnmA9Vtbqtz8dd60AxeT7DSs83hzWQuOe5Ky523tri1lkinf0x6cTFVGvkWxgefNa5XBHcVJ01rLyTDJMZ0DOSM7op4tyr/tFDAS8LZk6D8sazWV408zDyh92HkgdiGbI6VHgjef12ya1k/8Aa1USKCKZYxzqJqFYliZivUvX+PNZvnuP5Jr1bqyd5gpysXWECH89t61+q4uZ4HlhyEU/C3KozSfySTOSUTWQq4we3bI33zWzjyFHV3ql6aqw7l0ni2mMcHuQBLgdQB1nzRVtuR6yb80UMwV3SXBuHKRsVzoiqwtz9L0UU0iTHcfS9KyXPiB6KKqAWsdyLqIvEwUNs0UUUMj/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcIAf/EADEQAAIBAwQBAwMBBwUAAAAAAAECAwQFEQAGEiExBxNBIlFhFAgVFiRScaEyQoGC0f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAHREBAAIDAAMBAAAAAAAAAAAAAQACAxEhEjFBE//aAAwDAQACEQMRAD8A0L0y3VQxLcVjhxTtVM0sisMq7kAOwwCFOAOXeD0dPNVc6lJ6gkhKQKVUopZuWPk/3zrE6aSD0w3Ne4IaWStrZQnGJ5CqexgHkpIYn6mwc9Difxpdq2PqFuu41d0rp7dSQwI7U0LmRevp6DMAD8+POkWdBzsq8N22embTXb2tFteqkrbtRxySlQI3qByXivZwpY9n4wDqmb1AtdRJJHbEra5z9XGmpGf7+C2Ouz8fOlCHY22qHLQtVVVQqAov+4kjIPBVCnz4Yn86j+glbFJui5wwIsMbU7cY/JwsilST98Pg46661hyKBohWqVNsc6++7nuwVKLbNSkfEr/OVQiV8jByq96NaBL0pI8DRonAvW0T+h8Jh37RF8oKLd0kUdTLU1z2/wDTPDDgCmGcryJ7JbkxI+Bj76RNs2e8mwXu70aQvSRQLTyS+6A3HKElR57GP86ufVez2u03h2pJI56q4PJUVZ91pMN19OWOQDyJxk/41Vbe3NQ7Y2ZdbVdqmSakuTqFajwzKrKchs/6TgAEY/8AdLEt2PBqBLu3W3cFu2JuiuiucC/u9se3wLTQ4Cnkj5GAQcjz89ao/Te9w2Sa33b9WaWYVTRVZlCn3I2UN0PIGFxnxnGlm/7zopLPPQWOOvVqlOFRPUTg+4n9JRQAT+Tk6j+o44bgiMEaRwzUtI6qOlBMCBv7YORrnbA+tQrJVQ7Ovdu7mtG57e1ZY61KqnDFGwCrIfsykZH/ACO9GufvTOto7L6nyW2hUrRUtE0cs6uSZ3wpLMB15OAPgfnRqumQTsktjR0SadwRVECyVKrA6Z4xSUjTcf8AupA7/AGk3fFTUX2z0/uW+koYopwQVlAaQkY4qD2eu/GNGjUyyiv0iv8AwxKqmReMa4J4zSAcj/Sn3bvx5Om22WZrrXTQ3a30sUFTRvCJwgjFOyjksnwAesEn4OjRoaO7EPR4s8storKHb9O1n9qC6LPIlRJge48ZwVwSe1BH286NGjQ5PcKnCf/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Waste a Moment</div>
-                                    <div class="artist">Kings of Leon</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAQACAgMAAAAAAAAAAAAAAAcECAUGAQID/8QALRAAAQMDAgUCBQUAAAAAAAAAAQIDEQAEBQYSBxMhMUEiYRQVUVJxMjOBkaH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EABkRAAMBAQEAAAAAAAAAAAAAAAABAhEhA//aAAwDAQACEQMRAD8A1frsWkNKXuqLrlWrzFugK28x4kCe8CBXXTVU4eZiyw2BYD7Dwe5pe5yEb0x7pmew8UttpcHhJvpkr4I3o9I1Bji9E8vYqp5qfTt3p28DF2tpwEkJcaJKSR37itjl63xa8GjNpYIYW4bcJS2VLn6gASR0/wB8VIOJGStcphLdbVvcJdQ8Vc14AFU9xA7fipzdN9KVEpcJtSgpViANVbg7kLdSX7a7bS6pCISFqhET0KvECe5qUmuU07fCxyKC4QGHPQ5Mxt946xS2tQ8VjNgPmWOTZG2+Z2gyYyBIb5ZjbAG/b9sD9VT3jTfMOPWrLQQl0p9aEGUiD3BHSCfMCudeXaLtDc/AWMBO43ByKtpP47/xUfzt38Zk33Er3thW1BjpHtPipRPdK+lYsMAUoKVc5xWXb3Fs3t5til6B1l1Qn+qUoNR8A56SkhRT9NxivG5Mft9Y+6lKDD0pSlAH/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Container</div>
-                                    <div class="artist">Therr Maitz</div>
+                                    <div class="name">Scary Love</div>
+                                    <div class="artist">The Neighbourhood</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -317,10 +310,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgEBgMFBwn/xAAqEAABAwMDBAEEAwEAAAAAAAABAgMEAAURBhIhBxMxQVEiMmGBFGKRcv/EABgBAQEBAQEAAAAAAAAAAAAAAAMCAQAE/8QAHBEBAAIDAQEBAAAAAAAAAAAAAQACAxEhEgRR/9oADAMBAAIRAxEAPwBXVZDiuCTk1LgpU8otkhJUCBn5qMclSufdbrTEYOXNhboPaCs+Kmzo3Lx19WAlq6b6fkzmZam2wlTatuduVZPB59fqrHdOidyXa1So4UXDlQQR6phejtptc2zpkqjITLUAFKA+8Dx+66l/Bj9vaWwRQY63bNl5KuFHyzzrsNkct1wu8a7sttvIirQ0H2ULCnTwkDcRg8HGPY+OCU4/Vfp5FvFtku2ttpm5PMqZS4VFAOfR2kEn/aKfbDT8iLxu2p0b/GatNtjrfCDH2/RggeBVK3FK/Nbu03CQhxDMfyryc+qy9VOR8GQq9neeiutLmvXEO3ud6RDCtim2EYSj+xx6FNt6paOiMCxwYKJV2nR2HyoL+lzb+cfmmGYvMF8ILbwKFYwrHFTiDoTvo362zHfDgxQEBR7gIOMlJBHPngYzzRUPVamt0AKb3ud3KFd8thPIycD7v+aKSeeeaqgcnx/tZYjy47yVpPI/NFFbNHXZ0bTWq7Lbmm3rg05MfQoKS1nCePmmo0BrW2a5gKlQWwytCQ27FHKgAMZ49UUVNKguo2XI31uS9W3KNbW7Y9dXoiIUN/uh6UsJ7eCPlKtxwFcZGTjniiiir1DCf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcDBAYCBQj/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMABBEFEiEGMRMiQWEHMlFxgSMzwfDx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQBAwUG/8QAHxEAAgMAAgIDAAAAAAAAAAAAAQIAAxEEMRMhIkFR/9oADAMBAAIRAxEAPwBT28DK3bvVyG3cyY281eS1ZRyDmpooiD5RitZhOfV5NZ2DvEwVSxHNULyMxNt7E1uOjSEvXV7WC8VYmY2753SccbFBBY5+nYc1kL9HllcTRtHKO6EYxSC2g2ms/U1HrC8dbR2Z07RqThc0VcNt4a+IeAOSaKNmUHuUqGYbk28dtaSlTvClsAZBxn71MNDMgBiAcHgbBnn8etLC36ulSHaly23OcNzyKaPwun16e0OvW+nXeqWENysaxwLkuw5Ygd+CV5xik35dqDcjacGp2wnJDb6a0cgeNQZOGRuQ6lSflPp359e1U+oZby7aW+v5ZrmVE275B5iqjgf7zTL16x1CPp59dubSO0tnJlKBgTF34OPX+nFLXVg+qXdt4DSi1vI/EWMD58nuO4FLJbYW8rLkvsqrUeENoi5nvZLhMxFnTJZl9R+PpRTK0nR47A3MUsDoU/enCneB7gZGMeoH3ooGv9wxX6nn2nH0B8UbmDp6y6TSOG0kNrNp9velyqo00itufHuMZ96KKdI0QR3G70z1tpVn0b1F0n1FNEmo2izwRRp+ssq7OMMoIzn6nj2pZRzSyaJongrK8kSSKjRoTkZA/iiioB+BEotG2A/k5297qsV2irZToAc+ZdmfsSMUUUUmUWNBjP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">You and I</div>
-                                    <div class="artist">Delegation</div>
+                                    <div class="name">Dust It Off</div>
+                                    <div class="artist">The Dø</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAwACAwEAAAAAAAAAAAAAAAUGAgQBAwcI/8QALxAAAgEDAwMDAwEJAAAAAAAAAQIDAAQRBRIhMUFRBhMiIzJhgRQVJXFywcLh8f/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQA/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACEQMSITH/2gAMAwEAAhEDEQA/APmq1to5YUO0GQ/anOWplBpMDFi6b3+TlI24QAZP5OB2FY6ICtoJW3luigKWITIyQKfQ6JHJYNei6WTdIywx7QGKknlgDkZ545AyexqCq4SigaxGIbOPAa2jOUD9ex/yzxjzXDaVbl8wja3xcI54YHkfkZHmqm00pxJK0PtbeNiSDcH8/wAvPOKxu7U29nNNCkUEEzrDcFUEuACDuTvjgcZAOOMYpG+ODCAm5Ie7tkihc7VEg+5O60Uw1rDWryoXVujAjaWTJ2kj/ooq1HSBjT01Npi6d/Eluiwj+ibYkEPz1xzVbosKywo0aqYkjDfpjya870lEmsVilQls7k3cZXIzg4q99EeprCGOTS9W2wQFiY5se5tXP2tgZxgHkjp44rOrxNrGsa2X4+uezehuo2C/tFuVA+SCFg34O7waDbG5069uZUVLZInyGPaqL3NFgjaVZLH2HcsD7qgYx0OCT+lSPrH1FbXNjJpmjLFJHv3Tyhtu8MeAuQCR0yceOxzWat+1lqesbu3qUfhJr1SlgbNmsZLuR/aHvG6zu3cY689P9UUo1ndHZe182lIDO3JO0cDPj+1FbuGvWubsTkdt5F9pcRRQplyJV+0gZxTJdWt2ZlkbYxyjPGMBweue+Diiimaj9g1Jm9zZgAi4hP0wnCdhjB/q4610/vGzi+NuxLsQN8i5CDGBjvwKKKBxk5szQuriKWFvqFpT9xI60UUU4ZO2f//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Escape</div>
+                                    <div class="artist">Chinese Man</div>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Dec 2023, 02:05:35 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Dec 2023, 02:06:10 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
