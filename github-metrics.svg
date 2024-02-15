@@ -31,13 +31,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -296,31 +296,32 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYIA//EACwQAAEDAwMCBgICAwAAAAAAAAECAwQABREGEiExQQcTFDJRYSJxgdEVkaH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwQCBf/EABwRAAIDAQEBAQAAAAAAAAAAAAECAAMRITEScf/aAAwDAQACEQMRAD8AQVlscOfa1SpNybiFLhQreMhPGRwOTn+OnepzelbctJAv0QrOCgDGFDr3PHHY9+KyTiVNqUlYKVA4IVwQalWeO3KuDTTq2koJzh1ZQlXPtKh7c9Mngd6qV04Cs5702kkiwgfgnvqKNBjym/8AGub2FtpVgqyoHHOcdD9VVpBUQEgknsK1utNLqtV8hxoiFhqU0go3pxhWAFZ/4SenPxXnftPT9Gz7dJe2FZCX05IwTuPGO/AGf3isspLE5gjUYBQN0zOSYkiNjz2nGwem4Y+f6NFODxMjQ9S6Ph3yxKZU22dzrLY/JHGCkgdCKKFlZU8hrsDDvDL/AEpYoCfFefGnR4so3O3PenadbCwnOCVkEcH3AfWeaW160Re9GtWy5l0rMkujZEUS41sJB3Y7cfrtT4Gj4bms9Oat06+8YjZMeQw8SVNpKVJx8ggnBB/dMF1lLqnG/IZxtKeAOh69RiqzWGk6uQMnLGpNRt6j0LDuC3fLvNtfQyFIG1R3A88diE5475qRqm6J8QrTZocNlqJPhoPmqkZQHFYAIScc85NaDxA8MYrmo0wrMu3WCzxoiHpciXJ9yipeCUk5J6jgAVZXLQzun9FNxJNwjXFyE6ubEcZSUKKVAeY2Sc5BGCKxjEkGFvlRo9i0TBf0Xl4yvUpdG15po/gpOcA8/wBUVm77dxdHCoIU2M5xng44HHziilmz54vk0tX0Nf2dAaF1suE40m7paRbpoCHA2SVof4547Y6/7pnW+b6eSoLdQ7BU3uQ9vyofR+eO9FFWCSqYgNVagYv3j9anIsVFxYivtRkNk/ipQJJVx1CSc/B20xNeTHFXK5JJcMRiGsuE+0rXwAP4FFFJrOlo27xZy3GQwVu+ocWkBCijYM5V2B+s0UUVHsrn/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEDBAUGAgf/xAAzEAACAQMBBQUFCQEAAAAAAAABAgMABBEhBRIxQWEGExRRcTKBobHwIiMkUmJykZLB0f/EABgBAQEBAQEAAAAAAAAAAAAAAAIDAQQA/8QAHxEAAgMAAQUBAAAAAAAAAAAAAAECESEDEhMUMUEy/9oADAMBAAIRAxEAPwDwG3jEz7uSNM8M0lzBJbuFkUYYZVhqHHmDzFcRM6yK0ZxIpyK0Vv4eSANcR52fKfvY+du/5l5gfCruVMUY9WGZNIASwABJOgAFafa3ZOa2tGurOQTwrgtqMhTwPlTUaWuxrVnWRJtqkYyDlYPPHmev8edYpqWIUuKUf1hSXdsbTdjlP4g6smfY6Hr05UUw7FnLEkljkknWilRMWNd4+2qdWOKudnLeKcwtBMuPtIJVORz09KokBZlVQSzHAA1JNayKaHspasqBZdvTLhjxFqp5fu+vWc38KcUU9l6Q73ZaxtoLMXNzGkjNNERlN3TA1GTj6FT9p9mbR7bvtl5Wdge8t2OCeqg/L/axHjLjvGcTyhmOSQxGTT8e1r5GQ+JkbdORvHNT7Lu09OjyIOLi1gXuz5bVwpAb0/5xoqXc7curuPduGVnHBmQNnocj40VeN1pzNRvGV9jeCwUzQAG8OiPjSIeY/V8vXhFEjZLE7zE5JYZJPvooopfQW6SOxI2eC/1FBYsRnHuGKKKaMFFFFFI8f//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Loneliness (Radio Cut)</div>
-                                    <div class="artist">Tomcraft</div>
+                                    <div class="name">Collider (Remaster 2023)</div>
+                                    <div class="artist">Jon Hopkins</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUEBgECAwf/xAArEAABAwMDAwMEAwEAAAAAAAABAgMEAAUREiExBhNBFFFhMnGBkQciobH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHhEAAwEAAgIDAAAAAAAAAAAAAAECEQMhMVEEEkH/2gAMAwEAAhEDEQA/APMbQrt9MIX7p2pZaW4rz0xycpaW9IbTo5yo74/ANNnUen6fiRlbLKd/1VWlOduGEBWNbhUoZ3I4H/DWPN8G2ni7G0W0RblPmptri0RYcdTzi3VDfG5+3t53qbBQkRSyhL3aKco7uMkfGNsZqHDgxh0Wt1px5M+TKLJ0qIT20jJBHnJI/VcelZq/UCEtZLY1KCSOFbA4PPjimcv9Jxa0mdKametLQU41CUjGeOaKyw+Ld1Lb5p+hiShwnHhKgTRS4G5bZt1HL0zG2xsGmtP3JpXeHojka0toaUlTMdbbxKvrXrUQR7c1renO5PUSdqiSO482HJIHp+4QlSRuojBIH4NFPvQ36Gh6jnHppmwORGFRWn0usvlvDrR8jUDg5+au/QPSNxYbnrejMJiTGlNNyXHUlTW+pKtPO+nH5qkLuipqY8TUyiMXQUgNDVtwCR/tW2z/AMhTk2t61rYjIS5/VMhtsBaUA8Z5z8g09PUSlNPoR3qK4I74cQErbcIO/ngj90U0vLqZLkg69YdQFk/PB5+1FIaV4KdGaTNkOKddCANhnyas1qdFuh9ln0zqsrVqdTq3UAMY48CiijKVLGSr2cRNuQcaZbYgLjnPcQhpOgqwBqwTzgeKkSIkm5PJS4WUKSpRPaZCCSTnkfPtRRWb5C+mOS3ClS7I9wt0+EguOgqaAxnbaiiijx02uxsP/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAQACAgMAAAAAAAAAAAAAAAgDBwECBAUG/8QALxAAAQMDAwICCQUAAAAAAAAAAQIDBAAFEQYSIQcxE0EIFCIyM1FhcZFigaGx0f/EABkBAAMAAwAAAAAAAAAAAAAAAAADBAECBf/EACARAAICAQQDAQAAAAAAAAAAAAABAgMRBAUhMRJBUWH/2gAMAwEAAhEDEQA/AKprAsSPEOws7McAg5/utf8AW3WaNI6Tk7mZodlNqQzIZbyhC/ko544/ipd6ZdWrvYNaokz35dxglC21sJewnn3Vc8HB58qDKTbwi4MSuMFj6+yf9rltTwdw4tnbjskHOfzWu9R9W7HaNLO3ZEiPJdbHMdp0blE9gn7jnnyqftL9QX5F+YuHrry9z28slzK1c5KR8zj9qRbd4dLJfo9vepzmSi/X6WZSvXWC4qutqYmLjOxfFGQ277wH1pTk8rKIJRcW0/R5FwgxbjEciz47UmO4MKbcSFJPn2NRl1M6XRNN9QZEKz3BhESW2XvDI+BuVkIxn8fTFWRe5i7fZ5sxtlb62GlOBtHdRAzgVPXR6yytS6ynXW6x3JTaULLy5ScpU6vlIIPcY8vLik3SfEY9s6W3UwanfZ1FdfWT/InQrnaYVidS5ElsOOF15xWWzzkezgbcAY7mt0+iPpazXF+7XuU+zIukV4seqEA+Gg8hzB8lHOD+k1n0P0glt9Z37jMTEXa4Dm5vxoxU1LJGFpSCeNoJwTnkCvlW7NfenPpFNrtVrnuNyJqnGm2srQ/FdWU4J57buSexAJreKTXJNda4zfg+CzgABwOKUpTCUEViajtNJWlptDYWSpWxIGSe5+9KUAAygNpQlICUY2geVdihJWlZSCtOcHHIz3xSlAHelKUAf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Clouds</div>
-                                    <div class="artist">BØRNS</div>
+                                    <div class="name">Sex On Fire</div>
+                                    <div class="artist">Kings of Leon</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEEBgcF/8QAKBAAAgEDAwIFBQAAAAAAAAAAAAECAwQREiExBiITFEFRsTJhcZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEE/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AO4AD4NLMAqq/oO8dsnLxF66e3PtktfAAAADPdV31Szo01rdNSltiOrKTWrPtszQkNJ8pfoEc5jd1qlxXfmI01TWVUcFs2m1t68Yyv5sarpq9ndUWoylUiu6TcHFJNvGE/suD29EMfRHH4JSS4SRJFtSACoAAAAAAAA//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAQACAgMAAAAAAAAAAAAAAAcECAUGAQID/8QALRAAAQMDAgUCBQUAAAAAAAAAAQIDEQAEBQYSBxMhMUEiYRQVUVJxMjOBkaH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EABkRAAMBAQEAAAAAAAAAAAAAAAABAhEhA//aAAwDAQACEQMRAD8A1frsWkNKXuqLrlWrzFugK28x4kCe8CBXXTVU4eZiyw2BYD7Dwe5pe5yEb0x7pmew8UttpcHhJvpkr4I3o9I1Bji9E8vYqp5qfTt3p28DF2tpwEkJcaJKSR37itjl63xa8GjNpYIYW4bcJS2VLn6gASR0/wB8VIOJGStcphLdbVvcJdQ8Vc14AFU9xA7fipzdN9KVEpcJtSgpViANVbg7kLdSX7a7bS6pCISFqhET0KvECe5qUmuU07fCxyKC4QGHPQ5Mxt946xS2tQ8VjNgPmWOTZG2+Z2gyYyBIb5ZjbAG/b9sD9VT3jTfMOPWrLQQl0p9aEGUiD3BHSCfMCudeXaLtDc/AWMBO43ByKtpP47/xUfzt38Zk33Er3thW1BjpHtPipRPdK+lYsMAUoKVc5xWXb3Fs3t5til6B1l1Qn+qUoNR8A56SkhRT9NxivG5Mft9Y+6lKDD0pSlAH/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Angel</div>
-                                    <div class="artist">Joseph of Mercury</div>
+                                    <div class="name">Container</div>
+                                    <div class="artist">Therr Maitz</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwIDBAH/xAAxEAABAwMCBAQEBgMAAAAAAAABAgMEAAURBiESEzFBByJRcRQVFjIlUmFkgYKh0fH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAfEQACAgICAwEAAAAAAAAAAAAAAQIRAyESQSIxUWH/2gAMAwEAAhEDEQA/AKEVHkuRUK+GHKG4cCME+5716i1T1tpcREdKF/acdaklvjqesClD7G2Qon/FPrE38wuUKBEw46rhaZbCgCtRwNsn1qLd0hX9IK3p67r3RbpCv612/Jb7g/gnX9uKu9FiuMVy7sCCp121IC5OHmwlIxxdSr0pRc3brF0zGv8A8sAtUlaENuKktpJKum2d98/rsdqvhk+CeXGuyoZttuzMV1cm0pZaAypzkAcI9c9qKsnxRtt907pxp28RIrbNwHAjlywtQzvnhA3HTcZG9FLfYKcX6ZDo76k6ZZjpQAl1Ayr2B/3W623i32mzuTEw2jeIbzC2JHMKVnfzBPbYbe6htXI1FvUqxwURVBTK08KUoSAUp/Mo4yf4OTUY1FcpjkhuFIluPphoDLaUq8qfUADbOevqaFHdilcb/S85OprbdU6ped1I5BVJt7b+wSpx9RbBLPECASDtjAz12pFfmbc74XWee3q5/mh5sKs6FI4W1YAKyniznAznvnoN6T6e1u01CnKvOl4c5T9tbgtqUlILS20lIc4SO4wSO5Gc1nc9V6SkeGkCz/TAb1DHLaXJ3w6DzEpI4vOFBW42/wC1plk9Uefwkm7Rl4z21y3QdPcWs39QodRlDSsFLKcnoQdt+x3260Uj8TJ2iJhtH0PbHobgQDK5nGDxb+XfY+/eiuU6vRrwrx2PrfqSIzpKFCamRmZCY/LUpR8yCc9NutVnOitRHMw1rddSoKDoWDk+uMUUVPRoybqzS7KuLmCt90n3Fcy1TVZypZoooZFIGRI5yOYFcOd6KKKRSR//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcEBQYBAgP/xAAqEAABBAECBgEEAwEAAAAAAAABAgMEEQAFEgYTITFBURQyQmFxIoGRU//EABoBAAICAwAAAAAAAAAAAAAAAAMEAAIBBQf/xAAhEQACAgIBBAMAAAAAAAAAAAAAAQIRAyExBBITQRQiUf/aAAwDAQACEQMRAD8AZGstcUK1cr0p+KnTjtHLcA3jtuIJH7Avz17ZTvTOI0SHw/rmlRkshtTre5oqZso3BRIoAjeQSB4Fet7if12PATxrrksOymNRS42k7VilpUkJA2KAChYAPUj36znfSVluLS0vw3E9extfKj2QH2+lfcPPbOfkM/8AVH+5l9PC24S2EuNPKK0p6ApSkAKKQBf8f6seslob1Bctx51CozbQCdodSpKz7rbfnvYwEsKT5L9xoUqCgCkgj2DhldBlKE4QgwssBgOofskKO4gpJPmqPezeGBlGnstZZYrOJIUwcRzBOcjCJKeCoiHBuNgpTYo2jr9wr8408XvFeqtxeONHjoWPkLbdaSzuCuYpa07QU90i0/UenjGuhbU2or0DyVRP4cUXYDbRIaeS7yyFWqlJ3Dv56eTk5+ZLStxnmMcrdQcHagTuNHyCMo4ephnUFNofZ28rq5ZUN6AhKj0HWju9g5PVLbkQXFrfSVqjuLFGrTtVagCbq/8AMLOD7ra5MJ6L6K3JGpNrZdSNM5FJZ6fXuPWqvtXmvxhnSDBYkzousNvOX8floRVJKSSb9+cMQytJ0ERb5kNf4blT9f02e0oqREU8ulvUbWUikiqAoEf3hhl8ORwlcSSSa2Z6Hwfr+n8WK1mA1p4SLCYq3lcuiKPWrvzddz2zx1XhPjCfIjvIGkRTHjGMhDDignaQQT1Hm6/WGGN/OyL7Ur4B+NDK0Zl6NpMNmUGw+20lLgbNp3Ada/GGGGIvbbYVH//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Bugatti</div>
-                                    <div class="artist">Tiga</div>
+                                    <div class="name">When You Die
+Explicit content</div>
+                                    <div class="artist">MGMT</div>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +330,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Feb 2024, 02:05:53 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Feb 2024, 02:05:51 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
