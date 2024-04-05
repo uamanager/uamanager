@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            892 Commits
+                            907 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -296,17 +296,18 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHQAAAgEFAQEAAAAAAAAAAAAAAAYDAQIEBQcICf/EAC0QAAEDAwMDAgQHAAAAAAAAAAECAwQABRESIUEGEzEHYRRRcaEVIiNSgZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgEA/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAEREiH/2gAMAwEAAhEDEQA/AO5XLpWBOt8mI63pbkNqaUU+cEUtRfTVqLAmsFxDne1aFgaVIB1ePfcb+1PnUcp2BYbhLiIC5DDKnG0qSSCoDbYbmk/p3qmTerVe3bnFSx+HJUrLeRrA1nOD4OEfehSmvD3VFml2fquVab8XIrzDhSpx5Gpek7pUrG6sgg5ydjWturzUp/4htX6jiQpxAZS2Er8EAJ2x/FNc2/udZeoTN0vimXm33CXEuIISltAITrCfOEpBODkgUp3RK2p0plRbPbdUjLacJGCfHyG39UpUzxhrABAA433zvRVFbknAFFVH03dnMpTkFR52FI3XHV1rjwJUMuFcqRHcShttY1ZKSATv4ya4pN9YJVwT2Ly3EYtzhCXERwVOFPOCo4/ytXf7x0Tc4MpqG6+iW8UoYec1o0ZUMqKASnAAI880Llvh83HG5Fhm2+4tszop/IpPcTnAKdiRqHtyPnV93tK2bULnnsRXZK248dZJOAcnHOACBk4zW4uYZj3B6NGcMmAytaWytwgLHjUBxn7iobrdplwtTke5ylPsF3vJBGMO+CvbYnTtvx9BS6wcpYYhvuxX5DbZU2yBrP7QeaKsdQhKiEk44zRV1GW9JK0DUTn61VEjSjKcUUUG1A9McXycVCuQtScFRxRRSkZESSaKKKrP/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcIA//EACwQAAEDAwMDAgYDAQAAAAAAAAECAwQABREGITESE0EiUQcyYXGBsRRSocH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAwUGAf/EACMRAAICAgEEAgMAAAAAAAAAAAECAwQAETEFEiFBEyIjgbH/2gAMAwEAAhEDEQA/AOf3VPLWEtKQCfPcSP2dqe9F2VF2uMSNKmNxmXSoOvelXbwknJGd+KXokNHQlJi94dRSPmPqPPB9hTlpZqHMkSIJDSZiWie1k9QCR9az1qcKuwOOc20cZG+4+TjcPhu0nt9N4Q+SpCVhltKsEgdWPXvgn7kAkCk6/WR22y34zoyW1EJWOFpzsoY8Eb1sFjtNrhaegvKiNrfdUlKir+ucmo+toUYykISylIUg529s0Wy3ZGsijnK6j1QS2nrE7K84j6As9vfbEi+To8CCjl191LYKvYE+aKnX6zRJnw+diuslwhZU0E/N1AHcfX90UevWitqZXcjzxjZ3m7/x8Yq6ZtimIs25uqUgJCnEdB3wAT7eR7VVRpdxemRpXSksTnA60cqbKyPTupOFZ3PnHuK1yG1p2721yFJim3wpTSUBxt8lxBUNscj/AJWO6kmybFc51hjpefati+4yp5CEOJSAD1KIG/38in14XYszeSf5nZ5vRGhnRUi3C3aRYQ8+9IlxIwU4tQ6is7AgdIwCDgccc8VVMRndRLYcX0ZW13MrBARvjG/nIpA0F8Sv5Fp7V/MiUwt0sKSFgJCCAQVH5jvnyPGKv5OtrDKuKrRBZREZJSiP2lOHuHznkJ34ol2OWRREfXrBVOnRwzPajX7PyfWQ9ZOIttrjImyHYrKH1JcUysIXxwk49/8AKKtZ8SDqKEqHdIYcht7JBWRvvkgg5oqClbrVo/jnOmBOLsQyu+0GKVnmKcucuUmTHCX8FtTygAggbEpO9KOpblqOZqWa83Dgygs9sPmK2Q4AMZzgcgCiinxWXiY9uX0/TIbA0+/1njYIl0Zgy2pjLTSuorZSEJ6erBH4HFWEJm4RLrGlJci5bAUpXaAJOdxxnjO9FFQPckdjvXnHVulQRoANnWNcHULltefdjBHU/guhQyFYzjb80UUUP4g3k49qUDHZUZ//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lit Me Up</div>
-                                    <div class="artist">Brand New</div>
+                                    <div class="name">Wait</div>
+                                    <div class="artist">M83</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgD/8QAKxAAAQMDAwIFBAMAAAAAAAAAAQIDBAAFEQYSITFRE0FhcYEHFCJCFSPB/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwQFAQL/xAAcEQACAwEBAQEAAAAAAAAAAAAAAQIRIQMSE0H/2gAMAwEAAhEDEQA/AEyNpQR3A42V9uDTpZ9MwLoG4cxCkPKQf7AM57ZFMEKHHcSkqUd3tRquRJ05pmXdLVFVJmo2obISV+GD1WQPID471bNurM6Ft0henfSxiK+tC0KKM/ioDhVRq9IQ4YWAkJIyOma4W1rVF4sybqvUE9U1buUI8F9QCtuQM42j4BFXlpC2xJNjt8qUw05JfioU6spyFKKQVenWij1Usso6cZQpsy/qGztodXtycdeKK0HqP6Z2ufJdcjvvMpX+qACAfTPlRSfRL9C8sTrdcVrABFOluC59ukRDnY+0ptR9CMUjNWKfDUkoIc9jU393K+xUxFcZDoG1QcBKT5HIB5rvWaUTxzg3LCoY2sb3b478Fi4Pl1DRhI2ObkeHkjA7nPRXX1xWotOSUjTduKnS8rwEblkYOdozn1zxSFp3ROnLfEVqP+MCpLRKsLdKgl7yATnHUj/K6R3n2kF190FxXJCePg9/eoOcqbw0e69RW6O9ymMNoUQsDP6jzoqubnc1syOhWCNyTnqKKqUU9RFbWMsSRbUNMuLQ0QEgqycEVSbDzzF/fbyQkIUruCdw5ooo5OxoKhrh3RxdhchhwjMkOqGOoCSMenODUTclSHmHvBcCQn8t2egHJ49+PmiijEGKzxUS4bZKApTfGcUUUUkXhPNaf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQI/8QAMBAAAgEDAwMCBAQHAAAAAAAAAQIDBAURAAYhEhMxB0EUIlFhIzJCkRUWM1JxgeH/xAAZAQADAQEBAAAAAAAAAAAAAAAEBQYCAwf/xAAnEQABBAECBQQDAAAAAAAAAAABAgMEEQAFIRITMUFxBhRRYaHw8f/aAAwDAQACEQMRAD8Al/pf6U1W5qRLneYqqKx1iyRwVdJPEWilVsdTxscleGXjnPPjVQtHphtCxSVFStHNc43pWj6a2VZUwfLgKq4OPBB49tKPpfseO6bLld941jUE8349vtrFEVsDiRmwQSPIC448nzqnVMUdHbEoKOFe3DCtPChUtlQMAcD6f90AZaTJTHCt73/uDaqy6iCXm7BsAV58fGcW0LXt+pttTQHbdnSlhKsI/hhJ1ZGMsz5Ynjzn30xvtSyV21LhYKa20FDQVUbkJHEoxOy4WVc/qGByMYA1i2S3XCggqKiktzVEjr0kKQuAMknnz+2um1VNyq6yM1VOaWmjkLESE9xscAeOB9+fGnmsS4jTS0x6utvOJtJ0vVJkpLtnl97NXX11/GSk+jxr7AK66U8W0Y7RTsldUPM1Wap48dUwjA+UHnBDEHgAe+jTXv8Alue6qC70dqrIFJg6aaCeoSHugFe509ZAJ6eo58gaNI4a3n2+Nw14yynxEw3A2TZqz9Ynel+7ajaG25LZW2hp4KmJ7hG8GFcgKSS5J+bhRjgED3PjVO2PvCC7KtZb43pKmeR6SCKpUZkbp6kYfbke+NLNHQ0NPUJDXRrTLGqLEVYMgUKUwWA44JGDjI9zrVscEHwaQiNUAgXEiHDcMwGD5/RkY1r2Db7vNApXzkqn1QppBbKbScZLpcNyfy1SQRYFySbpqlpUXuAZ/t5AJB9xpS3Fuo/xF7TcjPTilgQVNS1MxVRjPU7AEZ5xgfTH2047dZ7tRBKaCsiq5VXvSAlEhkUkNIXBDEnH5STnA+51sX/aVILX2YUedkjbPeIYyjHAPH1x/nJ1zeSgpLaspG5L8Wn4w4iB3/eueXfV2WK4zwVNtqYZLJTAR0rGIxtMxwZGXPLgED5sAe3tyad9+7cpKySeWrVoTTQI86qnVIy+0UQ8KM/TnOjXdhaEoCU9BidvV/dW65fETvmvRV/xdtlqVDfAKSklRGPlfHGEzyxPgew07RbJkgs6VVuDR1KDr7cr/hP1Z+UADgqOMjjJ8HRo1t5ZaCSnFuiwmXlupWLA2xqtlbdEkt8dLR5p3VFm75/puMhstkc5GfHOtysT8A9xwVJABzghec8+3A0aNAOGzeWDYoAZONxRvBea89oSEsroAcflQfL/AL5/fRo0aCZKrVv3zzuc2kyXBXQnP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Howling</div>
-                                    <div class="artist">RY X</div>
+                                    <div class="name">Goodie Bag
+Explicit content</div>
+                                    <div class="artist">Still Woozy</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -317,10 +318,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAQFBgcBAwgC/8QALhAAAQMDAgMGBgMAAAAAAAAAAQIDBAAFEQYhEhMxByJBYXGBFBUjQlGRQ1Kh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQMAAgQF/8QAHxEAAQMEAwEAAAAAAAAAAAAAAQACEQMEIUESEzEi/9oADAMBAAIRAxEAPwDm6iipjYtHNS4LL9zmriLfTzkIDYIQwFJBWsk7Z4hwjG/XOBSqlVtMS5MYwvMBQ8gcOcKx+cbZrFWY/ZGtQOpeeUbVpmAgphsBA5rgO+VHpxrxkk5I2AGAKbtZ2y2i5rXBiyneJpGExmilpAS2AcbZV0yScePrWdt4wu4bTTbOA5aUEopTLVCUhJhpkIV9wcUFD1BAB9se9FawZykERtJgCSAMknoK6CssC2xLPZYWo3QiX8KlCo+Ctx0IB7qUgHYdDnbKfKqt7LYNvkalZk3aUhiNFUlaeNJUFOE4TnA6A7+1LdVaubX2it323th2NDc5LLLn8qE7EnPTi3/dcy7Drh/S3QmVsoRSb2O2rU15qS0K0oPk6ktrDiRy20lK043Pc8Tvnfaqn+b3mbdm342p1My2SC0Jj5ZIWPtye6D64FNc7WNwn2U26WG3Uoe50d8j6rAxjgCh1TgDb8imd+4uvwvhn2oy8EFLxaHNT5cQ6j1z5ULWxNIZRrXIf4lWq5MqVennLlFYj3DAEjkJSlK1/wB8J7uSMZxsTv40U0eFFdRvyIWI5MrfBmSIEtqTDeUy+2oKStPUGsSpLkuU4/JUVOOEqUoDqTuT+6KKEDlMZRk+aWvuePF/leTjJxnFFFWVUUUUVFF//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEDBAUGAgf/xAAzEAACAQMBBQUFCQEAAAAAAAABAgMABBEhBRIxQWEGExRRcTKBobHwIiMkUmJykZLB0f/EABgBAQEBAQEAAAAAAAAAAAAAAAIDAQQA/8QAHxEAAgMAAQUBAAAAAAAAAAAAAAECESEDEhMUMUEy/9oADAMBAAIRAxEAPwDwG3jEz7uSNM8M0lzBJbuFkUYYZVhqHHmDzFcRM6yK0ZxIpyK0Vv4eSANcR52fKfvY+du/5l5gfCruVMUY9WGZNIASwABJOgAFafa3ZOa2tGurOQTwrgtqMhTwPlTUaWuxrVnWRJtqkYyDlYPPHmev8edYpqWIUuKUf1hSXdsbTdjlP4g6smfY6Hr05UUw7FnLEkljkknWilRMWNd4+2qdWOKudnLeKcwtBMuPtIJVORz09KokBZlVQSzHAA1JNayKaHspasqBZdvTLhjxFqp5fu+vWc38KcUU9l6Q73ZaxtoLMXNzGkjNNERlN3TA1GTj6FT9p9mbR7bvtl5Wdge8t2OCeqg/L/axHjLjvGcTyhmOSQxGTT8e1r5GQ+JkbdORvHNT7Lu09OjyIOLi1gXuz5bVwpAb0/5xoqXc7curuPduGVnHBmQNnocj40VeN1pzNRvGV9jeCwUzQAG8OiPjSIeY/V8vXhFEjZLE7zE5JYZJPvooopfQW6SOxI2eC/1FBYsRnHuGKKKaMFFFFFI8f//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Slowly</div>
-                                    <div class="artist">Son Lux</div>
+                                    <div class="name">Collider (Remaster 2023)</div>
+                                    <div class="artist">Jon Hopkins</div>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +330,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Apr 2024, 03:06:59 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Apr 2024, 03:06:09 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
