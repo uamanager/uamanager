@@ -35,9 +35,9 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -296,17 +296,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEEBgcF/8QAKBAAAgEDAwIFBQAAAAAAAAAAAAECAwQREiExBiITFEFRsTJhcZGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEE/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AO4AD4NLMAqq/oO8dsnLxF66e3PtktfAAAADPdV31Szo01rdNSltiOrKTWrPtszQkNJ8pfoEc5jd1qlxXfmI01TWVUcFs2m1t68Yyv5sarpq9ndUWoylUiu6TcHFJNvGE/suD29EMfRHH4JSS4SRJFtSACoAAAAAAAA//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBAYFCP/EADAQAAECBQIFAgQHAQAAAAAAAAECAwAEBRESITEGEzJRYSJBBxVxgRQjkaGxwfDx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFGs6p6ekdI/nzEapB6oLDcq0t172CRcxK4b4a39IHTb/fWO5wNJfMeI2WvUlDSStQbWUlXfUH7QGwozaaPwiplTTi+IZVpSZcYKSooWq4tbcJJJ8Rg6tPTtSnjMVNalzJSlJKk4mw20tDpk5d+cdmJeYAcclHMpSYXrkk3BSr30ItfsQYVXHJfVxVOGZSEuemyQLYjEACA4bW6r4dJ6hf8ATzBEjJKSvW10kbX/AOfWCAqugkoyK+gWz7ePEXKBVpuj1RT8iqXQ8G8gXhodbW3Ft4oOXSU3SRdIO946nC6m/nstzW0rKvSMgDY7+8A1+Eqo/UH6bUXVhlqcSsuNo1b5q7aD3Govr3jhfGSUYRUafNtJCXX0LSvyE2sf3jR1evUWk1BUhUiJfmSyXsW2TbH2UCBa4UFbd4xfxM4kpVdXTRSZn8RyEr5isCmxONtx4MBkmL/mY59Bvh28+IIhaUDlikmySd7QQFRyxxslI9I6f78xNS5kStUlHVapQ4CfpfWCCA9CtykvVKbKLmGJd5DQssqbC1LSNUpBI2N4X/xS4bkpOnylVpsozLKK+VMJZTik31Sbbbgj7wQQC4Se4B0ggggP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Angel</div>
-                                    <div class="artist">Joseph of Mercury</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAUGAQQCAwf/xAAuEAACAQMDAgUDAwUAAAAAAAABAgMEBREABiESMRMiQVFxFDJhBxUjQlJigZH/xAAZAQACAwEAAAAAAAAAAAAAAAADBAECBQD/xAAhEQACAgICAgMBAAAAAAAAAAABAgARAxIEIRORFCIxQf/aAAwDAQACEQMRAD8AQbhs1TT2K11MxdmpoKinjjVcgOsuATxkA5b/AGF99eh094rhZqOppqMzH9tiFJiIs0siNh4jjt1EgA8YwTqO31uW30dHbKmeZ2Mn1Un08R8xLyZQEduy5/HGnG1N73U2e3SUO2Z5KIxsB0ycLh2Ger5ydZeRWKUF6j6kX+9zY3teK+5QWy00MbOzqk1V/C3nfpBAxjgDJONLK+skj2/QWpoOqvpm8WoTwjhncgdIx6qo59M/jWxcN7NR3S8XKlonM9OzP0SuvnRnVAUAOTwR6ahXo79X3NpJp69HqZ2hhAJiTqJOAx7dvYH50VMZRdWFCCY21CNLTaJbxcqOjxJJHh2kPglFYKASFJGR3xz7dtGqv9J9uXi13WplusaU/VCyrH4vW0nIy5I478aNJ8jk6PqnYhGxEGjE+5tjU0+8bPHeJ5jE0BWM08YMQZTk9TMe2PTHIB50y3Tt91hWafclDDQeGUKtAuG82MRrnAAU+gznVCtRFb6q4yXkJdFgcRwRiISeOJAfKg4GPt+NFXNZrdt2nqZ9vUviwlhHEsYKxK/m7nj5PuNF4+bJ59SLUSHxsR9DRPupN7FsW3qaaGopqapucYcF3EZVDjz9jjq+3tkj8dtOpq+3T1MlFX0d5pusfyVxnWIIO5CsBhfgEfnW/YnuVdZbrUXQLQQSIkNLTwswKBmBJJGMEgdhggfOk1Xs20XB4A8FPUvMemRuqUOjE4HmLHJxzp9vExO5iy4zjcE91HVsjpLXcJaa0tPK8cyU0c8tV4iFHIdgOc9h3IyM6NKt5WdaG7SU9DPJ0t0yMWIXHsBgD098nPro1mfHFk37jJeYsNzuVRBLT2ekSaeGaPpnGC8aMD14zkH7Exnn20zvcV2rZvE/ZUneklljd4mZkV15RhGTgE8HOP6vTGjRpoUGFCcWM4TXG4RWm1UtRRhXMjPOxbLkgAH1/uDrn/Htzrvt7XStqrKZaJIWSnWWSPOTkSkfdnABBByRo0asQB1UgmSN4vFXWSXKW4WxIj9SqyVHWcxDBAUDnI4985H/AA0aNWYKf5KXP//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Let Me Down Easy</div>
-                                    <div class="artist">Max Frost</div>
+                                    <div class="name">Save Me</div>
+                                    <div class="artist">Kadebostany</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -317,10 +310,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBAEGBwP/xAAuEAABAwMDAwMCBgMAAAAAAAABAgMEAAURBhIhEzFBByJRFKEjMmFxkcFSgfD/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwBzdfUy/wAS3SZbsqI02yvaQlgble7HG44zipjW2onYYls3pl5lWCC3Hb2kZwcHH/Yrk+pS5dmuj9LKZQpe4dRBGFEjwDgnx/vNNrBKNr063bPppDiwFe9QAG4kngZ7Z4+9SK2G9+plzttweiTb/OS4lKVfhMoxyD2wP2P2pXqX1C1NHjWx+33eW6xNbUslaikp4AHCTx3z+9Kbva4+pJQkPMORnNuwE4SVE8JycHyCKs3DSzNytttjpu0SO3DSUtrLiipQUARnCD4BPFIKli9Q75eWZEQTLq9dSVJZ6ctYb7YyolXAHeinOntCRbfcGri3qm1gpyFJXIUgKTgH3fhjPtOeeM8+KKoQa5nyYlytKmWTIjtL6qkAd1g45xyODTV+LMkMsCO6hqeULdUTyArCRtGe3xTO63BiLbXZ8tmBHaQ4pspaiIyr3EY7eQBSuDMYukGVIYCFBlSCoBGzO4Ankfqf5TUCty46rjxH1Bgu9J5KVBTQzjaCdoHcZByRnvWb1Pkr0VKuJQqPLUd5bbTzuJA288/3V6YqNEuLUaTKeZLjSnC51VJSkJOfnuVc1OZHZiHc5MeQwlvqqcU6eMee/wAnNBceQl2z5UN5cbTlRABO7HwP1orXrY9DuVrVMVPfQ2lRbUhD5ISc4SP457eaKo6JcNC6huFnkQHrE6Q6srClON+0k5/y7j+6hafTfUMC2yIjFm2ddKNyzIb/ADJSAT+b5H3ooqDxu/pLfbvJRIftwafQAErEpvt3x3Pk1avnpRqS8QFxlNsMBSNm7rpJ4KSPuKKKCtpr0SvVlLim1RXFrzyt/juMHaBwceRRRRQf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBAMCB//EACwQAAEDBAEDAQkAAwAAAAAAAAECAwQABREhEgYTMUEHFCIyUWFxgZGCobH/xAAZAQACAwEAAAAAAAAAAAAAAAADBQIEBgD/xAAjEQACAgEEAQUBAAAAAAAAAAABAgADBBESITETBUJhcZHR/9oADAMBAAIRAxEAPwC66atL92t7kBCmFe7kuFxxSsZWFDQHnBHn1FU73TtwW5ke4BHjjheMcCnGPpsH/EUo9mziGo94dLqmx2EYWN8TlQBAP3+uqT3PqDqFq+2ZrstPyWkKDaxlSl8sJUpQBAOARisvSUFal+zNE3laxlTgCNgymQ/Ft7s22uSmSI7fLuhRWjZwfQ5/vjdM09NzkrZWEWvm2rlyDagVHGNkb87pVZbmuRfIxnx1x7z38mMpHwpQrhyWdaJCSRvVVlouD4myF3mQzG7iQW46lce2kE7Ofrr91YVF90A1zjXbIjqm3vwWhDX7u0iUQ7loqAQpH58A52fTGaKae1fih+2nl8RQ5x++SmilGcz1W7U6jHBVb697jn6mboFlDsbqFp4qADSQfQpI5H/tTAlyYt6akMOoKorHZyrZwSfP3PEH+VQdPyxGHUTXcQhbyCkE+d8hnA/NfP5lyfV22HOxKfRpDuCTs+CDgg6GsapjjYtuVQDX2BFmV6nTh3HzdMf5KqFcJMnq6HLefKXX5LbZ4OZb4cR8OPP2IIxn1p5er3GuU2Qh5h1DTXJPIoB5qQriVEjOEg/jNSPFtTDqsGLLbSkpJB45Gtk+Mk/0axVNcERLpOtk6PDQQGiiQn5UhWik6+Y59P7REdmQK4007hhWEs3969Tl1fLE5u0NJDiuyFNpLicKVjAGvrqisN2kldwtkZ1Si8w6E81D5kk6/eNH7iik2dYwtjKhgqbV4maw3tttya9KQ4oKICu0kBWfOMH817uE+yzApQtMtqQhXwu/Bs+N4wSP9/uiiraXPU+xDoJy4VNyguNeZ2Yu9pUe/c7S/LccCApKQEgcRrIzvdaYvU9ujx1NC2TOznKShYGs4CSnJ2NbooqT5LhSfmSbCqBA5/Yo6huUdyZFlsNPpPLkO4QpRUPA/GBRRRQ0pW9Q7jmSWsISBP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lit Up</div>
-                                    <div class="artist">The Bamboos</div>
+                                    <div class="name">Life Itself</div>
+                                    <div class="artist">Glass Animals</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAQACAgMAAAAAAAAAAAAAAAcECAUGAQID/8QALRAAAQMDAgUCBQUAAAAAAAAAAQIDEQAEBQYSBxMhMUEiYRQVUVJxMjOBkaH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EABkRAAMBAQEAAAAAAAAAAAAAAAABAhEhA//aAAwDAQACEQMRAD8A1frsWkNKXuqLrlWrzFugK28x4kCe8CBXXTVU4eZiyw2BZD7Dwe5pe5yEb0x7pmew8UttpcHhJvpkr4I3o9I1Bji9E8vYqp5qjTt3p285F2tpwEkJcaJKSR37itjl63xa8GjNpYIYW4bcJS2VLn6gASR0/wB8VIOJGStcphLdbVvcJdQ8Vc14AFU9xA7fipzdN9KVEpcJtSgpViANVbg7kLdSX7a7bS6pCISFqhET0KvECe5qUmuU07fCxyKC4QGHPQ5Mxt946xS2tQ8VjNgPmWPTYm2+Z2gyYyEhvYY2wBv2/bA/VU9403zDj1qy0EJeKfWhsykQe4jpBPmBXOurtF2ZuTYWO0J3G4OSVtJ/Hf8Aio/nbv4zJvuJXvbCtqDHSPafFSie6V9KxYYApQUq5zisu3uLZvbzbFL0DrLqhP8AVKUGo+Ac9JSQop+m4xXjcmP2+sfdSlBh6UpSgD//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Container</div>
+                                    <div class="artist">Therr Maitz</div>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2024, 03:06:26 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jun 2024, 03:06:14 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
