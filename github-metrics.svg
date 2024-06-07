@@ -32,16 +32,16 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -296,24 +296,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDCAT/xAAwEAACAQIFAgQEBgMAAAAAAAABAgMEEQAFBhIhEzEHQVFxIjJhkRQVI0JSoTOBwf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AGL8e4iy7bcG/n7YqefwmSoVP5Tj+2t/3FvGFtrHUop69oqFAZKeXc0jjjcD2A9/PAWfxP1bLpmipoKDYK+qJ2NILqqr3PvcgYVdL4gaho80SeorlqV22aOThTxe1vL3xo8RtQ1OoXoqurp16NMu3ZHGW+bliTfjkDGuj0/PV5askVLFO4QOsSSDftbkHbe9rfTAP3TmdUuf5XBWUbfOl3j84z2IP+/vgxF+GGTSZPpaEVG3r1R6zqpuF4AA+w++DAS27lu3GEdq1ZHzbM1ijd2NQ/Ci/wC7DvI/ycnthCa0zavXOc0hkrJr9eT8PDG3TWMAkBm22ufQHv3P1DwZNntXT19ZQZZGkryIIZt97rzZgB3J9u2G/kE+RagzSmiWmpEzGEbHLLZ0VAAUU/uNjbgnjHPWUU6/mkFfORUlpFd1qD8L+oa3OJmLUGYpnEOYRSJFJBfphEVVjX+KKBZffv74DrFEWPakahEXhVHAAwYUOi/E6omzagy7M4jUQ1Z2RVa2DbvRl9fLjvxYc4MFpjkXUgDk45Y15mTQ6vzl3UuTUyr39HIH9YMGCMdMfr0TVGxJTA/UIYEq6ixYEDsLX5+uL5Bp+jz6eLMmJFI4RGhjHTQIq2Coe/kOLevODBgKSlZBlmcP0Y2mpKeoSdVZrE7HuObDuBbsMGDBgP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQEBAAMAAAAAAAAAAAAAAAUHBAECBv/EACoQAAEDAwMDAwQDAAAAAAAAAAECAwQABRESEyExQVEGFGEiMoGRByNx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAeEQEAAgICAwEAAAAAAAAAAAABAAIDERIxEyFBUf/aAAwDAQACEQMRAD8Aw+um3e2EtCp7brkVOS4logKIx2J464rmqvZ2GHW1iSytSyle1o4OrQdIVnqkkdeoI+aGNUbOie27Yds5jTivbwP7B9+ev+YqfOEdcp1dvbdREzlCXFalJHA5I4619Y1/HlyU3dpMh5mNAgR/cb7nO6C2HEAAdyCPgGoGwuLaMy0lkvo3GQRy4CRj8cE/qkLHyMVbCsk0pSnk4q76NkS2b/E9nLXGKVbhKV4yE/URg8Hp0NQqqel50e3X+HJnIUuIF6XtA+oIUClRTnuAcj5rE2ajUdWGagm2T7lZ2odkvezMeeW9J33MNnAASlGAfHfxmsjuLb7M11uUoreQopKtWrOPB7itcklpmI7OtspgQHUuoYyMltSeUuHAAyRxn91nHqeDJjylKlLQspA1OBf3KPOAO+PI4qVV5aOp0s+DH4HIurfkhUpSrTlxXkHCgcA47GlKIS1J9T3JxpLTPtozQ40NMgDT456fjn5rgudxfuLyVvlICBpQhI4SPilKzidyjmvavFfROOlKVsnP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Praying</div>
-                                    <div class="artist">Tom Grennan</div>
+                                    <div class="name">Genghis Khan</div>
+                                    <div class="artist">Miike Snow</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAABgAHBQME/8QANRAAAgECBAMFBgQHAAAAAAAAAQIDABEEBRIhEzFBBgciMlEjQmFxgbEUFSTRM0NigqHB8P/EABkBAAIDAQAAAAAAAAAAAAAAAAEEAgMFAP/EACERAAEEAgICAwAAAAAAAAAAAAEAAgMEETESISKRMjNx/9oADAMBAAIRAxEAPwDT51w4QCLWWuo1X25jpah2TWfCygW9pjMQbWB1HiknbryBsTbYFjYWLbH4UwQq1j/EQcv6h8KD9m2LZcgKli8spVdJYsOITsp8wv8AJBzNzRs9uXVD49qzkB8oxNiSjIWDF9nOtbsL7v8AFzYHkBagSx+Of12+1aNmq6sqxjCzEqAzAa7nUPNJyY/BdhQUR+1m29PtUYtKcu0q7qYmmySdd2bWp3cMT4fUc6q63cypjy7MEVF2dDumm3m6dKqbbLxGEk+DkcpR2zjzdcZOcCp/Cl0WEao9AOkevi1B999rVnGVDFjB4cYVQ8EhLcKwZmNybsoOph87D0Fajmc2Lkig46si8VDuLdf2+lZv2ekCdnsMpmh0OpJWTE8Nee90jGo/3G9ISx4d2Vt1744ACNvpe2cfjzg2ErShVi8UbyR6gbj3F8o/zRJBJx5OXS9NsU0X5PiUh4NtBb2WEaNfMPebc/WiKL+ol5+7/ujGzraMl/v62+kz7nJ48NhseqoXgIS0gcMFIL8yTc+m17VV8fdm4OHxwisENttGnkzdKqeihy3axblzMmQ0D8TrM1lheETSfzFtv/370C7LTMnZrLrYl94dQRMfFF19NNx9TVVS1j5K+qMMXQzNJlyrEvKMWVeK4aXFCZfMPTkaEo/6qX5L1+dVVCPSsk2Et7oIWxk2YRvriZRf2jazbWd7jp9hVVVTDXkDASr4WuOSv//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAQQHCP/EADAQAAEDAwMCBAUDBQAAAAAAAAECAwQABREGEiExQQcTImEVI0JRoQgUJDIzgZHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIEBf/EAB4RAAICAwEBAQEAAAAAAAAAAAECAAMREiEEIjFB/9oADAMBAAIRAxEAPwDzRFhKkf3FhAA4zWXWW9pQCU9eV/joOpNWzel31PPNpYWg+rAX/UnH3z0qYl215E11LaPMAST8s7wBjJJweg96hLdjyb7POtagf2K1NISgkAKCcZX2zjOKZiCwq3xHGVOuPuKV54KMBHZODnnjnoKZP6cSHZwDE1cQEoYkoaJCl8FOU/YjI4Pf2pqIjUOHFgIkRFvO4G7zkgE9u/uKUW4HJHnrV2O5wBNbT8VDII2hKeQ44r6vainsWKiPIajulGdvmkpG4LT0UjrjI+4ooy+3Z26uLhPyPoF4t2sb05aLsPhbkkl0vNuYLmEkBpBIxnJ3dfpwBzUnrzTjelbi/GhPuvxHWUOea4cLTjkgkY5JGf8AVc9huFbzadykBJKisK6J7/jNdHs77epLM4qdNiMONubNslStziCOADg5wOM5HPNEylOicRHFzFrT2SXxiY29boAc/jsbVltXISVepX4OP8VsxXmLu6Zj6EMRYryVqSOvPbPcemn9s8O5V0XMun7wLjIQ6645HYW4ho/TuWBtIwQeCf8AtUumfCpsRNhffuTc0MvtqZir2qaOSkADnceTg4wAMjBpMAjIgq2rfU3dVzV3JxqdJTFt7EVSWY6vUpTyTyraAMkYKegI96KW6ojztLRWly2Z0aO48YL1xlbSthYbG0tNAkJAB5CeQODtOKKkDUYAiJ6bEGAZGnR8y1rcZvlxhWx1xKXDuBcJTnoEoBySe1VK4GkrOH1y7lOu0plgJcitJDSUAAIIKsHByexooqGYmTUoJl9pXxcsOl9P2K3qgyVSmi++1Djb/l7wPJAUVhKuN2SoK55AGazP/URBZi2xentKqat0eStDbkqTs2u4GFKQ31G1azgk5OCDkUUUynkIj6kj4gaudnxHBc7BBh22XM86eI7zrz5ykoBSpZ2pIG0naBuIRnpRRRRr9jJmr01rVZqs/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">HEAVEN</div>
-                                    <div class="artist">The Blaze</div>
+                                    <div class="name">Nv4.Dll (Der Tante Renate Remix)</div>
+                                    <div class="artist">Bondage Fairies</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgEBwEFBgP/xAAuEAABAwMDAgUDBAMAAAAAAAABAgMEAAURBhIhMUEHExRRcSJCYQgVIzJSkcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AYtbwKORxS3/qPvibPc7ay022j1aFfX3SARuJHyRVvXbUzMW2h1sh1zIGxJyT24xVA+OciLqW3xHS261Jt7qs7k4KkLI3JPtyAaCB4fa4XbpIXOQ/KtIOHH0sKPlE4wSR15/3TLWtSbhb2ZMZ0LacSFJV2IpZfAu5hrU/7WvZ6OfhJYUgLQopOQMHpwTzTE3m/Kt0ufGSlpDdvfab242hLLjYKDx7HcKDZLYcyoOEA84waK5i560bSAiE36l5Q+nYcgn2470UHHNaZ1RHuDalRHXHG+n8gKcfOcV53bT+oJDNw9dAQ8h9Gx4YSo4I4Iwc5H471c0W6Q1qUVIO4f5DpUa73+12e1y7hIUPJjNqdWB1IAzgfntQJzboN20zrSLHUw4ia08hbacf3GeCPkUyV3Wud4pLieUpaLhYmvUoKfp3BZKSfzgYrmvCmRF13qqVqe8x0CWF+Wy2DlLSPtA+B37kk1a11hR4+qHronHnGGiOB7AKUf8AtBGtlrgWtKxDiMx1KIKuOTxiisGSyCVJCcnvnqaKDCBPeWSlCHFJ6lKBmtLr6z3C7aLvUBiOvzXo6kpGz7hyBwO5GKKKChPAjUK7ZqduC8oeTIVjGeihTNXyWpEoKaQlSVJB60UUGnMx3avDTfJ49qKKKD//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwIDBAH/xAAxEAABAwMCBAQEBgMAAAAAAAABAgMEAAURBiESEzFBByJRcRQVFjIlUmFkgYKh0fH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIEAwX/xAAfEQACAgICAwEAAAAAAAAAAAAAAQIRAyESQSIxUWH/2gAMAwEAAhEDEQA/AKEVHkuRUK+GHKG4cCME+5716i1T1tpcREdKF/acdaklvjqesClD7G2Qon/FPrE38wuUKBEw46rhaZbCgCtRwNsn1qLd0hX9IK3p67r3RbpCv612/Jb7g/gnX9uKu9FiuMVy7sCCp121IC5OHmwlIxxdSr0pRc3brF0zGv8A8sAtUlaENuKktpJKum2d98/rsdqvhk+CeXGuyoZttuzMV1cm0pZaAypzkAcI9c9qKsnxRtt907pxp28RIrbNwHAjlywtQzvnhA3HTcZG9FLfYKcX6ZDo76k6ZZjpQAl1Ayr2B/3W623i32mzuTEw2jeIbzC2JHMKVnfzBPbYbe6htXI1FvUqxwURVBTK08KUoSAUp/Mo4yf4OTUY1FcpjkhuFIluPphoDLaUq8qfUADbOevqaFHdilcb/S85OprbdU6ped1I5BVJt7b+wSpx9RbBLPECASDtjAz12pFfmbc74XWee3q5/mh5sKs6FI4W1YAKyniznAznvnoN6T6e1u01CnKvOl4c5T9tbgtqUlILS20lIc4SO4wSO5Gc1nc9V6SkeGkCz/TAb1DHLaXJ3w6DzEpI4vOFBW42/wC1plk9Uefwkm7Rl4z21y3QdPcWs39QodRlDSsFLKcnoQdt+x3260Uj8TJ2iJhtH0PbHobgQDK5nGDxb+XfY+/eiuU6vRrwrx2PrfqSIzpKFCamRmZCY/LUpR8yCc9NutVnOitRHMw1rddSoKDoWDk+uMUUVPRoybqzS7KuLmCt90n3Fcy1TVZypZoooZFIGRI5yOYFcOd6KKKRSR//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Taste</div>
-                                    <div class="artist">Rhye</div>
+                                    <div class="name">Bugatti</div>
+                                    <div class="artist">Tiga</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -329,7 +329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jun 2024, 03:06:25 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jun 2024, 03:06:35 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
