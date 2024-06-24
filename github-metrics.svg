@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -296,31 +296,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAEFAQAAAAAAAAAAAAAAAAUCAwQGBwH/xAAoEAABAwMDBAICAwAAAAAAAAABAAIDBAURBhIhEzFBgSJRBxYjYaH/xAAaAQADAAMBAAAAAAAAAAAAAAABBAUAAwcG/8QAIREAAgICAgEFAAAAAAAAAAAAAQMAAgQREiExBQYTsfD/2gAMAwEAAhEDEQA/ANeTunlT1BbqWSyS1swI6QJe7ceOSoKlFtuInYMzMphr+RniQOF6s59slmpY6mlJ6cjQ5uR4WrOq6yHVEdBLM10RaS5m0ZBxlMMwWLrzJ6kxPuHGewKqDs9fu5NeEREnLsBX7rdmQaWfb9xEks4f342gHv7P+KysV1plutcYWyCNmwu3nntyeM/WVtSwLJtY6kf1tVm44FRvudQ0FetIR6KtkV3vFNBVta9sjXnG3DjjPr6XHtQVVvqvy5WPs1S2poDnpysHxd/GAcZ/tZv6PdJHy0za17KZvI44cdw7DOM4yfSh6XTFbZtUsdIepAxmXSEgEkt+gT5OEyc5bqmgtPKYOA2mVS/E+R9zZSieUSM6HCIiyZK9zekR8t+e+eMKj2iIagAhERGGf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAYHAwUIAQL/xAAtEAABAwMDAgUEAgMAAAAAAAABAgMRAAQFBhIhMVEHEyJBYRQyQnEkgTOh8P/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUB/8QAHREAAwADAAMBAAAAAAAAAAAAAAECAxEhEhMxQf/aAAwDAQACEQMRAD8AmmWasHMZbLCbcXYVKj5hKyCBwRPHQ9Os184p9i1vGl3tki6tVDalLji2wnn7pRz34rInENq+9awgfAApVU5fZfMJscMlUbylv1xMdVE9qKtLoUXVcKo7aaWSZdXiV3BSST9XeDd14+3r/r5pGyVojKZFCcNjXLYgbUtN7nlLMmVCfV/XsKbsd4Z6tDCVm+xy1kAbFPFQI+SRFY8L5SdZsaaz1scDmSQy1kMes7HVEQmRMQrpII56ignJNPQ2oyT0n19hnWX1JvVONEGFlbagUnsQYoql6y0Zeadyq2cmtb6Fept95KgHR7kT1I/uinKUyZ5Wn01mSPlYDJPhnzdluuPXEEiJgcmJpA0ZefR5H6hRIabA37esHtXb2mtG6evdNPsK0+uyFwlbTqLoEuGUwTJPTnj9TXHOotO5LQesrvHvspLrK1IQXkHy30fisT1BFT2/JFGOfB8/Cs4fWdratvMLYu9yEFf+MmUjgx19z7Gp54i3yclmMVkceh9LrLqUKGwhczIjvEVjs9V3u87bNlrY0pCUgGATHIA/XzTz4WaIvNdZrH3+atnGsLYuF1biDtDyvxR3/ZE8djUmPE5vZpZcqvHouPiJpbF6gxtk7k8o/bXTDQShR9QXxJlMTJ7iKKYs9hbDKo/kJcSpKNiChUbR8UVdul8Rl+ua6zZ294lZPrM9ppc1tpDT+sbJbeXsWHrkIKWbnYA60fYhQ5/qiijaQfx8JHhfAVdtkUnI5xpeOQvd5bbJLqx2KjAH7irbjbezxNg1ZYxlFtatJ2pQgf8ASaKK5MJdGVdXxs9deB/LmiiimJAH/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Takeoff</div>
-                                    <div class="artist">Village</div>
+                                    <div class="name">Them Changes</div>
+                                    <div class="artist">Thundercat</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUEBggDAgf/xAAqEAACAgEDAwQBBAMAAAAAAAABAgMEEQAFEgYhMRMiQVFhByMykXFygf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAdEQACAgMAAwAAAAAAAAAAAAAAAQIREiExIkFR/9oADAMBAAIRAxEAPwD7WlpK/UViO56oeaPjDHx7MsZJHH7J5HsPhdS2mc2YIbcbrDKUaKTGDz9zcW7/AEPGNdpRSqqVmhaSSn7llKcivNvg+fn+tUn9T+vF6PED34IZo7FpVr8CGdYQuJZR8AgnAz5J1JK+FWq6Wm3NLZ3KhUoWVZ68nO7EXHqemQwViPokf1qZVsPPJYQIyIqnjKVJUNyKgDt3xjOPzrKW0/qZum39TWeoGd5Hs2OTRkDDxeCmf9cAfRUHWk+mOodq6hasuyX1srQhjkm9pBcSRgr4OAfsEHB7aaUGqAmnob147K0IDHJLNbQ8H9QcA2WHJip/AONGuVaKO1dr7oDYiszQKoTmeDKPfxx8H8kfOjSmoi9Xb6m09O73ucEcTXKER9dFiLkt6YKqD5PdlOe4AzrJ1Lda+60LEHUF55GSIV4fUBPBeRc4b495z+c61n1Ht92S8ke1kvHd9RLgkYlAvpMFBx3XJI7/AI1jyxte47RvNOtv1B6sglEDL6XE4UjJIweXnzg5H3qkNIMulaYNlYOQwrYyD2Ort0d1Pf6T3VrWzcFMyBWUn2sOxIP9Z/GkO97XuG21Ft3Nos14LEzLDamjZA4A/iAcDwc+Afrtp101tTbltNOKlGHvzXEMcgAbgwZFVCvyDlm7+cD409pLYFFt6NiUxatwPJcdK7SSq9YxsCyoVUkZ8En3D/GjUO3t9beHylyOJ1/baSOJOfqIww6FsgYIIxg9jo1ALGteOrVv2RHzSxazIy8iVbHYsM9ge/xpHUoSWX2yWO5NBbRYrVuGQM7SqAVXz/E5Bz9/I0aNBbNkyFudVbG4bfE+21J4dwblfM1cskhBIX9tshTjkeRGR4B76aUeheldvnaxS2DbYLDKVMkcAVsHzgjx/wA0aNNF2jS8eHufpSg19LkDTQyJFJGFDZXLkEsc985Hn8986NGjQcIv0LnL6f/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUHCAMEBgL/xAAtEAABAwMDAQcEAwEAAAAAAAABAgMEAAUREhMhBgcUIjFBUWEVMnGhI0Kxg//EABgBAQEBAQEAAAAAAAAAAAAAAAIAAQME/8QAHxEAAwABBAMBAAAAAAAAAAAAAAECEQMTIUESMVEi/9oADAMBAAIRAxEAPwCVFdo0JK1toaL7zYBW20UqUkehIByK8u9pcZkIL1tloStWkEgDJ9ABnk1VyLHabQ86u4mOhawoPITlbhHuM0ybiJ7xGkJeM3cUle/IAGNPlwc4o7s/BbFfSx6e1O0OSlxtmaiSzpccQWFeFJ8iTjH7rfZ7S7GoeNx9P/M4qtzd6kQZTk1Lj6JD7YjLyvXt8HCsnkgYH5pM/cL3KuDc/wCrI70lvRpSrCgPgAYNS1JfRVo0vRbdPXtmIB3JQSfJXd1Y/wAoqqznWXUdsZYKFuzI60+JUhOsZH48uMe1FaqlnOpqXhnU2+79ESbEh25w4EVX0xCnhbm1JcTKMgApGokfYAcexV8VvX5PSN2sc5PTL1vMpEt9SC1q3And/i05/rp/XnUYx7WRbpjVwcZjhTKHEqJAwsY8OPMng/ms3TltZRdndtaX2SyNSVKAwOOQRyDmhiOj06jry/HoljpeN0pO6btAubdt73uMJuCTqLmsOObiV49NOj4PpzS6RH6WgdOvQLrdLUepHdTkeRlZQgIKNKdWAAF4WDkZ9q5iyNNWybJ2wvaeSFeM5OQTn9EVznaWljRDmslZkKWGsZyCOTn8g1JKmB012T5GidOMypbKm7CqKmOzsut6wl13Kt1RSThPGMDJ49c0VEnSt6VcLEw+8ChxALZ5+/TxkfFFbhLgLbfImeDBfDjyypLaThtQyDn1JNYrWw5HbU5tZW8rKg2caB6CiijgSfAz3mh4nXksJ087ij/uKUyose7XBl599rZSrSy2Djj1JI8s+9FFY3gpHfeG44S0UltCeEISOB8cUUUUgn//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Silvertongue</div>
-                                    <div class="artist">Young the Giant</div>
+                                    <div class="name">TERRITORY</div>
+                                    <div class="artist">The Blaze</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAMGAgUHAQj/xAAuEAACAQMCBAQFBQEAAAAAAAABAgMABBEFIQYSMVEHEyJBFDJScaEzQmGR0fH/xAAaAQACAwEBAAAAAAAAAAAAAAABAwAFBgIE/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMEIUEFEiIxMv/aAAwDAQACEQMRAD8A+XKzEbEZAJzXsMfmOEHzHYZ71vdNsx8PcySsRaWwLSFPmkb6QfbfaiqljSyBb5M1D2cqxK/IfVSZImjwHBDdvet1aaW+qX1vHbRtA0rDlBbIYHpj/v5qi4r4G1DR7Rby6R3sGIUSfuiJzgN79ds/7XnfYTG4RiLM7XGXv1E5/RWcgAcgAjH80U+KPEfYKjXCc7cu9VOmoZuEr1IX5JR6ifswJ/FR8ZAYEkjFUOi6obS6MsCM8DfqR43HfA9xTtdwjn2+iKjF5FTqXg1p7SF5pYIZIMcwkTYZHQ4yRn7Yqq8T7tDwhq8c2CrQnGfqyOX84qS4C4p0bSDNJNqC/DuM+WzENF3HKdz/AHk9qnvE7jiLW+SDTY3TTkcMWkGGnYdPT7KOu/U1ks+lmyeQDEfEd9S70djDg1XDfo8Tm1+yNcPyLy70UqZ/MkLEbnc/eitMooShY2YumRytGSUJDdx1ooo9QXGpeSrGyBz6qSZGIIJJBooqUISxMwoooqQT/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBQgDBP/EAC0QAAIBAwMCBAYCAwAAAAAAAAECAwQFEQASIQYxE0FRYQcUIjJxgRWhscHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQBAwYF/8QAIREAAwABBAEFAAAAAAAAAAAAAAECAwQREiEFEyIxQVH/2gAMAwEAAhEDEQA/AJf8TLF0+9G3U/Rta01pq66Wnen+VMC0rgKyooJywIJOeMAantXSz0dQ0FTG0UoAJVuDggEf0c6ZepfkrVFDTWSqlq7dPAsjCfnw585YrwADgKNwHbjOlqpqDUbSyncoCg5z9I7DRoit10z1lo5YGVZcDcoZCOQwPp/j863+j4rVWXBrRc9scNxUJDVEDdBNz4eSeyljhvbny18kE8d0siUchVKyjDNDISBuTOTH7nJ4/Q1mtSBBueohYbmB2SZOVI5/eePXnRAjxbaJbha7j01fHNHcrZI2FY8ZGVBwO5ViASASUPHbRrIfxrjHT3UzCWtpQq1W6ch3jLbFYt3HofYqTnOjUdkbJlNv9HY+vulZLpbitP4CrFGnh80+3G4YHtj2xpGt/TPTvhzRvcDXzABgKctvIx9SqmMlh39MaoxsFst/xJtz00Lw2S6xSJUxQOyIsqjKnAPGR6e+nKboykFVDc+n44aG5JlDJHKy5U9yR2Pr+dJ474p/e5oc2hrUWuXta6bJNT9FWea3kWq2X/59JAZ/GgKtFGe20ZwW7eWcZ4Gs24dDpFdkjeGqmp9qmVngMZG8lWcEZGAcON2B3Hnq9Q2jqSkuNODd46mmIBk2sQwP49NPwtqTmjqqgoWiRlbDH6lJzjvgjPrq2Mrb7Qrq/GxgScXvuc52P4XPbaeluUkpSSldoaoRoJ4qiNvtlXJwVKn7ePbRroO/W2KsgiELLDg7doXgr5ZGe2jTCoSWKV8nNEl6nkdRUBkAIZXU7sH201224ZpFf+Tqo933Bu+jRpSJRpvXup7Y02msoItsi3CcueCXb/umun6igWEbqlcqPM6NGrkkcvNkq67YvX7rKaiqxIjIYQOSwyCP9HRo0aIp4r8P/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Sol</div>
-                                    <div class="artist">Alef</div>
+                                    <div class="name">Time Will Tell</div>
+                                    <div class="artist">Arms and Sleepers</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFCAEDBwT/xAAuEAABAgUDAgUCBwAAAAAAAAABAgMABAUGEQcSIRMxIjZBdbEyYRQWIyQzgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AQdQb0uxjUq5GU3nV6dTWay5KoQ3MuYbR1CPCkEABI9MiNJuK4QkKVq3OhKkIWP3iyRuzlJAWTuGBnjHPeFrWLzxePvz/AMrj3aZszDFEnahRGZSamG9ommJ9TZbc5ylKEnlJAyd5UBk4A4gJWVuW4nKdLPzGp1XZddS2taDOncgKA3DaV8lPi9RnbjAJxG5muXC4tlJ1fmW+oG1HdOr8CVY3ZIXjKcnjPOOI6BTE1hyh1O4XZiUmJyVadM1T1IUttG1sEpSeMn19QRkAxXi/qiuqXPNTDsu0yrgfptdMOevUIB7qznI4OcxcHRtN70vF/UO1mZu8anPSj1WZlnmvxji0KG8ZBzwpJB9M5ghX0d88Wd78x8ogiA1i88Xj78/8riMoqGZ+30SIlGJFS3HEuVVbzmXDgLDRQk4PYdwcd+Ik9YvPF4+/P/K4XrSnpOXnCzUGgW3gUtP4JLDhBSFkZAIwrkd+AR9wtd+Xahb9rVoOvodUtL8w2XVFPTJQMFeAcJ3AKV3+r/aq6gZRdE1LrRsclsNOI4yhfdaeOPColOR325i0r93zlbsC7nKbPsJq1Pl5hh5Kk8AtghRAP0g7dyc9+B3GIrHdNImTTmqu8mTl0jpMKabKuo4pTYc6iioeJRCsqI+ItEpo754s735j5TBGdHfPFne/sfKYIgZ9SbIu2bv+61s2dWJ6SmKq9MMvNS7gSoFSsEEDBBBhVe03u5bSktWFXm1nsosOnH9bYIIB5t9N+U2m1Zue06rVQqM/Iqp5nHGnhtbIA5RtIUeM8nv2xk5TVWPfszLMsVOz7inEs/xb5d0bBtSnA8PbCEj7YgggGPTayLtlL/tRb1nVmQkpeqszDzzsu4QkBSckkjAAAggggP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQEBAAMAAAAAAAAAAAAAAAUHBAECBv/EACoQAAEDAwMDAwQDAAAAAAAAAAECAwQABRESEyExQVEGFGEiMoGRByNx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAeEQEAAgICAwEAAAAAAAAAAAABAAIDERIxEyFBUf/aAAwDAQACEQMRAD8Aw+um3e2EtCp7brkVOS4logKIx2J464rmqvZ2GHW1iSytSyle1o4OrQdIVnqkkdeoI+aGNUbOie27Yds5jTivbwP7B9+ev+YqfOEdcp1dvbdREzlCXFalJHA5I4619Y1/HlyU3dpMh5mNAgR/cb7nO6C2HEAAdyCPgGoGwuLaMy0lkvo3GQRy4CRj8cE/qkLHyMVbCsk0pSnk4q76NkS2b/E9nLXGKVbhKV4yE/URg8Hp0NQqqel50e3X+HJnIUuIF6XtA+oIUClRTnuAcj5rE2ajUdWGagm2T7lZ2odkvezMeeW9J33MNnAASlGAfHfxmsjuLb7M11uUoreQopKtWrOPB7itcklpmI7OtspgQHUuoYyMltSeUuHAAyRxn91nHqeDJjylKlLQspA1OBf3KPOAO+PI4qVV5aOp0s+DH4HIurfkhUpSrTlxXkHCgcA47GlKIS1J9T3JxpLTPtozQ40NMgDT456fjn5rgudxfuLyVvlICBpQhI4SPilKzidyjmvavFfROOlKVsnP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Jungle</div>
-                                    <div class="artist">Tash Sultana</div>
+                                    <div class="name">Genghis Khan</div>
+                                    <div class="artist">Miike Snow</div>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2024, 03:06:39 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jun 2024, 03:07:15 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
