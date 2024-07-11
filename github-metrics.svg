@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -296,13 +296,6 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBQgDBP/EAC0QAAIBAwMCBAYCAwAAAAAAAAECAwQFEQASIQYxE0FRYQcUIjJxgRWhscHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQBAwYF/8QAIREAAwABBAEFAAAAAAAAAAAAAAECAwQREiEFEyIxQVH/2gAMAwEAAhEDEQA/AJf8TLF0+9G3U/Rta01pq66Wnen+VMC0rgKyooJywIJOeMAantXSz0dQ0FTG0UoAJVuDggEf0c6ZepfkrVFDTWSqlq7dPAsjCfnw585YrwADgKNwHbjOlqpqDUbSyncoCg5z9I7DRoit10z1lo5YGVZcDcoZCOQwPp/j863+j4rVWXBrRc9scNxUJDVEDdBNz4eSeyljhvbny18kE8d0siUchVKyjDNDISBuTOTH7nJ4/Q1mtSBBueohYbmB2SZOVI5/eePXnRAjxbaJbha7j01fHNHcrZI2FY8ZGVBwO5ViASASUPHbRrIfxrjHT3UzCWtpQq1W6ch3jLbFYt3HofYqTnOjUdkbJlNv9HY+vulZLpbitP4CrFGnh80+3G4YHtj2xpGt/TPTvhzRvcDXzABgKctvIx9SqmMlh39MaoxsFst/xJtz00Lw2S6xSJUxQOyIsqjKnAPGR6e+nKboykFVDc+n44aG5JlDJHKy5U9yR2Pr+dJ474p/e5oc2hrUWuXta6bJNT9FWea3kWq2X/59JAZ/GgKtFGe20ZwW7eWcZ4Gs24dDpFdkjeGqmp9qmVngMZG8lWcEZGAcON2B3Hnq9Q2jqSkuNODd46mmIBk2sQwP49NPwtqTmjqqgoWiRlbDH6lJzjvgjPrq2Mrb7Qrq/GxgScXvuc52P4XPbaeluUkpSSldoaoRoJ4qiNvtlXJwVKn7ePbRroO/W2KsgiELLDg7doXgr5ZGe2jTCoSWKV8nNEl6nkdRUBkAIZXU7sH201224ZpFf+Tqo933Bu+jRpSJRpvXup7Y02msoItsi3CcueCXb/umun6igWEbqlcqPM6NGrkkcvNkq67YvX7rKaiqxIjIYQOSwyCP9HRo0aIp4r8P/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Time Will Tell</div>
-                                    <div class="artist">Arms and Sleepers</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAQQHCP/EADAQAAEDAwMCBAUDBQAAAAAAAAECAwQABREGEiExQQcTImEVI0JRoQgUJDIzgZHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIEBf/EAB4RAAICAwEBAQEAAAAAAAAAAAECAAMREiEEIjFB/9oADAMBAAIRAxEAPwDzRFhKkf3FhAA4zWXWW9pQCU9eV/joOpNWzel31PPNpYWg+rAX/UnH3z0qYl215E11LaPMAST8s7wBjJJweg96hLdjyb7POtagf2K1NISgkAKCcZX2zjOKZiCwq3xHGVOuPuKV54KMBHZODnnjnoKZP6cSHZwDE1cQEoYkoaJCl8FOU/YjI4Pf2pqIjUOHFgIkRFvO4G7zkgE9u/uKUW4HJHnrV2O5wBNbT8VDII2hKeQ44r6vainsWKiPIajulGdvmkpG4LT0UjrjI+4ooy+3Z26uLhPyPoF4t2sb05aLsPhbkkl0vNuYLmEkBpBIxnJ3dfpwBzUnrzTjelbi/GhPuvxHWUOea4cLTjkgkY5JGf8AVc9huFbzadykBJKisK6J7/jNdHs77epLM4qdNiMONubNslStziCOADg5wOM5HPNEylOicRHFzFrT2SXxiY29boAc/jsbVltXISVepX4OP8VsxXmLu6Zj6EMRYryVqSOvPbPcemn9s8O5V0XMun7wLjIQ6645HYW4ho/TuWBtIwQeCf8AtUumfCpsRNhffuTc0MvtqZir2qaOSkADnceTg4wAMjBpMAjIgq2rfU3dVzV3JxqdJTFt7EVSWY6vUpTyTyraAMkYKegI96KW6ojztLRWly2Z0aO48YL1xlbSthYbG0tNAkJAB5CeQODtOKKkDUYAiJ6bEGAZGnR8y1rcZvlxhWx1xKXDuBcJTnoEoBySe1VK4GkrOH1y7lOu0plgJcitJDSUAAIIKsHByexooqGYmTUoJl9pXxcsOl9P2K3qgyVSmi++1Djb/l7wPJAUVhKuN2SoK55AGazP/URBZi2xentKqat0eStDbkqTs2u4GFKQ31G1azgk5OCDkUUUynkIj6kj4gaudnxHBc7BBh22XM86eI7zrz5ykoBSpZ2pIG0naBuIRnpRRRRr9jJmr01rVZqs/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Nv4.Dll (Der Tante Renate Remix)</div>
@@ -310,17 +303,24 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDCP/EADMQAAEDAwIDBAcJAAAAAAAAAAECAwQABRESIQYTMSIyQXEUI1GBkbHwByRCYYKhwdHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAwb/xAAgEQACAgICAwEBAAAAAAAAAAABAgADESEEEiIyQTFh/9oADAMBAAIRAxEAPwDcoslaopUo7HGmrKN6xoZwaVUvPx7fy1kPvolhLYBAOhR2BONyBvnFNcdIaa3UAvxxXNqep3K7466ma8fWy5sXByRb45eYdHeTvoPjq8aQnHr9bXPvim9JGU6SSK9BXCQxFiLkyHGmmk7qU4cCssv/ABnYRPy4w4+0gnSrQAD5ZOf2ptGJ9Nxmpw65Yfn2IPD7si4X8ypjZLaQRlXh5UVMk8RwJ015URpUZKjkJIGD8Ohoo7A7HOMQq60x7ZjDZftEnc5ptxNuWheOuW9IB3ycn5U7SuMoK4K/Q3m0SU9A6oFKvIj/ACsgs8GS+42oKaSABkFQOfdTBcI3LZVpWlZx7D/AoeVVWxwBIvE5HmFO5dNyotzlpXe3Hrir8DQcSGUfpB+ZNR7/AGO2vI1s22U0pOcAJQE/GkKfKXGwtITkKwR9CrS0XWROY5SHF4R0QVnx9lZGq2rD1tgS0XqZ+rrn+Reutt9Fn9wobPeSg5wB7aKt+IYryGVHtJUg9o6vD6NFUKrS6gncV5C1o/guBJ6ZDrPLdJKgvb1e2PdjFQk3ByRNKVPvAHOzTfMV7k0UUBUEkyTxtAETtItceUlKW25xWD2lSwloZ8jvj41IsdgusGelbce1qPUc1xSkkfmBRRS72soKyqKwy9/sYr/wtd5kB6Qt+2toVvpaC+vXAz/dFFFLU8h1GBNzWLNtP//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EADEQAAIBAwQABAQDCQAAAAAAAAECAwQFEQAGEiExQVFhB4GRoRMUIhUjMkJxcrHh8P/EABkBAQEAAwEAAAAAAAAAAAAAAAMEAAEFAv/EACMRAAICAgIBBAMAAAAAAAAAAAECAAMEERIhQRMVIiMxUWH/2gAMAwEAAhEDEQA/AONww01rtb11xoDFxZVYckb8VuQJwM5BI5D28dLNFeILlTcrLaKmnZm4mTIVWUE+PEgsMEZXwJHpqL8T9w1F2qqaiYCFETtF75uzYJA/oMfM6ctsR0lJQxR1Bp4mWMAJJIF78Prrktk2Gsc/yZXj0ITy8RJvTQW1s0lnEahhy4xL+rDdkZPQK9YIOD37aYdkXDa+5aqsp3hajqUblHA8a5ZOs4Pn559M6sN3QhKRZTGmXyvRGsk/MGz7gpq6mJSeGVHznyz2CPMEZGtJdYyFUOj4jXYybB1N4Ng28oVTAzydZcRYXPsPTRpcqdwXFpQY44UUkEcY+ho1B6mYe+cq9s49ECUF9tSNdaS6NgRxVASTl/cMH76eJbJSXOmSSQEqp5ducfQHH+9QZqNKu11cUyB0aZevkcffVrbUaBgrxFipwYyccT750rOTr+QsWv6VY+Yq7sSl/bkFLPCzQijAhUNgKwb+L0zjWdV9slrbnHSUkbTzuSSqDOB/3nrQd0pE19hmjYsOHE8pAwUDPmCfXU7YVop6a1VN5nAaaZ2VUz3xBwB7DPZ0gY1rsDeohqFr8d6JlNK1ZboRJcHnV8fuYXYjOP5j7aNeu9neaWnlkJJZWH30adX5qDOXk1vTYUJ3qa3t7bNRSU9XV1/4YK5lhhB5HkoPEsfD360vWszG2UtdT8WlMSuVbwYEZ0aNFYoUDUsxCSCP1EndNRcLrWMopYqbvjlMf4xrR9l7Spodp2iWojdHmhcTRliGP6yQw+RH20aNe6+/iZmQxTTKe5Wb2+HtdWCJrFMkyJk8Kg8T36MOvqBo0aNUqgUaEidjaeb9mf/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Sirens</div>
-                                    <div class="artist">Monolink</div>
+                                    <div class="name">Put Your Head on My Shoulder</div>
+                                    <div class="artist">Paul Anka</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECBwj/xAAgEAACAgICAgMAAAAAAAAAAAAAAQIRAwUxYQYhEiJB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APKt9i+yAC32L7IAKuUAuUABAAANRq1d10dw0nj/AIZ5vo8ubT4Met2UcWWebFkm5ShNY3TSTS+N/a0q/KTA4cuQWvYAyAABvHOeNtwlKLap069AAZXKAAH/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAQACAgMAAAAAAAAAAAAAAAgDBwECBAUG/8QALxAAAQMDAwICCQUAAAAAAAAAAQIDBAAFEQYSIQcxE0EIFCIyM1FhcZFigaGx0f/EABkBAAMAAwAAAAAAAAAAAAAAAAADBAECBf/EACARAAICAQQDAQAAAAAAAAAAAAABAgMRBAUhMRJBUWH/2gAMAwEAAhEDEQA/AKprAsSPEOws7McAg5/utf8AW3WaNI6Tk7mZodlNqQzIZbyhC/ko544/ipd6ZdWrvYNaokz35dxglC21sJewnn3Vc8HB58qDKTbwi4MSuMFj6+yf9rltTwdw4tnbjskHOfzWu9R9W7HaNLO3ZEiPJdbHMdp0blE9gn7jnnyqftL9QX5F+YuHrry9z28slzK1c5KR8zj9qRbd4dLJfo9vepzmSi/X6WZSvXWC4qutqYmLjOxfFGQ277wH1pTk8rKIJRcW0/R5FwgxbjEciz47UmO4MKbcSFJPn2NRl1M6XRNN9QZEKz3BhESW2XvDI+BuVkIxn8fTFWRe5i7fZ5sxtlb62GlOBtHdRAzgVPXR6yytS6ynXW6x3JTaULLy5ScpU6vlIIPcY8vLik3SfEY9s6W3UwanfZ1FdfWT/InQrnaYVidS5ElsOOF15xWWzzkezgbcAY7mt0+iPpazXF+7XuU+zIukV4seqEA+Gg8hzB8lHOD+k1n0P0glt9Z37jMTEXa4Dm5vxoxU1LJGFpSCeNoJwTnkCvlW7NfenPpFNrtVrnuNyJqnGm2srQ/FdWU4J57buSexAJreKTXJNda4zfg+CzgABwOKUpTCUEViajtNJWlptDYWSpWxIGSe5+9KUAAygNpQlICUY2geVdihJWlZSCtOcHHIz3xSlAHelKUAf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Tearing Me Up</div>
-                                    <div class="artist">Bob Moses</div>
+                                    <div class="name">Sex On Fire</div>
+                                    <div class="artist">Kings of Leon</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQGBQECAwj/xAAsEAABBAEDAwMEAQUAAAAAAAABAgMEEQAFEiEGMUETUWEUIoGRcQcyQrHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EACARAAIBBAEFAAAAAAAAAAAAAAABEQISMUEDEyEiUYH/2gAMAwEAAhEDEQA/APpzUHpjWz6OOh4c7ypVEdqoefP6zPE7WikKOmNAkkbfVvwaN+10PznHVnUCOnmIbzrKnG35CWlrF02nklRr2APGPQNXgToCJkaU2Yy+y1fZ/uslVJtr0ONi31+oBCAuIzvNbgHh9prkfPOeYm63VHTWfUsDh37aoc3+T48V843H1XTZMhpliSy669vKAnndsNK5+DmjYPYjBOQYjp8iY844JkUMBKU0d27cr/L8Xhj+GUIi/wCpL0cRYTUlxrYlwuuMrG7egDao7e5ACvHmsjdVe1TW0RA23M0yKAn6Ta4lSNoO2k3ypRHxYuvGX3VaGfqUuLe2uqZLKWQkKLu5Q4Hzwf3kkmemXCYSmE4422VQ3QhWx6Ob3BYrlJo+KNj3yW0ikiL1GVqOhMGNprsltr00BxdcOUBuPawSe9ACvAzQgxtShvKXDfnyW1EF2QhKqbFknzV0b/nyMc1jTGZEcSxKUxpyowZ+1oqUVFXc9ypVXfHPuM2eh2mmNLZdakqZRIUR9O1yjaoqoHcLPFH+Mxo43LntGC3UtfSr6O1o6mhW31FM2QlxxRsnghNHyBd4Z5dG6RB02LGajRWmFocdcpCAjlVgmh8BOGacd1qvyZ1xPjg0Oq9IXqUBwxQBNSElslVf2m69ryZR0XOVqcd1TzSUtMkqeUbUt08k1Xue9+PnDDH01dfvA7nEHRnoLU2S0GdUYbbYKXGQGySlwDvfsT+sfHT2tLmtOSnYS2fUDqm0X9pSKSN1c37147YYZYpKPQoD0BhaJC0rc3E708A38eP+YYYYCP/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Pumped Up Kicks</div>
+                                    <div class="artist">Foster the People</div>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jul 2024, 03:06:14 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jul 2024, 03:06:24 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
