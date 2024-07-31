@@ -31,15 +31,15 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    202 MB used
+                                    203 MB used
                                 </div>
                             </section>
                             <section>
@@ -296,31 +296,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQGBQECAwj/xAAsEAABBAEDAwMEAQUAAAAAAAABAgMEEQAFEiEGMUETUWEUIoGRcQcyQrHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EACARAAIBBAEFAAAAAAAAAAAAAAABEQISMUEDEyEiUYH/2gAMAwEAAhEDEQA/APpzUHpjWz6OOh4c7ypVEdqoefP6zPE7WikKOmNAkkbfVvwaN+10PznHVnUCOnmIbzrKnG35CWlrF02nklRr2APGPQNXgToCJkaU2Yy+y1fZ/uslVJtr0ONi31+oBCAuIzvNbgHh9prkfPOeYm63VHTWfUsDh37aoc3+T48V843H1XTZMhpliSy669vKAnndsNK5+DmjYPYjBOQYjp8iY844JkUMBKU0d27cr/L8Xhj+GUIi/wCpL0cRYTUlxrYlwuuMrG7egDao7e5ACvHmsjdVe1TW0RA23M0yKAn6Ta4lSNoO2k3ypRHxYuvGX3VaGfqUuLe2uqZLKWQkKLu5Q4Hzwf3kkmemXCYSmE4422VQ3QhWx6Ob3BYrlJo+KNj3yW0ikiL1GVqOhMGNprsltr00BxdcOUBuPawSe9ACvAzQgxtShvKXDfnyW1EF2QhKqbFknzV0b/nyMc1jTGZEcSxKUxpyowZ+1oqUVFXc9ypVXfHPuM2eh2mmNLZdakqZRIUR9O1yjaoqoHcLPFH+Mxo43LntGC3UtfSr6O1o6mhW31FM2QlxxRsnghNHyBd4Z5dG6RB02LGajRWmFocdcpCAjlVgmh8BOGacd1qvyZ1xPjg0Oq9IXqUBwxQBNSElslVf2m69ryZR0XOVqcd1TzSUtMkqeUbUt08k1Xue9+PnDDH01dfvA7nEHRnoLU2S0GdUYbbYKXGQGySlwDvfsT+sfHT2tLmtOSnYS2fUDqm0X9pSKSN1c37147YYZYpKPQoD0BhaJC0rc3E708A38eP+YYYYCP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Pumped Up Kicks</div>
-                                    <div class="artist">Foster the People</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQB/8QALhAAAQMDAwIEBAcAAAAAAAAAAQIDBAAFEQYSIRMxByJBURRhcYEjMlKRofDx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKVrLVA0Pb4b7VtRNMjq9QF/pFKUNlXGQdxzgY7+1cNk8VF3KRCajWVtCZMkRQpUonaouNJ4SEknh3d9vbJFDe0/bb1HYReYEaaGyVNpkNhWwkEHH2OK55uktHWmKq4SbHbWGo2HFOhgZRhQO7jnulJ+1ApS/FKAuTe4dutsp+bbGHnj1FJQ2vpr2qG4En3PY9sdyKypfipLZmyootERTrAW55ZpIUhK3Ukg7O/4Wfbzd6dpkr4vVDtgnxLbNtMpLqXytvCgMIKUccKBO/OefLXdD07pi5R2rjDtMBxuQglDvQHmQrJ9uxyf3oMXQmpnNY2iTIkQkQyy4hKW+t1SpKm0ryeBjO7+kEApntljtlnacatFvjQm3SkrEdASFFICRnHsABRQacPkDtSF4kvxYlwelLYkvrXEdiPISolJb6al5GPy+vJB+nrTlb3jsTuAT8s0q+ISmY76p9wYlPwmmk9md7LKskFTmBu2kZScZ4Wc0EWQzdFWl2SypK4S4XW+HWjlLW3ASHcZICeMDjFUHwr13MumpJVtcSWbFHjx2IzLrYS6h1WQnBHLiCEqO7GBUmcjvKjuW9NxgNQ1N/GIj8rayVYSkqzkcck/zVl8LbEhV6RfQh9IEZbXUdRlMpRVnc2SMobRuUhAJyU4wMckKf3JOeKK8dcCB7UUGXAkpSkbsJHpj/K0ES21ZG8fQjvRRQKbmm7Um8CcLJYy5v7lBxj9WzG3f88Zx602GW2eEkEj0oooOGTIDiE7AVAnHlGcGiiig//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">All Goes Wrong (feat. Tom Grennan)</div>
-                                    <div class="artist">Chase &amp; Status</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQFBgcDAv/EAC8QAAEEAQIEBAQHAQAAAAAAAAECAwQRAAUSBhMhMQciUWEUMkHRI0JDgaGxwfH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBBf/EAB0RAAICAwEBAQAAAAAAAAAAAAECAAMEESESQSL/2gAMAwEAAhEDEQA/AM+4X0KFqOnKkSkvrcDhSEtqqx09sac0LSgFcpEkLBrzuAj+st3gnIWzpU/4aGmXIUqghStookdLPSz3/bFeLoK4k1bxiLiIUogNr/zCVhvRk9gcD0plTc0iG2DzCoKHpX2yOlaY0hZrcQevSskJTlGlGjlv4e4eZ1Th9b6XPxwD+Tcbq6wbGCQ6Vd/sy+UwhpAKSbvteGSGv6e/EUovAbQqgR2wwFf0NykoV4ZafDCTJoxGHXktqWXi21QKymj1J9rxnjPU1TtalOKdWsBZoKPy+2dfDPUG4mkNBEWMZAddSXXGworSsAUb6UK6el5E8aIRHktux2kIZJUglCaG4H7ZpP6iSp10/ZCvqW87SElRP0AzQnmZ0fgqIvR5DUQFO95Kj5nFGgaP0HTMvXJWFgpJTt6jLjwlP5+kyWJAS6topU02SUiiRd19LGR5DmdHFqEgeLYMzT0MtTnytxSUuKTdhJVZH8YYvxU447OkrcQ4jesEBW7t7bhdYZRinaRWWNWT1w/rTWnR+W7v+Ynyi+9Zy1SZHnPvulx4HcSjzUKrtV+owwxp4ZMeiJM8kxClxtPxfMKubzhRTXy1fr1vHNNkvQpBdbcZs9xzk0R6Hr/zDDEvSpMorvdRyKarNM2QtZcdWCf1FbiPa8MMMZWgUaEGxyzbM//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Fix My Eyes</div>
-                                    <div class="artist">for KING &amp; COUNTRY</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcDBAYCBQj/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMABBEFEiEGMRMiQWEHMlFxgSMzwfDx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQBAwUG/8QAHxEAAgMAAgIDAAAAAAAAAAAAAQIAAxEEMRMhIkFR/9oADAMBAAIRAxEAPwBT28DK3bvVyG3cyY281eS1ZRyDmpooiD5RitZhOfV5NZ2DvEwVSxHNULyMxNt7E1uOjSEvXV7WC8VYmY2753SccbFBBY5+nYc1kL9HllcTRtHKO6EYxSC2g2ms/U1HrC8dbR2Z07RqThc0VcNt4a+IeAOSaKNmUHuUqGYbk28dtaSlTvClsAZBxn71MNDMgBiAcHgbBnn8etLC36ulSHaly23OcNzyKaPwun16e0OvW+nXeqWENysaxwLkuw5Ygd+CV5xik35dqDcjacGp2wnJDb6a0cgeNQZOGRuQ6lSflPp359e1U+oZby7aW+v5ZrmVE275B5iqjgf7zTL16x1CPp59dubSO0tnJlKBgTF34OPX+nFLXVg+qXdt4DSi1vI/EWMD58nuO4FLJbYW8rLkvsqrUeENoi5nvZLhMxFnTJZl9R+PpRTK0nR47A3MUsDoU/enCneB7gZGMeoH3ooGv9wxX6nn2nH0B8UbmDp6y6TSOG0kNrNp9velyqo00itufHuMZ96KKdI0QR3G70z1tpVn0b1F0n1FNEmo2izwRRp+ssq7OMMoIzn6nj2pZRzSyaJongrK8kSSKjRoTkZA/iiioB+BEotG2A/k5297qsV2irZToAc+ZdmfsSMUUUUmUWNBjP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Dust It Off</div>
                                     <div class="artist">The Dø</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAQBAgUHAwb/xAAsEAABBAEDAQcDBQAAAAAAAAABAAIDBBEFEiExBhMVIkFRcUJhgSMyobHh/8QAGQEBAQEAAwAAAAAAAAAAAAAAAQADAgQF/8QAHxEAAgICAgMBAAAAAAAAAAAAAAECEQMEEkEhMXGB/9oADAMBAAIRAxEAPwDgnZBzrcrq9o767G4aD9O72P4T9qCHTNbZBbO6JxG2Z7iA0ffHx0Wf2R/SrXJ84Len4BKzLFs3K001iYOsOLGkE87WjqFlVyZ60c8cetG1crv8Ogip2bdHK5uqRbfoG2TLvnj/AD3XyWoVG6hqhp0gx0LHbRK3OCPcZwc+vKz7c0PhdbuRK12XYBORj1XrX1Calp1aevt3slcPMM9QnjXlBPahlahNUvbo1XPGjxWY4qLXGtK1pL35ByMhxx1P8D0QsHXrkt202zJkCRgI5+5QlRXZjn3pxlxwuor4NaXJ3Wh2znru/oBYQTgn26aYgf3HlJZXJI6WSfJRS6RYucRgk4TkM0fhk8Mmd2Q5vyklOeEmcZNOyp6IV48GRocOOiFAlZBPlAVUIUCJChCFEHqOeUIQoT//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">III</div>
+                                    <div class="artist">Foster the People</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAQFAgMHBgj/xAAvEAACAQMCBAQDCQAAAAAAAAABAgMABBESIQUTIlEGBzFBMmFxFCNCUoGRobHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAgUG/8QAJBEAAQQBAwMFAAAAAAAAAAAAAQACAxEhBAUTEhQxFSJBkaH/2gAMAwEAAhEDEQA/APlpWQDDRhj3yaHZCpCxhT3ya6BwDy9vbq0D8RcWg30oEDsw75xsP1NYeJfL+4tYeZw6YXWnflldDgfTG9B7iO+m1qeja3j5OM1+/Xlc+9av8B4QZWWe4UhPVd/WnPD/AIblkMkt5byhozjlMhGa9Oti5KRRxMCTpHSR/u9CmnA9rU9tu0uNTSjHwE9JAZ4+ksjldI0bhxjB275zRVWGFWiaLT0fCQff2/fFFZ4eu7GkDwCrVtdPbNpOdH5e1PR8qZGIOtWOcNuRU+6tyI9asGXOCR3pSK4aJ8qwyNqj4RIOpuCmXNByPKzuvu5GAQr239qI5ioGwx9K0XzleRLas7sWbEZy3Ue/cU9EiywKzKpl/FoOOr3+VVeKaCUtDqxI8wyNohKnd2bHxHNFb5dMSnpXC5J1D+qKDlPcrRilRtTHMskSpjUN96g3I0uyhSAu1FFPRinkJZ5p1BbbBVkkKMcLpOoZ9Rj2+dToftHDZ5CpHJYnHMIGvtjeiipVuIKy9eKLZBghUW4hHOg5elnG+g7n+KKKKAY22n4JXSMDnL//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Miles To Go</div>
+                                    <div class="artist">Stateless</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgEBgMFBwn/xAAqEAABAwMDBAEEAwEAAAAAAAABAgMEAAURBhIhBxMxQVEiMmGBFGKRcv/EABgBAQEBAQEAAAAAAAAAAAAAAAMCAQAE/8QAHBEBAAIDAQEBAAAAAAAAAAAAAQACAxEhEgRR/9oADAMBAAIRAxEAPwBXVZDiuCTk1LgpU8otkhJUCBn5qMclSufdbrTEYOXNhboPaCs+Kmzo3Lx19WAlq6b6fkzmZam2wlTatuduVZPB59fqrHdOidyXa1So4UXDlQQR6phejtptc2zpkqjITLUAFKA+8Dx+66l/Bj9vaWwRQY63bNl5KuFHyzzrsNkct1wu8a7sttvIirQ0H2ULCnTwkDcRg8HGPY+OCU4/Vfp5FvFtku2ttpm5PMqZS4VFAOfR2kEn/aKfbDT8iLxu2p0b/GatNtjrfCDH2/RggeBVK3FK/Nbu03CQhxDMfyryc+qy9VOR8GQq9neeiutLmvXEO3ud6RDCtim2EYSj+xx6FNt6paOiMCxwYKJV2nR2HyoL+lzb+cfmmGYvMF8ILbwKFYwrHFTiDoTvo362zHfDgxQEBR7gIOMlJBHPngYzzRUPVamt0AKb3ud3KFd8thPIycD7v+aKSeeeaqgcnx/tZYjy47yVpPI/NFFbNHXZ0bTWq7Lbmm3rg05MfQoKS1nCePmmo0BrW2a5gKlQWwytCQ27FHKgAMZ49UUVNKguo2XI31uS9W3KNbW7Y9dXoiIUN/uh6UsJ7eCPlKtxwFcZGTjniiiir1DCf//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">You and I</div>
+                                    <div class="artist">Delegation</div>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jul 2024, 03:06:22 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Jul 2024, 03:05:24 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
