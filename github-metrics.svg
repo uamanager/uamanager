@@ -36,13 +36,13 @@
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -296,31 +296,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYHCAIFAwQJ/8QAMBAAAQMDAgMFBwUAAAAAAAAAAQIDBAAFEQYhBxIxExRBUWEIFSIycYHBI0JikaH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAID/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAECETH/2gAMAwEAAhEDEQA/ALU0t651laNF2dc+8SEpPKexjg/qPqA+VI/PQeNMlVC9pJVzuXFcW6SoBhqM2IngnlUMqV9ebI+1FTPUPtF6rmLPumPAtjWTjCO2Xj1Ktv8AK3fDHj9dferETXJju299fJ39tsNrYJ6FSU7FOepABHXelM8NzDs7T6oTsiQpBcU44cJxuBgDbG3jSE5aZkiY5Djx1uPozzIA+X6+GKzNdPHoMhSVoCkKCkqGQQcgiikzgu9Mf4XaeNySpMlEfsVBfXCFFCc/ZIorYOtJnEDSMK/mDOXGjqmw3kqLq9ipnOVNk+R2/FOdcMpovxnWgrlK0lIVjofOi+JBMOa41c3Yt2aLCY6S20+GgQ+2TzYT+7ISemB60k3hdtsF7dn92U+VN9qnAGFqQfhJ8tsA9acdcXmfpdRk3W2NvLHPzvjKw0FHlQDkD5hzePQ1GzkCbfoS57qA2mQrlYjNjZtsbnA9TXGQrXaHj910fZmicq7o2tRz1UpIUo/2TRSPwX1n3y1xdO3gdhdIbQaaUo7PoSMDH8gMZHj1ortLAlSiiilNdqG0xL9ZZlsuTYXFktlCx5eRHqDgj1FVzhxpFtW0hDSn4zPMhL4TstPQHHgMUUVz2Y69/DLBZlwQ8y8k822xQodClQOfzRRRWE//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAIBAwYECP/EACcQAAIBBAEDBAIDAAAAAAAAAAECAwAEESEFEjFBExQiU1FhIzNx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAjH/2gAMAwEAAhEDEQA/APTM0koncK5AzUq0uNyGnmA9Vtbqtz8dd60AxeT7DSs83hzWQuOe5Ky523tri1lkinf0x6cTFVGvkWxgefNa5XBHcVJ01rLyTDJMZ0DOSM7op4tyr/tFDAS8LZk6D8sazWV408zDyh92HkgdiGbI6VHgjef12ya1k/8Aa1USKCKZYxzqJqFYliZivUvX+PNZvnuP5Jr1bqyd5gpysXWECH89t61+q4uZ4HlhyEU/C3KozSfySTOSUTWQq4we3bI33zWzjyFHV3ql6aqw7l0ni2mMcHuQBLgdQB1nzRVtuR6yb80UMwV3SXBuHKRsVzoiqwtz9L0UU0iTHcfS9KyXPiB6KKqAWsdyLqIvEwUNs0UUUMj/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Gone</div>
-                                    <div class="artist">Michl</div>
+                                    <div class="name">Waste a Moment</div>
+                                    <div class="artist">Kings of Leon</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAICAwEAAAAAAAAAAAAAAAMEBgcBAgUI/8QALhAAAQIEBQIFAwUAAAAAAAAAAQIDAAQFEQYSITFBE1FxkaGxwQcUUiQyM3KS/8QAGAEBAQEBAQAAAAAAAAAAAAAAAQIABQP/xAAgEQADAAICAQUAAAAAAAAAAAAAAQIDEQQxBRIyQWFx/9oADAMBAAIRAxEAPwD6Qjhndz+3wIA9oI/kd8R7QCSe0dHRtfuIjmpuXlGy5NvtMN/k6sJHmYw+u/U3CtKSc9REytJ/ZKoLnqNPWA9IxXftlmaQjHsJYqkMV0UVOmB5Ev1FNKS+kJUlSd9iRz3hCRU6eq7K2O8SuYao6H5ZgPzbznTZQq+UG1yTbgDjmNYP4ixhV8ylT6pVs7pl0hoeY19Y2liajCsyTbSXEtutrzpUoZhtYg63jypPCEuFqanZt55OUEpaHTBvfxPHeIe/g7HCzcTFi9WRbo1M3Tkz08999OOPlCg2payVWXlKiCont6xbqOCZmoyYRSKe+84rRK1DIj/SrCN206jUymthMlJtNjMF3tmOba9zre0WJl4hbWuub4MVUptaMvMXKcqV9fhjn02w0vCWEmKfNLQ5NlannijVKVK4F+AABfmEe3MPm2kIo5F27p1XbLg5iO/6rxb+YQgJHWu908i7/lbTziKcVl6e1yT7QhGFlQ3UTCEIQP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBQYI/8QALRAAAQMCBQIGAgIDAAAAAAAAAQIDEQAEBQYSEyExQQcUIlFhcRaBFUJSocH/xAAZAQACAwEAAAAAAAAAAAAAAAAFBgECBAP/xAAkEQABAwMDBAMAAAAAAAAAAAACAAEDBAUREiFBEzFRcSJh8P/aAAwDAQACEQMRAD8Amzf4Y4NitotSLVu3uSJD7Q0qSexgdfo0k8Pwmyw3NzuFZtfNmy2lWi5TwlRAlMyDwoCJ7GK6hxe+CELZYWjfAIlQkJNc6+K+VMYaFtjj4bft3EBp5baY0L1KifgyIPHtApetVSWvpmW3GUxXKmzF1WHf6Ua7LK2IWaHVYoi1d1MENeYTwglO6okgeoSqEj/GeZqkatX8SzKjA8AeSq1dGlLwcDmtrqVKgDTI50xIPFZhuweKoI/Zpn+GWUMVKXcbtlttNIb22VuJnUvUmY+AAeefaKNVMrRRuXZCKWF5pWHGW5TOyj4Z4PhVokm1befjl51OpSj++n0KK2mFX6VoQ0+tG/AEpEBRjtRSfJLIZaidM7i8XwZsMs/ZP2t21LDyFKPeay2fEsPu21niu6m0guN7TkFau+oERx2pXZyzwbnMT38A5s2jJ0NON8F091fs9PiqHEM1YhfqaVfXbtwpA0p1qnSKN0lsICaQn28LFXXYDEogTD/GbUYts6leU29/cgTtdfqZ9P3WqyCpDb93Z4cHTZpha91clKu0ACIPM0sPzlQygLLjzm5o1x6tvr19p/3VLh+br3D1rXZPvMqcTpc21xI9q3T0pTRuBP6/eUPp60YJGNm25XSl7cWlo1Lz6AofNFIjJ+eksZmQrHDrsn1FK1uHVsk9FT1gd/iigctukjLTh39JigukEo6nLHtLcSpXo49uYqww8WKnnTiSbhLen0C2jhXzq7f9ooppLthJTK5Td4ClCm/L3Sm9vSFbDOuehM/XfrNU983hxfZNibwMADd39Orr/WPj370UVQRxvlST7KN/SXEtDUGCrUnUlIXB7n9e5iiiiuiqv//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Your Taste</div>
-                                    <div class="artist">Seth XVI</div>
+                                    <div class="name">El Viaje</div>
+                                    <div class="artist">Vitalic</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBggC/8QALBAAAgEDAgQFBAMBAAAAAAAAAQIDAAQRBSEGEjFRBxMUIkEWMmGBcZGhwf/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEEBf/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMRIRIxQQT/2gAMAwEAAhEDEQA/AOjnlBQ+WwzjbJFINYa4RS6hfMHyoNMZ397OpGaST3E0yOJEVAds5+K59jchqbakIM96Vq1yyEycvINsletMRqZVWeSaJI493OKjPHuoScPXU1hbXCyCZVcpz5MQz064BPXvSPR+JJLxwbgSZyBnOF2/HeonLEt1XljMuN7xRbedFFbFpecgNIoyAP8AtFZrhC40y4uYiIZhOCeUv0bb8dKKPB9ME4XU1LzpIx8lwx75qZ+I/E2qaHeaetvCptXmHqJOYYVevzVLThGKxDeglmQOxYqzlhv2zWM8ZdDlOg28lvGskAc+cpGc7bGlLU3RhraPJzfrWvy61xZdejncJKxPO6kld/8Af5qw+HvCkXpY7nU4y7yfbhtsdzUm0DR5LjiQqkByGA26Yz0/qulLGGG0tIIgwSONeUJV/WroAiaz3M6Nsu/fkc2ml2sMkL2yAPGPa36xviik41QphbQBkUlXBG6ntRTkpIGIg2ltzXW+vz32nJcLbvAzqcRyDDA/AIrHav8AVet2C2UkcMdt9ryqfc4OxyOmMfgUUUuu08zNiqBuZPhXhe3+p7mzklXzIJFc7H3YO+P3VRutBVkMiNgBe9FFOJzZkxdygaiuGz5HVRADK5wWzsoooopotaAEWf/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAEDBAj/xAAjEAACAQIGAgMAAAAAAAAAAAAAAQIDEQQSEyFBUSORJELh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDzmOAwggyMMARgvAArNqEqEV56VSe/1nl29GPAA63UwTkvjVrda34ZYiWHkloUpwd3fNPNt6MQBLgdgCsXAAlyAAOwAB//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Mystery Inside</div>
-                                    <div class="artist">Edu Imbernon &amp; Triumph</div>
+                                    <div class="name">Apocalypse</div>
+                                    <div class="artist">Cigarettes After Sex</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYECP/EADAQAAEDAgYABAQGAwAAAAAAAAECAwQFEQAGBxIhMRMUIkEyUXGBCBYjQmGxJkOh/8QAGgEAAwADAQAAAAAAAAAAAAAAAgQFAAEDBv/EACcRAAEEAQMCBgMAAAAAAAAAAAEAAgQRAwUhMRITBiIyM3GBQcHx/9oADAMBAAIRAxEAPwD0Jm3NdPywYhqklLPm3gwyk2G5Vrnv2A5JxYwqi3PhsS4Uht+K+gONOtkFK0nkEH5Wwss55nrCK5VIsFhDpgzghs+W8Xakx2lXvbg3Wvke2FPqpqlm7L9RpjUeW9AQ5DSVpVFISpzesHaeB0E8DHMWX1ax3psJsavZ5q+Wsw5eiRpHk6fMUoPyfCC7Do9g2tweBij1Dz1mem5mpMeiz3hBfbCnVKjtnnfyeU3Pp4sPrhKtaj5xrNRjs1GegONKS415qIoKT6k8pN+72Pt1hrTDJl06PUZ8yTLkSt5IWfSlKCEhQT7E3X/zC8zI7COsFP6XGbLydt/Ce9BrUessIdiOhSf3oNtyDbpQHRwYV2nDi2M2REtEpQ9uSoA8EbCefuMGCiZ+/j6jytajDbFzdANjlV2oefGKHnarxFVcwShbe5sLUL/poO6wH8gYXVSaj6qVCbIcmy5wpzKW4im3NgDhupSju5NrAcDFX+IdijyNVMwmZU/JS2y16CwpYcHgNkcg2/r740midGkprFCgKZDEhcLz0xaWyjbF3K8NBB7ccWblXYSkAe+DfGoF7Dup+PL56eNksFyq1+amma6+7UJkdTUdIV8lXUQCQPl3ze3eHMua07R4nhLKigLTY9JTe4/s4g1TQ3L1deU83tbpsVpLdkiyipBI+vxq+lsYum1tqQxIcjIBZEhTYKlWCrG1/wCBfE3UHudTB+Oftes8Pxmtb3HcuO31/U5dPF/5RSbk3JX7W/1qwY4NMJXjZwpSSpJVZZ46+BXX2wYY0z2j8pLXxUkfH7K3uYdNKBV83LzA/SwupKCQp3xPS6AkAbkE2NgLdYgh5FlxKpWJ7sp6U7Pea28pbLTDYNmRY8jcVG/BN+cGDD7hYUAAXaXGbdO84z4E6SxELlTlVBLSdq27swwn4hdYBUOrX5+Q7xV5E0bzJHpCYtciCIsKWtJStty6if3WV1b5XIODBjg+Ox7aKox52bA4Fh4Gy2WmeRsw0PNUGTUYJbjMle5ZeQq10KA6Nz7YMGDBR8LcTaahmy3y8gfkq6rZf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECBwj/xAAgEAACAgICAgMAAAAAAAAAAAAAAQIRAwUxYQYhEiJB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APKt9i+yAC32L7IAKuUAuUABAAANRq1d10dw0nj/AIZ5vo8ubT4Met2UcWWebFkm5ShNY3TSTS+N/a0q/KTA4cuQWvYAyAABvHOeNtwlKLap069AAZXKAAH/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Despair, Hangover &amp; Ecstasy</div>
-                                    <div class="artist">The Dø</div>
+                                    <div class="name">Tearing Me Up</div>
+                                    <div class="artist">Bob Moses</div>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Sept 2024, 03:07:38 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2024, 03:07:15 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
