@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -296,17 +296,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAEDBAj/xAAjEAACAQIGAgMAAAAAAAAAAAAAAQIDEQQSEyFBUSORJELh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDzmOAwggyMMARgvAArNqEqEV56VSe/1nl29GPAA63UwTkvjVrda34ZYiWHkloUpwd3fNPNt6MQBLgdgCsXAAlyAAOwAB//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYIA//EACwQAAEDAwMCBgICAwAAAAAAAAECAwQABREGEiExQQcTFDJRYSJxgdEVkaH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwQCBf/EABwRAAIDAQEBAQAAAAAAAAAAAAECAAMRITEScf/aAAwDAQACEQMRAD8AQVlscOfa1SpNybiFLhQreMhPGRwOTn+OnepzelbctJAv0QrOCgDGFDr3PHHY9+KyTiVNqUlYKVA4IVwQalWeO3KuDTTq2koJzh1ZQlXPtKh7c9Mngd6qV04Cs5702kkiwgfgnvqKNBjym/8AGub2FtpVgqyoHHOcdD9VVpBUQEgknsK1utNLqtV8hxoiFhqU0go3pxhWAFZ/4SenPxXnftPT9Gz7dJe2FZCX05IwTuPGO/AGf3isspLE5gjUYBQN0zOSYkiNjz2nGwem4Y+f6NFODxMjQ9S6Ph3yxKZU22dzrLY/JHGCkgdCKKFlZU8hrsDDvDL/AEpYoCfFefGnR4so3O3PenadbCwnOCVkEcH3AfWeaW160Re9GtWy5l0rMkujZEUS41sJB3Y7cfrtT4Gj4bms9Oat06+8YjZMeQw8SVNpKVJx8ggnBB/dMF1lLqnG/IZxtKeAOh69RiqzWGk6uQMnLGpNRt6j0LDuC3fLvNtfQyFIG1R3A88diE5475qRqm6J8QrTZocNlqJPhoPmqkZQHFYAIScc85NaDxA8MYrmo0wrMu3WCzxoiHpciXJ9yipeCUk5J6jgAVZXLQzun9FNxJNwjXFyE6ubEcZSUKKVAeY2Sc5BGCKxjEkGFvlRo9i0TBf0Xl4yvUpdG15po/gpOcA8/wBUVm77dxdHCoIU2M5xng44HHziilmz54vk0tX0Nf2dAaF1suE40m7paRbpoCHA2SVof4547Y6/7pnW+b6eSoLdQ7BU3uQ9vyofR+eO9FFWCSqYgNVagYv3j9anIsVFxYivtRkNk/ipQJJVx1CSc/B20xNeTHFXK5JJcMRiGsuE+0rXwAP4FFFJrOlo27xZy3GQwVu+ocWkBCijYM5V2B+s0UUVHsrn/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Apocalypse</div>
-                                    <div class="artist">Cigarettes After Sex</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQgHAf/EACwQAAIBAwIDBwUBAQAAAAAAAAECAwAEEQUSBiExExQiQVFhcQczgaHBYtH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AM5Cp+i6edQuthYrGuN7egPKoFWGhX93p+oxzaeu+fOBGU3h/Yr50JZ8Q8NTWDp3SK5lBA3p2ZYryyDkDoaXSCpIYEEciCOYrWX080/VF4UN1xBtjvruZZxbRAKYV2jYGwc5I8WPIGszcWxyScV6uVRnLXcp8Iz1Y+lGmqUUVKj0+9k+3Z3LfEZ/5RSDZp9hYkIjrC0mASpAzT79P5rHRuIQHltrOV4WVjIoG3PNfgZFKGlskkMQc5faMev6pos7O3dTI2e0836HFNEdN4eEUVtero947G81R8TSIGVmMakEDr7dRXEJdPnfiRL6FCrLiSYEnEjFiGC/g5waYjxHdaY9qmnyyRR2Vx3zs2X72QF5E+w6e9K1s91fQdjcXMIBJ5AHLfj19s0YTNdXVpBky3UEQHXc4H9opYg4V03aJZg8gz5nb+hz/dFIRdHkWJI/EHO0Zz8Vc6ZqrT2ryTxvasSQAee73+KKKQq9UklYrMRvO4eBTg7fPmeWa9dhBsKssjMpwcfyiigrCO7s20/Hb3XesjLbAEB/yc5x+KKKK1A//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Half Age</div>
-                                    <div class="artist">Weval</div>
+                                    <div class="name">Loneliness (Radio Cut)</div>
+                                    <div class="artist">Tomcraft</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -317,10 +310,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQEBAAMAAAAAAAAAAAAAAAUHBAECBv/EACoQAAEDAwMDAwQDAAAAAAAAAAECAwQABRESEyExQVEGFGEiMoGRByNx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAeEQEAAgICAwEAAAAAAAAAAAABAAIDERIxEyFBUf/aAAwDAQACEQMRAD8Aw+um3e2EtCp7brkVOS4logKIx2J464rmqvZ2GHW1iSytSyle1o4OrQdIVnqkkdeoI+aGNUbOie27Yds5jTivbwP7B9+ev+YqfOEdcp1dvbdREzlCXFalJHA5I4619Y1/HlyU3dpMh5mNAgR/cb7nO6C2HEAAdyCPgGoGwuLaMy0lkvo3GQRy4CRj8cE/qkLHyMVbCsk0pSnk4q76NkS2b/E9nLXGKVbhKV4yE/URg8Hp0NQqqel50e3X+HJnIUuIF6XtA+oIUClRTnuAcj5rE2ajUdWGagm2T7lZ2odkvezMeeW9J33MNnAASlGAfHfxmsjuLb7M11uUoreQopKtWrOPB7itcklpmI7OtspgQHUuoYyMltSeUuHAAyRxn91nHqeDJjylKlLQspA1OBf3KPOAO+PI4qVV5aOp0s+DH4HIurfkhUpSrTlxXkHCgcA47GlKIS1J9T3JxpLTPtozQ40NMgDT456fjn5rgudxfuLyVvlICBpQhI4SPilKzidyjmvavFfROOlKVsnP/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAMCBgEEBQf/xAA3EAABAgQEAgYGCwAAAAAAAAABAgQAAwURBhITITFBFBUiMlHTFiU2YXGRIzVSU3WChZWjstH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAERAhL/2gAMAwEAAhEDEQA/APd61VnbSqMafTWMh04cyps4as/SACCgHcJP2410vsVc6DSx+pq8qM1BVse0JNuLF4b/AJpMWOOeNKr1viPW0hR6MZl7ZOtje/w0ob07Fe3qGlfuivKixaUvPm00Zr3vYXvE4o4lCqj15UX7KpMJLSe1TKX9FP1QsLCjxKU27sELpcwKxpX5eXdDdoc3iCJn+QReNwsLqCCce0JfIMngPzkxxwrFy6vaz2WwL5aT2G5KW+wSQedzmO4uBYb7x16j7fUHx6C8/tJiyRMKoUqVjIO5Uqa7cmQptOKpqUN7pnBS9MHbgUiXwHE/LZZ+lkt83Q8XOmNOxmmSkSM5VkllQWDYBF9UdnfYe6LkFpv3k3+MShhquUpJGOsRK5FszA2902CJ0v20xB2hfQabc+EyCLE6TrtHevaixf0yoSmTltLmSrzG2sFJWUk7ZhbuQg03FBFlYiYkc/VQ3/kggiHqkGhV+5IrdM3N/qhPjf7zxhwpuKQABiNjb8KHmQQQPVPw/RnrCpVF/U6jLfOXiZSCZbbRCUy81tsxv3oIIIFr/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Genghis Khan</div>
-                                    <div class="artist">Miike Snow</div>
+                                    <div class="name">Dance with Me</div>
+                                    <div class="artist">Zetetics</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAwQH/8QALhAAAQMDAwEIAQQDAAAAAAAAAQIDBAAFERIhMQYTFDJBUWFxgSIVJELBkaHw/8QAGQEBAAMBAQAAAAAAAAAAAAAABAIDBQYB/8QAIxEAAQMDAwUBAAAAAAAAAAAAAQACAwQRIRIxQQUGIlGBsf/aAAwDAQACEQMRAD8AS2bqG8RbK0htYkKJKULKDlKON8DB+/8AdPLfcJi0I/V3psPXllSG1YS4DnCsAZPONtqibOlpuSyr9MmurSkbFwJT7bnkD0ptHsEORCck/u+9Rx4gofiPX8h5H/NUipijNrJD+izTC7R9VBbJDlpmusXJ1wdosCO60pKkJ3OQrzO1VPWHUE1aGEFxGUNJRuj2zvXmseK2qUYw74pCFoUFdslaScb7kDP1xVdLs8a4XKQlTy2UJOhKVOJ2IHPNIbVxFwJOyFJ29WEgkYO/xS83qK4svDQxGzuckkn73opnc+krNHZPebqsSU/x0EBQ+jRVhqYjwnxdAOnLQtrTMbbhMpfWpt1XiWgJBCcbHGK7ogVAQ4/FBebkgpPajI29c5+ai4F1usNtlp+3RZDWArCCASPkH+qv7QX76zlUKVCCVYOtSS2N8bcEYyORWDJG7ddbFXU58TcA+13J6OXeGI02PMERCkAOdilJW2vPmkjBGPuuO29B3Bdwlm43guNJUpOtMfRqV5ef9VYWN9mApcSPc4Zwgl1wuAhJGwOOc+XOKZPNT5A1w56H0kfkkpSk5I2x/wBmvW+IQJJ3F5GvHGSvHrj0/HiSZDE2TJddbKk+LIVj3oqtvdult/uJkVbbY/EqKQMfIFFOZJhNDI5ADq/FD2ydAFqQjs2UzV5LJWdOMehJ2+yfasLl1FNJKI+uMsJ0lLKA2SPU6eT80UVB8TRlc1FO9xs7K3sFwkXS6I7aOhoFlQVL7oHNIA8agB7YyOPKmFov64EWSza7nLLjK8pS4RpUOVADxcnNFFQjF324Qq4kA2Qnqa8PuFM4rdaWsO6SdIxgjHxvxxRRRWhob6WSKiS26//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">The Trip</div>
+                                    <div class="artist">Still Corners</div>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2024, 02:07:29 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Nov 2024, 02:07:33 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
