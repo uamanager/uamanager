@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 43 repositories
+                            Starred 44 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -296,31 +296,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYEBwgBBQn/xAAzEAABAgUDAgQFAQkAAAAAAAABAgMABAUGERIhMRNBBwhRYRQiN3WyFiMyQmJxc4Ghwf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERMf/aAAwDAQACEQMRAD8A1K882wjU84htPGVkAf7hPrNWuRuruikGgPU39l0y/MlLnILurG3GQnHfc7Qgecj6Rtfc2fxcjHFMoExUnJZqWcaL8wtCUNqyk76sncfujTueN+YlsnTG7zWL+KGQEWqFZSFqM0r0VqOM7ZyjG54V6iO1odXudysNitfp5mlnXqMvMlTo3JRjO3GkH3BI2O2ZKh4ZWMzahbl6i6qsJPS+JU+AC5/b9M9uce8UUuQW20tTpKFtkhaSBsRsBnPOQducDMLZDHqEy828jUy4hxPGUEEQRSHk4+kbn3J/8W4IoPOP9Im/uTP4uRmWwLRuW4PgqhR6aBLMOgpmXXQ20VIKST8xJJ2AJSPbtiNmeN9hzHiJZrdFlZ1mSUmbbmFOupJGlIUCBjv80LFBpFBolJRJy90URDLCOmCl8YSkDOOfQ5PrmJZpuKTrj802sFUrQC+5NEhIQOsDskAp5/7nfjaK2u23q1Sg8/WZJyW65UW1p0lDhG6sKBxjBz6qOcxqqesS1W6y3Upqt0hqoHSUuKeAKtSdSTzyU7j2iDfFm0m66G/TXbuoYJAU0ovAlKv4VYB3/r3ELJVlxO8nH0ic+5vfi3BDj4HWHNeHVlrok9OMTjyppyY6jKSE4UEjG/f5YIqGK6WbkdVKm2ZintJTq64m0k6uNIGAf5v8kHcAgq8zZlTmZFapyStucn3HlLPVltLaUqYA7Jyoh0JO43SkcGCCAhosq5X52UXNJthtDZQC6mVLi06U4SpIIA1JACeRnA4HyxzU7DqMzWXFy1MthEmNLaVvSmpwoAx2GQMBO2r22HJBAOluitMOvt12YZmAdPSUy0UhKsqyONxgIOT3JEEEEB//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAEDBAUGAgf/xAAzEAACAQMBBQUFCQEAAAAAAAABAgMABBEhBRIxQWEGExRRcTKBobHwIiMkUmJykZLB0f/EABgBAQEBAQEAAAAAAAAAAAAAAAIDAQQA/8QAHxEAAgMAAQUBAAAAAAAAAAAAAAECESEDEhMUMUEy/9oADAMBAAIRAxEAPwDwG3jEz7uSNM8M0lzBJbuFkUYYZVhqHHmDzFcRM6yK0ZxIpyK0Vv4eSANcR52fKfvY+du/5l5gfCruVMUY9WGZNIASwABJOgAFafa3ZOa2tGurOQTwrgtqMhTwPlTUaWuxrVnWRJtqkYyDlYPPHmev8edYpqWIUuKUf1hSXdsbTdjlP4g6smfY6Hr05UUw7FnLEkljkknWilRMWNd4+2qdWOKudnLeKcwtBMuPtIJVORz09KokBZlVQSzHAA1JNayKaHspasqBZdvTLhjxFqp5fu+vWc38KcUU9l6Q73ZaxtoLMXNzGkjNNERlN3TA1GTj6FT9p9mbR7bvtl5Wdge8t2OCeqg/L/axHjLjvGcTyhmOSQxGTT8e1r5GQ+JkbdORvHNT7Lu09OjyIOLi1gXuz5bVwpAb0/5xoqXc7curuPduGVnHBmQNnocj40VeN1pzNRvGV9jeCwUzQAG8OiPjSIeY/V8vXhFEjZLE7zE5JYZJPvooopfQW6SOxI2eC/1FBYsRnHuGKKKaMFFFFFI8f//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">You're In Love With a Psycho</div>
-                                    <div class="artist">Kasabian</div>
+                                    <div class="name">Collider (Remaster 2023)</div>
+                                    <div class="artist">Jon Hopkins</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAEFAQAAAAAAAAAAAAAAAAUCAwQGBwH/xAAoEAABAwMDBAICAwAAAAAAAAABAAIDBAURBhIhEzFBgSJRBxYjYaH/xAAaAQADAAMBAAAAAAAAAAAAAAABBAUAAwcG/8QAIREAAgICAgEFAAAAAAAAAAAAAQMAAgQREiExBQYTsfD/2gAMAwEAAhEDEQA/ANeTunlT1BbqWSyS1swI6QJe7ceOSoKlFtuInYMzMphr+RniQOF6s59slmpY6mlJ6cjQ5uR4WrOq6yHVEdBLM10RaS5m0ZBxlMMwWLrzJ6kxPuHGewKqDs9fu5NeEREnLsBX7rdmQaWfb9xEks4f342gHv7P+KysV1plutcYWyCNmwu3nntyeM/WVtSwLJtY6kf1tVm44FRvudQ0FetIR6KtkV3vFNBVta9sjXnG3DjjPr6XHtQVVvqvy5WPs1S2poDnpysHxd/GAcZ/tZv6PdJHy0za17KZvI44cdw7DOM4yfSh6XTFbZtUsdIepAxmXSEgEkt+gT5OEyc5bqmgtPKYOA2mVS/E+R9zZSieUSM6HCIiyZK9zekR8t+e+eMKj2iIagAhERGGf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAcIBf/EADAQAAECBAUDAwIGAwAAAAAAAAECAwAEBREGEiExQQdRYRMUIhUWIyYyM1KhgdHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQQCAwUG/8QAIxEAAgICAgEEAwAAAAAAAAAAAQIAAxESBCExBROh8CJBkf/aAAwDAQACEQMRAD8A3HqFjhjDqBIyS2nay8LttquUtj+SreNbcxHhHGy6j7qnTrba6zKWCkNKyodJ4BOyhyniKnU/p+jECDUqWA1Vm0/IDQPgcHsocGMecMxTFSks23NNzLPzAUsZ0LvuryLW0tvxtC1jujjHgzS4tNV9ZXw334nQEvXayuXacdw2+24oOFTfrpJBSF5Re1vkUpGtgM/iF7qJ1F+3qWyxJsWrj6EqUyuyhK3F/mRoTxa9udo8KZ6qv/a6kyrClVrKUJcCcyUgC+Ygc307X5jJ5SQmq+6uYU4ubXNLWAPUUlTqlHQk6HfvEbOSBgL+5fw/TGZy1vSj5nQnTjHbGJ5FlqcU2zVCFfhhQs6E6FSe+vA2giPpzgZuhJ+pVEB2rPJFydQ0OAPNtP6ghlQcdzO5QrFh9rxHaZMxlR7bJmzale1oxzrD9PRNyrjBCa+nKZj0gCjIbgZr6Zr7f3xDZ1Ex9LYfcTS5RZXU3kkqWkXTLJ4Urz2H+TpGE+pPuVJ1Uy6ZqZmsqUpac9Rb6trhNyALa7XuYovt1/EDJjXpvH3fcnofMvzXtkoaMmQXc3BJN7cg7G+luRD30kfowqM7LpV+YAC40l79BBubpNrZrWvza3mJV9L5sYYU+2pCqzqsME2RlI/bvrY+Ra+0ZXR0vyUzMPvpXL1BtwAhCcq216XsNgR5hYqaMOwzNberlVuitjH3+TrOV9ey/c5M2b45O0EJPT3HDNbQ1T591CaoG7jgPAbkDv3EEPo6uNhObtqaptWEuY4wg1W0iclGmjPt7oXoh8W2V2PY7xSwHgGVoDiqjMsNmqOCwGfMllPZJtrzrvxBBA0XbaFbnC6A9T3W8LUptQ9OmyqQNgFK/wCvC11LwB9wMrqFIDbNYSmykGwRMDgKvpfsYIIkyhhgwVWtSwdD3LHTbAbeG2BO1LK/WHE2WoapaH8Uf75ggggooUYElbc97F3Pc//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Takeoff</div>
-                                    <div class="artist">Village</div>
+                                    <div class="name">New Morning</div>
+                                    <div class="artist">Monolink &amp; Acid Pauli</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQGBQECAwj/xAAsEAABBAEDAwMEAQUAAAAAAAABAgMEEQAFEiEGMUETUWEUIoGRcQcyQrHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EACARAAIBBAEFAAAAAAAAAAAAAAABEQISMUEDEyEiUYH/2gAMAwEAAhEDEQA/APpzUHpjWz6OOh4c7ypVEdqoefP6zPE7WikKOmNAkkbfVvwaN+10PznHVnUCOnmIbzrKnG35CWlrF02nklRr2APGPQNXgToCJkaU2Yy+y1fZ/uslVJtr0ONi31+oBCAuIzvNbgHh9prkfPOeYm63VHTWfUsDh37aoc3+T48V843H1XTZMhpliSy669vKAnndsNK5+DmjYPYjBOQYjp8iY844JkUMBKU0d27cr/L8Xhj+GUIi/wCpL0cRYTUlxrYlwuuMrG7egDao7e5ACvHmsjdVe1TW0RA23M0yKAn6Ta4lSNoO2k3ypRHxYuvGX3VaGfqUuLe2uqZLKWQkKLu5Q4Hzwf3kkmemXCYSmE4422VQ3QhWx6Ob3BYrlJo+KNj3yW0ikiL1GVqOhMGNprsltr00BxdcOUBuPawSe9ACvAzQgxtShvKXDfnyW1EF2QhKqbFknzV0b/nyMc1jTGZEcSxKUxpyowZ+1oqUVFXc9ypVXfHPuM2eh2mmNLZdakqZRIUR9O1yjaoqoHcLPFH+Mxo43LntGC3UtfSr6O1o6mhW31FM2QlxxRsnghNHyBd4Z5dG6RB02LGajRWmFocdcpCAjlVgmh8BOGacd1qvyZ1xPjg0Oq9IXqUBwxQBNSElslVf2m69ryZR0XOVqcd1TzSUtMkqeUbUt08k1Xue9+PnDDH01dfvA7nEHRnoLU2S0GdUYbbYKXGQGySlwDvfsT+sfHT2tLmtOSnYS2fUDqm0X9pSKSN1c37147YYZYpKPQoD0BhaJC0rc3E708A38eP+YYYYCP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAQACAwEAAAAAAAAAAAAAAAUDBAECBgf/xAAsEAABBAEDAwIEBwAAAAAAAAABAAIDBBEFEhMxQVEhIgYyYXEUQ4GRocHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAMCBAUB/8QAHREAAgICAwEAAAAAAAAAAAAAAAECEQMhEiIxBP/aAAwDAQACEQMRAD8A+NUdJqWNCFqeyytO+QsZJM9wj9OowGHJx4d+i1p9KhhgfIzVaE7m/lxOfuPr2y0D+VR0OXT59KZRvkDkmxv5I2FnfOS0kDycqKWx88zq4c2uHHbyEE4+pAwStNelN6R0FZ75NkQ3O8Z6rAQQSCDlXNCnI1as2IkNfkO+2Fh1mqZLNmetEeFjsP8AP3x4TeOrQhZO3FklERQHDsqOiuiOpQfiMcbXejcdT2CnK98L14ZJ+RxBma72tz/SlBXJC8zqDbPTVq9Jkkcsce201xyQMdR4P0U/UZJIorVmN+0uaWH25W/rEhimDWnB2k5z4XkL+rOs1jDxjr82VZyyUepnfNjlOp+ktFx3RVDVAKzwERva44I/37IiEcfhu2b9l8JjdK6RjhtaX/MB3GVMRENtvZyEUlSOEREEj//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Pumped Up Kicks</div>
-                                    <div class="artist">Foster the People</div>
+                                    <div class="name">Fade Out Lines (The Avener Rework)</div>
+                                    <div class="artist">The Avener &amp; Phoebe Killdeer</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDCP/EADEQAAIBBAECAwYEBwAAAAAAAAECAwAEBRESBiETIjEUQVFxgZEHFVJhFkNTgrHR4f/EABgBAQEBAQEAAAAAAAAAAAAAAAMCAAEE/8QAHBEAAwEAAgMAAAAAAAAAAAAAAAECEQNBISLB/9oADAMBAAIRAxEAPwDarfN2Tjw3Ahc/1VKn7+lWiSo8Q4KhH6lO6xnHZy+hRkLvKv6XPL/tW2G6kiu7L2uCMWwfYDRkxnY2O49PWvW0g/ZGqiRR/Kj+1RbuaSKEeBDHJIW15zoDf70q9O5y9urhI3JnUnuwTyj+4CmtJI5OSo6trsQKGsazc0uX3hXQ5OSd0R7MJyJXkAdfP0+dFCZSzbLy41OS3aLyI46BHY9j9aKmItLGy6uG9SwUOl8RiLy46iljjRkXIMqeFIdBRGnpo/HdTPwyxdiOjsXObSF5nVmLunI93b415+xPUGTOLu7Oxs5XilkWZ3hAXWgeQYD47+I9K1TA9ZRY3pHAiCK4kkMJMxZjxTTsrL5Qe/bff3Uy8hmxoQAANAfClnpy6EmbyMQDckGySex83uFR+jM1Bm/Eb8wRvEQSJFHvlGN6PLfv3+wrhlZ8X06iX1zdm2knfw5C78dknsKG+JXyS31vwpVksuDiyOp/zJAeLRcHPL361oD7UUsdQ5++s7i3GMsJMhbsD4zxznnEe2iF35vpRTOWHqM8xuGt7d3tlUWUpAjkidpSHA9F3y0RT30pYW2GtHt4YzEpYycZAQnI+uu/bvRRTJI2jFbzRSqojjSM70GRiP8AH+q6ZzCYzMY82mTkd4yeRHiH1+dFFQ0ZEX+F7fgvs2Sv0Hu1KJAPowNFFFY6f//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBAMCB//EACwQAAEDBAEDAQkAAwAAAAAAAAECAwQABREhEgYTMUEHFCIyUWFxgZGCobH/xAAZAQACAwEAAAAAAAAAAAAAAAADBQIEBgD/xAAjEQACAgEEAQUBAAAAAAAAAAABAgADBBESITETBUJhcZHR/9oADAMBAAIRAxEAPwC66atL92t7kBCmFe7kuFxxSsZWFDQHnBHn1FU73TtwW5ke4BHjjheMcCnGPpsH/EUo9mziGo94dLqmx2EYWN8TlQBAP3+uqT3PqDqFq+2ZrstPyWkKDaxlSl8sJUpQBAOARisvSUFal+zNE3laxlTgCNgymQ/Ft7s22uSmSI7fLuhRWjZwfQ5/vjdM09NzkrZWEWvm2rlyDagVHGNkb87pVZbmuRfIxnx1x7z38mMpHwpQrhyWdaJCSRvVVlouD4myF3mQzG7iQW46lce2kE7Ofrr91YVF90A1zjXbIjqm3vwWhDX7u0iUQ7loqAQpH58A52fTGaKae1fih+2nl8RQ5x++SmilGcz1W7U6jHBVb697jn6mboFlDsbqFp4qADSQfQpI5H/tTAlyYt6akMOoKorHZyrZwSfP3PEH+VQdPyxGHUTXcQhbyCkE+d8hnA/NfP5lyfV22HOxKfRpDuCTs+CDgg6GsapjjYtuVQDX2BFmV6nTh3HzdMf5KqFcJMnq6HLefKXX5LbZ4OZb4cR8OPP2IIxn1p5er3GuU2Qh5h1DTXJPIoB5qQriVEjOEg/jNSPFtTDqsGLLbSkpJB45Gtk+Mk/0axVNcERLpOtk6PDQQGiiQn5UhWik6+Y59P7REdmQK4007hhWEs3969Tl1fLE5u0NJDiuyFNpLicKVjAGvrqisN2kldwtkZ1Si8w6E81D5kk6/eNH7iik2dYwtjKhgqbV4maw3tttya9KQ4oKICu0kBWfOMH817uE+yzApQtMtqQhXwu/Bs+N4wSP9/uiiraXPU+xDoJy4VNyguNeZ2Yu9pUe/c7S/LccCApKQEgcRrIzvdaYvU9ujx1NC2TOznKShYGs4CSnJ2NbooqT5LhSfmSbCqBA5/Yo6huUdyZFlsNPpPLkO4QpRUPA/GBRRRQ0pW9Q7jmSWsISBP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Fireworks</div>
-                                    <div class="artist">GusGus</div>
+                                    <div class="name">Life Itself</div>
+                                    <div class="artist">Glass Animals</div>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Dec 2024, 02:07:34 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Dec 2024, 02:07:19 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
