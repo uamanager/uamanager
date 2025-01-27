@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -296,24 +296,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQI/8QALBAAAQQBBAEDAwQDAQAAAAAAAQIDBBEFAAYSITETIlEHFUEUI2FxJDOBsf/EABgBAQEBAQEAAAAAAAAAAAAAAAUDBAIG/8QAIxEAAQMDBAIDAAAAAAAAAAAAAQACAwQREgUTITEUYSJBUf/aAAwDAQACEQMRAD8Az/pV9NMjt3cC8vnOCZMXk01HbVypSk1yJ8eDVac5mKkyWJ778E/cFIcUwUJJSVkkIB/N0AfgaoGNWJGQyTxqy8K68DiPnWg50OXxoiWtaytu4XJsLq+y6SC1+FK9nTW0/T53J5hxLa2HVJS47DbWpTftom0/JrzrkXCezTannn46VIRzQmMyge0ixyKQB471UNwR8Xl8FLx2UcZVDf8A8dxJdCaUewm7sK8EfnWFB25Dw0PNGElzi4zSGybCAlBASkf3pKYuefhwp0zGMYRISSBx7Kmj0JOLXFyDjiXWnCChKq9w+a/P/mjUnyn38nGR5TGRVDgo9NKUtEemnlagDXRqvPjRrNUUW+7O9k3QaqyhjMTmZc9q/bR3srJLekvLRFlLWhBjKIHL2p7APdXY/wCaZnNyR36KpLKmw0XihtYugSO6N+R/3ULhu4aRj8d9ljheelSGm3Hmkeq8034U4RV31V2OzZ61Qt07BIZYw2CYjwYPrpeSsqCeR9MJUVAmz4HQ+b86rPFFlniLo+jpzM7F7rNKR9yT8nuT7fuTBltzGxlh+REQs+14KSriSB7lFNAnsjsD8apGI3lNeT65gAOPpQ4t16QG2kKIH7aSRysfyNKe0IisY8cQrHyZeQDxXbEpPBPVWEgFI688j/daY8ztDKTsb6i5L8OclapNqTzS1XYbSBdA110a1N0hfYBLu06OnJzNx9e/faUcrudhsy8Tt9So8l+fbrzTy1j9SokBRKrHEqAHXnvRpadyEzHIck5NqGiQEoaccjhAdU6CaCkjwQASbSLIrzo1XYkKK8qIdBOH0H2o1kd0Leyq4z0eLGpoxpAV7rodpNihfn51Rfqbm07PlJkJgQsjHc4pLUl/9xKqPaE8SKqrP86NGrTtAbkO1p085yNYevxSXcm9DnXoZi48Y9uJam0MkD3Egk9AAd/xql4R3MbU2DPyuQdCphSt0NrtR5Krgkk9AX2T+NGjXFNE1zi4pjXXbEDI4xYLzfnZDMiGgMoCH0cXZDra1H9Qtaf9nu7vwfx3ejRo1qXjyv/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBgIFCAP/xAAtEAABAwIFAgUDBQAAAAAAAAABAgMEABEFBhIhMQdBExQiUWEycYEVFiRCkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAwb/xAAjEQABBAEDBAMAAAAAAAAAAAABAAIDEQQTITEFEkFRFCLw/9oADAMBAAIRAxEAPwDZ5IyViudsyfrOaVyVMPJ8RT7g0qeHZCB/VO/btxXQDODxYcNliCyGW2UhLbafpSPgf7VBy7Nmy8TDzsySwpTXqbbWCge2xBsR8WrcqzXKbkIiuBKZYBKkraOlYBtqSeLfHIoWOWxWfJ8q1mZEvVHBrKDRw0cD97ViUypP1Aj8VhoNUDOnUqThEdmMxC8xiTqrtIbNgocd+97bfNLQdXsZS8tmNCnpuVX8dVzq2JSPSbc8X4pQyAdhupcmE+M/YUuitFiFbXSbg0VyrjuY81ZlfQvEhKQwg6W2/pQn7+5+TRWwc08lH03eAnZGiIXHbnwlLEc7B9l0lKvgEHfcVVOo+ZcQy5Ew1bDuth1wpeS76ym1lJIPY8iq50uzA5D6aYGTOSzh7GKOsSWVPNt+JdSFAAKSSo2K/Skg14da3Xc1RGncpom+VjPLjTEKQr0rFje3tuN/mpLqIoGiuoxpoYZO9zLA9BajqtNw7GMst4uJKlSLpbQnkNnkgjte9/xStyNOf/cC/wCQ6SWzckk3ta3NQ20yFuPwvFKmb2K7HQSOCTUWApUWekMh4uWKShklKlAi/PNNhBa2ip3UJWzz6sYoUnzh0hc2GhmUoLRfVoVYgK4vxRSwwbFZCHAoyiNKjdhcgBafuCd6K107RPkgbJkZpydnF7G2sDitnyLTirS24KGWbkWKyG0+23N6MRw3NvT7AXkCZEcLwbaRIVI0lGlKxcaikkja3P22ooqcWg0EsSkpbS8wY0y7KGESXWo7rynktgekFRuTbjk1WZC54lCRMLi31quXAr1A0UVQYNghSuJtSJLjb4b1KDjgvddtyO16KKK2Qyv/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Control</div>
-                                    <div class="artist">Aaron Taos</div>
+                                    <div class="name">Unaware</div>
+                                    <div class="artist">Mk.gee</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAcFCP/EACwQAAIBAwIFAwIHAAAAAAAAAAECAwAEEQUSBiExUWETIkEycRRCcoGRofH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIEA//EABoRAQEBAQADAAAAAAAAAAAAAAEAEQISIWH/2gAMAwEAAhEDEQA/APSVtNbyAspBXvmp/Uj25Qrg+ayC70G50mKMnUVXcQFWNWTOPs2KvJrF3uEKX59VV3Mu1ScdM46481O12mSOSCQOVV2WRhnHKs3k4jv7eZVluFk6qCFGCe3L55dqng41tRAn4u4WOZjtUZXbJ228/wCqZ1GfJ7eBqKVLbieK5kaOG9XeF3MGXpRT1j1c3W9VGo2slr6Wy2f6mJ9/jHwD/NZrxNZS6TMNQhuJZprrbG7SHONoO08sd6aUnRQMqS3k8qWuPdQmk0tLS2tHlMj7iUX6cefjPf71nVbQchZdpWqa3HdTQadM8t2zHdFsDlzn8uRy69e1O3C1pxRBdJea5ZxyWYyDESvrx8uTqB9+mc4+K5nD02ucOXdzNp+nW13HeFWkBDJIuBjAY/H+082mtPeNKHtZrfafb6uPeO4wap6oODazJBGweRTcwPIPcVk5/v170VBNfoAd5IPmip2vxKnFqErJuYYzUqTGZQ2Bt/VRRRkDGUIwwGPJqKX02yAVGPkUUUibVZHxhQWyevKiiiqC57f/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEEBQYCAwf/xAAwEAABAwMBBAkDBQAAAAAAAAABAAIDBAURMQYSE1EUFSFBVGGBk+EWIjIjJERSof/EABcBAQEBAQAAAAAAAAAAAAAAAAQAAwX/xAAiEQACAgIBAwUAAAAAAAAAAAABAgADBBETEiFRBTFSYXH/2gAMAwEAAhEDEQA/ANHW1w8bUe4UhvFwBH7yp9HlM1JWS0zXWctYQyJn5v5eQ81y7FpqXqcAAToIbHPSpmlt3uDnAdMqfVxCyddLgP5s/pIVNdVWJ1V0Fl0iNdpw+O0uzy3efkoa8Wua2ThkmHMd+DwNflHqux7W6QNH7E1dLUGye0x62uHjaj3ChMkJfDX8RMORvMq/1YPBn3PhXTZzaQVWz/Qadpo561szW1G9nhvGBpjtOCDquUbikbVXilY+Cdrn0z3B/wBhw6N40c08/LvHolZeEt1egPaFoymRtkzpsmzdml2fNFDSxw1UTBisx+oJP751Pb24yme0e1YdZpIZYekSUToojUb2OK8g72Bjs0J1Kqst2M0YY+9Stg7wKc8Rw5a4/wBURdK1tUyOnpY3RUcRLmte7LnuOr3HTPloAg4/p7FwbDvR3+RNmYApC9pJfVg8Gfc+EKubiF2OBPEBzN5jnhhJuBCFvD7i8Nu735SbgQhUtw3AhCFS3P/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Deep See Blue Song</div>
-                                    <div class="artist">Flavien Berger</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBQcDCP/EAC8QAAEDAgUBBgUFAAAAAAAAAAEAAgMEEQUGEiExQRMUQ1GRoQcVIjJSFmGBseH/xAAZAQACAwEAAAAAAAAAAAAAAAADBAACBQH/xAAgEQACAgIBBQEAAAAAAAAAAAABAgADESETBBIUMVFB/9oADAMBAAIRAxEAPwDzd8uf+JQMPeHNOk8hakMrvPhn0Xc5JrnxtfHRzOa7cERkg+yryia/g43Kb4gU0xA+YyQmoew2ZTi/ZjYfUeSbnnbYcLMjTOtccLYs3ZalpaWF0cddJVteTLMIyY27C4DSLkbdAAOioHZandGJBSSRxAAAlhFzyeihcZlb+nayzImdd2d+JQn/APTzx4Z9ELnIIPwXnqqPK0TR9gXDF8JdS4e9zC/Q0taWhxGxNja3BsU5TTz9g50NITL0Y+QD3F0m4tPjlVUuhn7OGmBuNDC3jjnf3sl2KrDVW2WHZ0IgZ4BGDUUwMgmEhjlmJtqIuD/F/XZRyDhsmK4PMZ5HyhkoA1G+xaCP7V7mLAamry28FzAWyPeY7mzSR0PukrD245hEVR3B7o3SRta7RxYWsf2/1BZ8tNJWV0wvsR5OVIz4Y9EJgwnMTX0UHfaKqNU5t5CGAN1dQN+BwhV7l+xc3WA4xGuSJxxSOa8mlsLm/d9Ny5p3Hnsp1Q1wlpAPCEJozHHsSjxSm14cIWuAje4k2HmpZboIIaeU9m1xdZhJF7gAIQgADkjTMRVr9lpLSRPGzQ0nyGyEIRSixcWN9n//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Bye Bye Macadam</div>
-                                    <div class="artist">Rone</div>
+                                    <div class="name">Goliath</div>
+                                    <div class="artist">Sébastien Léger</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -324,10 +317,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYEBQcDCAL/xAAxEAABAwMDAgMFCQEAAAAAAAABAgMEAAURBhIhEzEyUZFBYXGBsQcUFSJCRHOhssH/xAAZAQACAwEAAAAAAAAAAAAAAAABBQIEBgP/xAAhEQACAQQCAgMAAAAAAAAAAAABAgADBBESBSIhMUFRcf/aAAwDAQACEQMRAD8A8/w4pWBgGrSPaS4cBJzU3TsBUkpCRWl2LTqQlJUgE05L0qaZMUa1q74T1Eix6VS9MYMxtSo28dQA4O3PPPwp3tuh7NjLwcI3L7E+HI2nt5Z9adbdY0pA/IPSr9m2tto5Az8KznIXIqHoxH5NPx3HFB3GZjuo9J2mLAeLKVl4AbNxPkc59mc4opw1pG6bLpOCDyPdRVNSV8BiY4W1BGSmJm2mbf1whkKmtEp3B2MPDz7cd/hzWgfZwxcJcBp167xpjasrUlSMOoBWQBwcdh7R7qpNKK+62t97HDTSl+gJp/01FRCtUIJYaQ6I7aFKT3OBnnjzJPzqV1dsxxK9pxyggy1kWhqQDuky2yQBlqQtv+gcVEXp6IkHfIuDgPOHJryh/qu77SZBBcUtJHbasj6V9sJajJVtcznHjVn0zVAu2I4FBBE3WUZtiIUtb8AY5WT9TRRriS0phQDiCr3Giu1MnWTqKMzzk9JLkJKEXHoo6Y3BOwqPHbxA/wDagWq6KZD/AF5T24gbP1c8+dFFPdRMSXYH3I0m4yusvpTpK0E5CtxTn5Z4rmLnOH7yTj+VVFFDUSO7fcZpmpLe5o9EBlmR+IkpK1rSDsUFcrS7uyQpPBQU4yc54Aoooo6iEux+Z//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQI/8QALBAAAQQBBAEDAwQDAQAAAAAAAQIDBBEFAAYSITETIlEHFUEUI2FxJDOBsf/EABgBAQEBAQEAAAAAAAAAAAAAAAUDBAIG/8QAIxEAAQMDBAIDAAAAAAAAAAAAAQACAwQREgUTITEUYSJBUf/aAAwDAQACEQMRAD8Az/pV9NMjt3cC8vnOCZMXk01HbVypSk1yJ8eDVac5mKkyWJ778E/cFIcUwUJJSVkkIB/N0AfgaoGNWJGQyTxqy8K68DiPnWg50OXxoiWtaytu4XJsLq+y6SC1+FK9nTW0/T53J5hxLa2HVJS47DbWpTftom0/JrzrkXCezTannn46VIRzQmMyge0ixyKQB471UNwR8Xl8FLx2UcZVDf8A8dxJdCaUewm7sK8EfnWFB25Dw0PNGElzi4zSGybCAlBASkf3pKYuefhwp0zGMYRISSBx7Kmj0JOLXFyDjiXWnCChKq9w+a/P/mjUnyn38nGR5TGRVDgo9NKUtEemnlagDXRqvPjRrNUUW+7O9k3QaqyhjMTmZc9q/bR3srJLekvLRFlLWhBjKIHL2p7APdXY/wCaZnNyR36KpLKmw0XihtYugSO6N+R/3ULhu4aRj8d9ljheelSGm3Hmkeq8034U4RV31V2OzZ61Qt07BIZYw2CYjwYPrpeSsqCeR9MJUVAmz4HQ+b86rPFFlniLo+jpzM7F7rNKR9yT8nuT7fuTBltzGxlh+REQs+14KSriSB7lFNAnsjsD8apGI3lNeT65gAOPpQ4t16QG2kKIH7aSRysfyNKe0IisY8cQrHyZeQDxXbEpPBPVWEgFI688j/daY8ztDKTsb6i5L8OclapNqTzS1XYbSBdA110a1N0hfYBLu06OnJzNx9e/faUcrudhsy8Tt9So8l+fbrzTy1j9SokBRKrHEqAHXnvRpadyEzHIck5NqGiQEoaccjhAdU6CaCkjwQASbSLIrzo1XYkKK8qIdBOH0H2o1kd0Leyq4z0eLGpoxpAV7rodpNihfn51Rfqbm07PlJkJgQsjHc4pLUl/9xKqPaE8SKqrP86NGrTtAbkO1p085yNYevxSXcm9DnXoZi48Y9uJam0MkD3Egk9AAd/xql4R3MbU2DPyuQdCphSt0NrtR5Krgkk9AX2T+NGjXFNE1zi4pjXXbEDI4xYLzfnZDMiGgMoCH0cXZDra1H9Qtaf9nu7vwfx3ejRo1qXjyv/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Monotone (Original Mix)</div>
-                                    <div class="artist">Secret Groovers</div>
+                                    <div class="name">Control</div>
+                                    <div class="artist">Aaron Taos</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwIE/8QALhAAAQMDAgUCBAcAAAAAAAAAAQIDEQAEBRIxBhMhQVEigRRCcZEHFRZDUmFy/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwQFAQL/xAAeEQEAAgICAwEAAAAAAAAAAAABAAIDEQQSITJBUf/aAAwDAQACEQMRAD8Arf008y+w+3aBlIT6wV6jOwH99KvsWm6Sw0EcoOpgQ5JEd9u9ZnbZu5yeVK0310WBHLQVJgDztVJaZlmAEqUoq2OszHmsGtiluxNJo2NM0F1zJKB5Jskp1enVqmJ2Pt4pFnypyz03SWy7q/aJiPevC7kkizJbJBG3rO/3pc3llaAbhQOtQBVvE02TNVNfsOuJHczbjzAqvue4kKWlxKgTOnruOvjpRVPxoyEW1ywp0T0UlRSesyI8CihFqaI3hkpwrerfsLnQQpQtnCkdyrSTXGNy6eWg+oOEGev29qU/h7ci3uGFAglJ2Oyh3FM85gHcXcKu7NKnMY4dSHEieVPyL8R2OxFHyKWPWd4+Qsox+9mQbdWhS4CBv/Lv7UtfzCRbOJUtRKo0T570qVeJFookjVuDXeAxLuXeTc3iVNYtsyt0iOZHyI8k+R0FTdbupVYrU2x5xApx7FWfMWeatlHMn/NFJ+LcslL6nVARrjSNo2oq4H5M7ufZDcM5JLK0mSCmNq1rA5lSShbLxlYgjVI+hFFFJkdWJzEbZUj8t+HUtzH2HxJ66/hkb/as/wA/xM4Ltxq4eGpv0pTMAfQdhRRS8igVNSnJU1JjifiLCXHDPKbtQMyl1KubMjoZmfEdNNFFFeyp1JEnmf/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Circle (feat. Kamilla Kovacs)</div>
+                                    <div class="artist">Be Svendsen</div>
                                 </div>
                             </div>
                         </div>
@@ -336,7 +336,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jan 2025, 02:07:41 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jan 2025, 02:07:17 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
