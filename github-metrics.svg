@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="531" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="736" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}svg.calendar{margin-left:13px;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.tracklist,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.tracklist{align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}svg.calendar{margin-left:13px;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,15 +31,15 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -284,21 +284,59 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
                     </svg>
+                    Suggested tracks
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field error">
+                        <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
+                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
                             </svg>
-                            Unexpected error
+                            From Apple Music
+                        </div>
+                        <div class="tracklist">
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgMCB//EAC8QAAECBQEFBgcBAAAAAAAAAAECAwAEBRESIQYTFDGxFkFRYZHRIlJyc6LC8OH/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQFAQb/xAAhEQACAgIBBAMAAAAAAAAAAAABAgADESEEBRITQVFhcf/aAAwDAQACEQMRAD8A+Y0pF6Qz9tPQRa2a2XqdaYfep7CVNNKxKlKsL43sP7vhHZqTdm6S0WQg2FrKcSk+hIjtVZyo7PlTcuXUsuXKtw8k88RfQmx9/KMzt7mxPX3XmqhWTZlPshU+M4bBnf45YZ928w8Pm0hTaXZep0Vhh6oMJS06rEKSq4vjex/u6Mh2octnlPcfa2W80535W5Za8409KnKjtAUtzBdUy3Yp37yRyyF9SLn284NqQozIeP1Gy1wpGvepNqqLUh77auhghzaWTdlKS6XggXFrJcSo+gJgjtQ1H89h5Bg+pOoKhwLX0nrHOcvwcw4kXyc/cCE6PMYyjaQrXQfkI9zkxuqObrAUVJPqsHpAYIaN8itRg/EzW+GeO6+Pxy8410nfg5dxQti5+5EYber32eWv+xsJOY3tHFlgqClH0WT0ijkA4EyulFQ7fkdryhwLv0jrBE+sTGUo4kq11H5GCAqXUp51oNgP1G0tMMIJIHfqT7Qq7TBUGlqQ+W03uBa/K1usEEJDEblz1q7eMjUmdnfitxQy8MPO3jFNqmCntIUt8uJvci1ud79IIII2M2iYlOJVVllG40pph9AIA7tQfeCCCF7lHarAEif/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Cure For Me</div>
+                                    <div class="artist">AURORA</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAEFBwgDBP/EADAQAAEDAgMGBQIHAAAAAAAAAAEAAhEDBAUSMQYTFCEiQSMyUXGBFlJCQ2FzkaHR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAMCBQT/xAAfEQACAwABBQEAAAAAAAAAAAAAAQIDEQQSEyExUUH/2gAMAwEAAhEDEQA/AKyXdwtcvTUrF0d2iJ/lec6FXda7LNbsxh2JOpMIqsBcw0gCBoCPUFdCKT/Tlci+VOOMdKZi0keJWjnPQPjukOF71K08/wAI+O6uihhtuQ48NRI/bH+JXuH2zbC6It6PKk/8sfaf0Vnx8W6apu7q3MKSQk3T4QvOWB3lPstTV7g/TmG0202PzWlIdUwOgeiyyR0laa2a2ksKWE2dOveWsijTmazPtA5yUS1p/CV3ldP0i37P06NsDUcG3eYOycNVyaesxP8ASlMewinQ2bqVd4Dcbh+8GgnKdApZ20mGVKhcbuxc7seIZy+JUdi2K4VdYfiNR+IWRdw1QNYa7TJymIg6qjsk/ZequMI4jMA8oQhugQpmRpnJnnL0zpPOPdCEA/C305Dus05Z55Z0mNY7wkAzPOU5J0nnHuhCASEIQH//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Northern Lights</div>
+                                    <div class="artist">Death Cab for Cutie</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcBA//EACwQAAEDAwMDBAIBBQAAAAAAAAECAwQFBhEAByESEzEVIkFRYXEWF0KRk6H/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQAD/8QAGxEAAwEBAQEBAAAAAAAAAAAAAAERAiExEiL/2gAMAwEAAhEDEQA/ANUsGzbQXttQKhUbcpDzhpjLzzq4aFLWe2Cok4yTrrNAs+SXVN2tb8cFHUw29AQVLwRkqIGEjnH7+dSaMZn9CKOmmIdXMXR2ENIbaDilKLQAGDxj7J+NZlUbwmUesojVaDOjSnY6G1MTltpSjOAHPak9XIPjAJ48eI67DvlrtNHRTdvExHnpNqUtrsuJaWBTUL9ygSMFKeRwedeao+2KWUO/xqnFC+rHTSMnjBOQEZHkal02E9NgSpt4RYdNpiO0631L9xUhJBUrIwkHqPtAB/zqkFw7YCYmMH2lDucO9k9tCj9qxgeBrKsOvfyS77tKzl7XV2q0q3aS0fTHn2HkQkNrSegkEcZB/wC6NMW4rUZnaK4m4JQYopT/AGyg5BT2zjGNGlls2WSdsFdO2dq4x1GmxwP9Y1evMQZchhboivyoyuppa0pUppRGMp+Rx9Y1lfo8mdtNZNQZqb8OPTqew/IYbJxIQGgen98YHnzrth02kRfWrvqElyOxPSFKjynfZHB93QFEAYzgAj6wMcjU+V10kHPcCl+uQqdGchPy2hIUpxpp4N8paWR1Eg5T1ADjnJH61n8DbKk1KgN1OqMVKjIQgKciF0O8JB5yUBWcat5caoTrDhToEqsOtu1MS8NHDzTBJBSU4PUE+en51Y0Oozr3YiKVElswGEq7zklvsB9zBGAjyfyfHPGsql6ZcK+TTU0rYW5YrMl+TFTDmmOt8+/te7pB+sfjRpj3KLY2puZtpsNBFKeAbH9o7Zxj8aNXPRZFaz7ytFza6iUqdcFHadFNZZebemJQpCggAjGcggj8YOkhqLQJFzw01zcOmVW3Iz3dYhOyGmm0gZKEqQjCVc/Pjjxzo0aSUpYqatEv20ehS03ZRgkrKghyW2Ao85JGeOfA+OM869YG4Vmx4CWkXJRUuITjBmIx1Y85z86NGg8oMF7cO9rTm7e3NFjXHSJEh2nutMtolIKlqDZA6QDkkk6NGjSyuCS4f//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Pleased To Meet You (Mixed)</div>
+                                    <div class="artist">Elliot Adamson</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQBAgcFBv/EACsQAAEDAwEGBQUAAAAAAAAAAAIAAQMEERIFBhMhUWGhIjFBgZEyU2Jx4f/EABkBAQADAQEAAAAAAAAAAAAAAAABAgMEBf/EABwRAAICAwEBAAAAAAAAAAAAAAABAhEDEjEhQf/aAAwDAQACEQMRAD8A7Yw9FZoU0IK7Am5yUJ7lQ8Ke3ahwTcUIFD0QnCBCncUMiLckOJ5eHDHre64mt7QU+jgO/YjkNriA+vuvIaht5WSO7UoBAPP6i78OyyinPiKTyRh4+mlYn+HdDCd/FhbpdZZBt3qcWTO8M1/uDxb4sn6Db6saS1ZSQyR843cXb5urPHJfCqzRNEIWQuRpWuUuqA705EJj5hI1n/qFk511GyqStMxWeqknNzmkOQ38yJ3d0uZkX6ZCF6SSRwIjIvZXaY29UIU0KJaY73ydCEJSB//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Melancholy</div>
+                                    <div class="artist">WOODJU</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBAECBwb/xAAnEAABBAIBAgUFAAAAAAAAAAABAAIDEQQhMQUGBxIiQWEjUXGR0f/EABgBAQADAQAAAAAAAAAAAAAAAAMCBAUB/8QAHBEAAwEBAAMBAAAAAAAAAAAAAAECEQQSITFB/9oADAMBAAIRAxEAPwBRg4QbvSf4cJsClpjw0RQ0muNFtulsNmDK0lijpvypHxgN4VuOLQ0tjHeijbGSKYi1oIV0sDWlC5pLBJjRAHYFp90vFxpwRNOIX3okapKIRq6Fq1E8g8KVewoxfT12Fh9KxqbmZBmD3AtdG00Gjn+Kh1THxhNLJiysbF5vpx2S6vk0l8Uvp1RWJJCeUKl7ulp2msw0lOiPZCje7RQkCFrHaoDhcr7u8Qskt65h4EYZjw+WBs4cQ/Zp7gfawKH7/AhF005XobklOtaOodv9w4/UXx473l7WReuUQO8zSB71x9tpq6UEBCEHHTryT/C13yl4tIhfIADwhCFcM4//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Us Together</div>
+                                    <div class="artist">Supreems</div>
+                                </div>
+                            </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2025, 02:06:15 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Mar 2025, 02:06:56 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
