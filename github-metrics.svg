@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -41,8 +41,8 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -296,38 +296,38 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQCAwcBBv/EACwQAAEDAgMGBQUAAAAAAAAAAAEAAgMEEQUSEyEiMUFRUyRhcZKhMmKBkbH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgQAA//EABoRAQEBAQEBAQAAAAAAAAAAAAEAAhJRESH/2gAMAwEAAhEDEQA/ANpMMHYi9gUTHCAQIo9vRoXHyfpUmYZj1R7k4KbooOzF7QoOih7UftCrdJvHgoPl4ImiVwU3Ni2DTYQPtCErJIfx6oW6JHFZU1Dgy4BsfNIT4jDDHeSRrSepWCvkxZ8eWatqnAAZRrEjy5pOtFS57zLNK9ztri599vPmpvjUO3y3uPGIppg2M5rm1wUy6taHWJI9VgwnxDRaGTSg5d0656etk3hlTigqZNesqgzL9bZbn5K37AXy2p9dE0Xe9jWjiXOsELBMVbUSVbzJUzzdNQ3P9QiaYK+Xp6mjBedOaPjxJ2WSUmGBwJdLF5jMhC49NVyVzcPbkHiIb8hdcdAYn7r2uFuTkIQNMzkkJ4HOlvb5QhCf7cuS/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBgcFCP/EACoQAAIBAwIFBAIDAQAAAAAAAAECAwAEEQUSBhMhMVEiQWFxMoEUQqHx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECBAP/xAAZEQEBAQEBAQAAAAAAAAAAAAAAARECIWH/2gAMAwEAAhEDEQA/APSVtNbyAspBXyTU/Mj2goVwfbNZBd6Dc6TEhOoqu4gKqKyZx9Nink1i73CFNQPNVdzLtUnHbOO+Pmlq2mO5IJC9KXKyMM46eSazaTiO/t51Etwr91BCjBPjoe/6piDja1ECfy7hYpmO1RuXEnjb1/yidDPi9vAxFFVS34niupGjhvV3hdxVl7UU/R45ut6qNStXteXstn/JifX8Y9gc/dZrxPZS6VMNQhuZZprrbG7SHONoO09MdatKTooGVJb76VWuPdQmk0pLS2tHl5j7iUX8cfPtnz4zWe2tE5kZdpOqa3HdTQadM8t2zHdFsDljn+uR079/FXbhW04ogukvNcskktBkGIlefH06OoH32znHtXM4em1zh27uZtP062u47wq0gO5JFwMY3H2/7V5tNakvDKJLSa3Kn080j1jyMGqvSJxNMyQRsHkU3MDyD1bZOv77+aKgmv0AO9iD80VOryE4tQlZAzDGaljm5yhsDb90UUsEoJQj1AY+TUUnLbIBUY9xRRRh0rI+MKCcnvRRRVY52v/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Weather</div>
-                                    <div class="artist">Novo Amor</div>
+                                    <div class="name">Deep See Blue Song</div>
+                                    <div class="artist">Flavien Berger</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIDBAH/xAA0EAABAwMCAgcFCQEAAAAAAAABAgMEAAUREiEGMQcTFEFRYXEWgZGx8BUiIzJCYqGi0eH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIRITFB/9oADAMBAAIRAxEAPwCAuFwQ0MAnPrVf3ni9tt4oZQ48NRSTqwPd41NXR/UslZx591JU61EzkloEsLVq1D9B5/RqEpelab8Nq+K7g24XMDq0qH3TnODz3pksnEyZxKWlaFAZKDsf+0qCK2tLiZDpUpR1KwPy/QqMtwLF3bCF5OvAI9f8pOUzMsvG1zFOlBUo6vHNFLdnlJbdSDlSDzB7vSiptDyE23zhbxMMR4xSdPWAAg8x8wd+W1YQpc19pFqlcNSZMuGlekagkFCihQQrB/eo55jWDyr3iu4z4dndSxcH46UJwlKdk4JOUkd4OTt50iwuIrpGa6pqbIxpRowc6CjZJTnkQCR6GqStAosO2QrULrGlvcNvS4Eht5pccL3Q4hxRJznGAnCee4GayhBr2aciM2GWl0Mltb6kpIaUOqUc942R/bbvqsfaC5oY7OzcZbcYJUgNhwgYIIVt55x6V1nie9SSXV3WZ2oJACwvdQBBGSOe+PhSwZkfrfaZibWm4BCTD1adaeWc4Hr7s0VE9HkybIsrsByU72Jt7PV5ynPPlRUnoa2TPSFET9hunYlSkgfHNVUMx3ELKNeMgpyRn3jeiinHA0dIuEZSkh+1MFPiFrB+db4rLMqWBHQhpK07DmE7jx8gaKKTChv6OXsXCZHcQlBc/FGB3jY/xRRRU66UR//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAIDBgEFBwj/xAAoEAACAQMDBAIBBQAAAAAAAAABAgADBBEFEiEGMUFhEyJSBxVxkaH/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQMCBP/EABsRAAMBAAMBAAAAAAAAAAAAAAABAhEDITES/9oADAMBAAIRAxEAPwDyuBGAjAeowEAXHqBXiNiZxxAISsI5hAJBTbjg8yY0RwARu8iRPcVXULuKr+K8CWLo3pbUuoXr/ttv8i0F31nLBVpr+TE8AezOKeLWaTP08Rsk/T69raEmp2tdaiugZaGzNR8njaqk+OTnH9yqXun3NlXqUa9Jkq0ztdCuGU+x3E6Pp19pPTGo17S8uLa4pfEVapQPzYfwUYADI798Tn+qXK3N3Vrb3YsxO9j9j/PuZ8dW6e+G3LEKVnprCISVmJH2ww/2E2PMIgAIJln0PrXWdB0y4sdJuUtqFcMK22kpaoGABBYjJGB28QhDlV0yqnPaK5VqGqxdyST5zEz9TCEuYRsQn3CEIIf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">You Will Never Know It</div>
-                                    <div class="artist">Carpetman</div>
+                                    <div class="name">The Only Thing We Know</div>
+                                    <div class="artist">Bob Moses</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFAwIH/8QAIRAAAgIDAAICAwAAAAAAAAAAAAEDEQIEITFBBSJRodH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBAP/EABwRAAMBAQEBAQEAAAAAAAAAAAABAgMRBCExUf/aAAwDAQACEQMRAD8A8raT7w6StV6Olj46aYR36ZXwV04WPfBphhf9N44Hklwdg02/ToJSwKtISwhvlOwL+tottcbAYs2Je6RCi1nkuodg0m34dFnX+OuvqVNf49Y1eISz/orT0pfhG1tB0rRU19DxxFaDTSS4xyLXquGupkh09JOg01XV+gLeEPPACn6EiV79JsOovwhyPXXPSADtLZl2xmOGl4N8YgAg00oUvr+m0cIABI7fSuMYa6z/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAMCBAEFBgcI/8QAKxAAAgEDAwEHBAMAAAAAAAAAAQIDAAQRBRIhMQYTFEFRYXEHIzNCNFOR/8QAGQEBAAMBAQAAAAAAAAAAAAAAAQACBAMF/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMSBCExURRBcf/aAAwDAQACEQMRAD8A+crm4cSvlz7Yqr4iX+xqncjM7/NLCbmxkD3oAFTtkyPuQCZkzzY/I1SjuJmbHeN/tdmfpj2kTs8NYmsDDZlA4eSREJBIA4Jzk56VxRQxueDjpQCreI7ZFI3Jlm3mk8SiPIcE+tFJtzuuo/miqsJu4zsVJB+5m4/M/XrUVbaSQOasNC8krFEYjzIGaY2n3JjVkt5Sp89tXBFdzz8gJc17nb2+vXT9gTp8muu0BO9oZ45DGzbT9rpknJ3bs4yBx5152zcHcSTW4EeoCzNqJZfD9e53cZ+KXF2c1WaAzpaP3Y5z0qi0ty+TZ6oeJrbX+RGc45opyWs1vcIJonj5/ZcUUvNXD6Q/sa/eAnYWA9mpkd5fRoqJPMqL0G7iiii+ovxl2JsybXt51Ej7/XNRfUdTZNpuZ9vpuooqXD4y+zFK908iGd5WXP7NmiiioZp4+BVXoz//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Glimpse of Us</div>
-                                    <div class="artist">Joji</div>
+                                    <div class="name">who are you</div>
+                                    <div class="artist">mehro</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgMCB//EAC0QAAEDAgMGBgMBAQAAAAAAAAECAxEABQQSEwYUITFBURYiYWKx0XOR8FLh/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMEBQAG/8QAIREAAgICAQQDAAAAAAAAAAAAAQIAAxEhBAUSE0FRYXH/2gAMAwEAAhEDEQA/APmFqRNoY/Gn4FW9m9l7nemX3reylTTSsqlKVAnLMD+60jszg3cXaWSyEGBHmcSk/okV2uuMuOz5U3hy6llySrQeSeeUTwJg/fpWZ29zYM9fdeaqFZNmU/CF033dsjOvlzZNTpqZO3+uFKbSbL3OyssPXBlKWnVZUqSqROWYP90rIeKHIz5sdv8AEZtThznlHLNx51p7VjLjtAUt4guqZbgp13kjlmE8SJP160bUhRmQ8fqNlrhSNe9SZdURaH/xq+DRTu02DdwlpeLwQJEeVxKj+gTRXVjUfz2HkGD6k6xKG5Nceh+a54yRg8Q4kSC5394FJ2h/LhG0zx4Dn7hXvGYjSs5lYCipJ591g/FDgho0WK1GD8TNawz5dLz983rWuwcnB4dxQgBzv7yKw2qvWz5uP/a2GDxGrZxCwVBSjz7LJ+KovGhMrpZUO35Hb6obk7x6D5oqfd382EcTPHiOfuNFBUNSjnWg2A/UbS0xh0EmOskn6pV22C4NKUh8tpmQInlH3RRSQxG5e1a2HxsNSZ4d80b0M3bJ6x3qm1bBb2kqW+XEzJERzn6ooojazaJiU4lVWWUbjSmmMQgER0gg/dFFFAcykKrAEif/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQCAwUBCP/EACIQAAEEAgICAwEAAAAAAAAAAAEAAgMRITEEEmGBIkFxwf/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAAECBf/EAB0RAQEBAQABBQAAAAAAAAAAAAEAAwIRBBITFEH/2gAMAwEAAhEDEQA/APOzG6TMcZP6pQx+E7HElnUn+fTrLthtSdCnmRY1hdMdBZ+Yi/VbKkjwcCkJ6SO7CEQ0JfrBGrhDawMrV4L+M2MCePse1k9iDVaHtYcUwsJxkoOiles26Wewflsxu4gvs0u+LRQNZFWff9XJ3ccwgRtAk7Eki9LMEwvypiQVeKVGbEdym8NzhCqMjSfpC2cMv1oLYPY9gRpNRPAraEJnxJHTMseMqV2BRQhTwWvc1Tr2CaQhCvwQ3pv/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Cure For Me</div>
-                                    <div class="artist">AURORA</div>
+                                    <div class="name">How Far We've Come</div>
+                                    <div class="artist">Palace</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAcIBf/EADAQAAECBQMCAgkFAAAAAAAAAAIBAwAEBQYRBxIhMUETYRQiNlFigZGh0RUjMnGU/8QAGQEAAwADAAAAAAAAAAAAAAAAAQIDAAQF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECAxESBCH/2gAMAwEAAhEDEQA/AN1qVaYYnphlK7KsFuQUbM28gqKmevPv4WKr1xsCXtBIBjspNc/eMivd3F5VPHKLNmi/JYWq7NrJy5TBtk4IplcdcJnK/aIiKyTeJHTIXPQ9iZrEgqiibv3h6/WA7monhqQ1iQ8l8ZMRyXRq5MzIOZEgaJRUXDHhecYSGYHCclOi5T+XHC9/pzAK2QsrXTR0VLXFTpmbaZYrFNdVwkEWwdRSJfcnPWCMGsJd140hUzj0oP6X1oIOElNtEt6TUoF51ds3m0VJtzd63KLnpCTWpmX9Ld2TQljoO/Pbt5RX1Lndmo1xDu4GeeTr8SwnVSfQAIxVNyjt3YztRe+Io4LA+ezixtjJJvizMvuGbagSCQrngVEs/OPTaqo/qeDfbBl5tBUEXjcnKF5e6EGWqTTfiB4goApncq8RFTZhx55yYdeTwwLaIj0XzTyhVD6bl9ydbizb7AmWEvKiiD4FmaAUTdz1ghK0tnEc1DtwVXlZ5rv8UEM4pHOhuEupll3fO6h3HNSNt1aYlXp902nW5YlExUuFRccpCy7p/eyr7KVr/KX4gggKTLcooBpZeKEalatbUV6IkoSY+0egOn96o3tS060gp29EL8QQQ2mZox6X2Td8jqHbk1PW5VpeUanmjddcliEQFC5VVVOEggghWw8o/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBwIDBQH/xAAsEAACAQMCBQEIAwAAAAAAAAABAhEAAwQSIQUGEzFBUQcUIjJhgZGhFSOx/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAEDBAIF/8QAHhEAAwABBQEBAAAAAAAAAAAAAAECAwQREiExE0H/2gAMAwEAAhEDEQA/AKCVXOogEhdzHgUFHKC4FOidOrxPpW5cU9G45DKAsgxs24Bj8018u8o/zfCBkWrmPaudQ24ZHO0bGQf9EfWu0m/C+PHWR8YXYmE79zXoM/injL9nr4dlLuRxKwisyoCVfuRO22/2rncT5SOFgXstMtbq29IZNJDfFMHtHinxaK3pMsp7rwVzOo96K3HH/t0yw3iiuTMjM8SyBbFoEC2vyqNtO4Jj7gVc/s+wOJZ3Lae64xa6sXlSRbJ1SFaSPMHf7+apAWbPUEs3fcntT9f5uu3FtDF4rextCKpVVJDEeTJ/XaKSpz4adNm+NOh+u4y3NC5VwGzf3COQHlTBMRJE7AmPNcnnpVxeUsjpoSyupGkSdAgQxG8CfJpefjXEAjC5zLg3EUEsOoTrHeBtUDL4/eGJct3cgLauo1swvzKR2MdxVHlWxvvXY6ipU9v9FMZ8FYtj4d5JMn0FFRUs4+oBrjhfWAaKkeRuyXxG7i3rijCxjYQDfU5Yk1C6Y32/dFFNCDpj61k+t9GtiwUQo9BRRQAQZooooA//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Wish I Knew You</div>
-                                    <div class="artist">The Revivalists</div>
+                                    <div class="name">The Mercury Man</div>
+                                    <div class="artist">Arti-Fix</div>
                                 </div>
                             </div>
                         </div>
@@ -336,7 +336,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2025, 03:08:24 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Oct 2025, 03:07:45 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
