@@ -30,17 +30,17 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    218 MB used
+                                    214 MB used
                                 </div>
                             </section>
                             <section>
@@ -296,38 +296,39 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAUGAwQHCP/EACYQAAEDAwMEAgMAAAAAAAAAAAEAAgMEBREGEiETMUFRImEHFDL/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAgEEA//EABsRAAIDAQEBAAAAAAAAAAAAAAABAgMRIRIT/9oADAMBAAIRAxEAPwD0OiKoflCuvtr0y+4adlgjdTHfUdSPe4s4Hxzx3PP12XG3nToqr+k1BPNLei5bZNU6tuVFT09ztEloie0A3Rj2by4/wGQyZ3Fx4IznyF0m2yumoIHv6u8tGTIzY5x9lvjPfCJ6tFtbrk4s2URFpAUHqaym7NppG3OvoXUzxI39Zw2u972EYdxxg++ynFhmh6ske5x2NzuHtE86Y1pC1dtt1a+hdU05ldRTCWDOQ1jx2PHB48e1Ptxj4kkH7yqdM3U9wvEMbqaKitsM4dkOB3NHHODk5HjAVqo4XwRua+Qv+RLc+B4UQn73mHpOLikm9NhERWQEREAREQBERAf/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcEBgUIAQID/8QALBAAAQMDAwIFBAMBAAAAAAAAAQIDBAAFEQYSMQchEyJBUWEUMnGBFRYkQv/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAwb/xAAjEQABBAIABgMAAAAAAAAAAAABAAIDEQQhBRITMUFRFCLw/9oADAMBAAIRAxEAPwDJaI0Vddb6k/mdUrkqjvJ8RT7g2qeHohA/5T39P1WwLNniw4bLEFlLTTKQlttP2pHxVB07Nmy7mHnZklhSmvM22sFI4x2IOCPjFZlWq5SJCIjgCJYBKkraO1wA43JVxj45FCxy2IE+T5VrNyZeKODWUGjs0aA/e1YlNKT9wIrpsNL/AFr1Kk2iOzGYhePcnVZaQ2cBQ49fXOO3zS1T1evKXVsxoM9IJVkvqyd4wSkeU454zxShkA6G1LkwXxn7ClsVswQrtlJyDRWqt91HqrUj7a7kmUmOg7W28bEJ/Pufk0VsHtPdH6bvATsjRELjtz4SliOewfZdJSr4BB79xVU6j6kuGnIluWw7uYdcKXku+cpxhSSD6HkVW+l1/ch9NbGTOSxb2Lo6xJZU8234mVIUAApJKjgr8qSDXj1qdd1VEad0mid9LGfXGmIUhXlWMHOPbuO496kuoigaK6jGnghk53MsD0FiOq023XnTLd3EhapAKW0J5DZ5II5Gc5/VK3Q05/8AsC/9DpJbOTknOMY5qG2mQtx+F4pUxnBXg7CRnBJqLBKos9IZDxcwQUNEpUoEZ55psI5W0VO4hMJ5+rGKFJ826QubDQzKIWjO7YrBAV78UUsLNdZCHAoyiNqjlhcgBafyCaK16donya0mPqnR2sXr23Y4qD9A04rEtuChlnJGCshtPt25zXNxturen1heQJkRzxg20iQqRtKNqVjI3FJJHlxz+O1FFTi0aSxKSltK1BemXZYtEl1ph15TyWx9oKjknHHNVmQueJQkTCtb61ZLgV5gaKKoMGghSuJtSJLjT4a3KDjic5XjuR6ZooorZDK//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Too Much</div>
-                                    <div class="artist">HONEYMOAN</div>
+                                    <div class="name">Unaware</div>
+                                    <div class="artist">Mk.gee</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQC/8QALBAAAQMDAwMEAgEFAAAAAAAAAQIDBAAFEQYTIQcSMSJBUYEUYhYjYXGh0f/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAHBEBAQACAwEBAAAAAAAAAAAAAQACEQMSMUFR/9oADAMBAAIRAxEAPwCl37X7Vnmy2FWe4SRHc21LZwe48cgfHNZyuqjCUFf8bvam+9TYWhtJCiMZxz/f7pG1brhUDUN8S5Ai9qJC45IU4FLAVnPCsA5Aosmuol4DbLURlDhKStsqWk+nIBHOCPUax2/l1HEa9qxpbVsfUj7rSYMuAptHdmThJPOMY+aZkus9o/rNnPj1Dmp1bHWJdxRJLDQk7m96VqwFc+xNeLuwy1H7fxGlIbSopBWrzyfn5JqezBx4+bqVut5xuI7j49QoqP2K9OTNWwmzCZDrj6StYcVxjHIGceBRTMtyy4g+0g1qXJ/Uu8wS83HaNydTuLOAMq8mtWVctL6bu0NUVMie8ywUOONhJQVnjlJIwfPufNLHUNWeoepUg+oT3vf9jWE1HkPuobbT3LWoJSM+STgCr1Auq76f15DnOpTb9KXJ8/oUVpXLV06A6lDukZu47nb3HE5X+oCQfb4pf0w1fOm9ujybk4wn8hQBjj1KQOfJ8fQzXTqXW14kS40562vO2xpKlAtEZCiMA4/wf91DWFwaU15Ff1paokbTyIb70tDKll4ko7jhXGKKWtMwZT3UPT932VIYlXJDhQTy2dzwf+0VQFKu62v9N7JcL7cpdytj2HnS9uqkJUHFE5OEgZT912I6a6dRFS3GZcjLS4HA80EBwH47u3xRRRqx7MxQ7DBjRkMp3HCCVbjiu5alEkkk485Ne02eP2pSp6QoD5V5+gMUUUdSDJs1uwxHbgxKVb323GnApKytGRg8E45xRRRR1JuTf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAMEBQYBBwgC/8QAMhAAAQMDAwIEAwcFAAAAAAAAAQIDBAAFERIhMQYTByJBURVhkRQjJUJSYnGBkrHB8f/EABoBAQACAwEAAAAAAAAAAAAAAAIDBAABBgX/xAAhEQACAgIBBAMAAAAAAAAAAAABAgARAyExBBITQSIycf/aAAwDAQACEQMRAD8A6cdefDykoLHPlClYJGAT/uvIdlFOpKopGQBgk549frSpgxy4VlsFRzk/qz7+9ZdiMuMhop0tg5wk4/xWo7WeYb6lpIfWzrzjCFZpRUllKdS3Wwn3Khiqex1f07cusHOm2G3HpjajrdQgdoKCTlOrO5xkcc7VPSnLVbpsKI4htqRNUptkBO6tKd/422/rRDA8ROnb9hVyUS+0vTpcSdYynB5HyopNENhDxdSj7wknPuT/AMopyM16jio+8zDDjAoHnWrAJ9PnVdRc7oz1pPthfS6w4yXWSpIy0dOQABz681ojxa688ULpOuFjtVimWq3tOFrusNkvvJB2X3PyhXPlwQDzVfzqwO6rW41WiCRc21K6TsrrZ/D0sqL/ANo1R1KaWpwZAUVJIPqTzVpsvTKot2+J3CbJmyEt9tpL6goNe5G3JG315zXELFl8R23S6y31Eh3OdQkLBz/dW6vCnrTxaXfYVovluXOgPnQ5JktoQ6wnBysKBAURzgg5oY2xKaDAn9k+bK2QAVU6boqkXGbcXetLPbTKUyyloOu9tWkrVgkhQ4I24oqVMocmhxqVipEqUmbMcuvxByS6JWk+Zvy4GwAHypo53HVqW8VrcWcqUrcqNFFcM2Z2HyNz0+0DiY7X7TSjJdYcS6wpTbqd0qSMEGiigHI2PUyrjGfep0fqKK42ZLslejEhSlHTkkb+UjAHpmiiiun6fGPErbsi+TKWRiGIn//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Maybe Tomorrow</div>
-                                    <div class="artist">Stereophonics</div>
+                                    <div class="name">Baby Blue (feat. Chance the Rapper)
+Explicit content</div>
+                                    <div class="artist">Action Bronson</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBAEGBwP/xAAvEAABAwMDAAcIAwAAAAAAAAABAAIRAwQSBSExBiJBUWGBsRMUIzRCUnHwkaHB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwUBBAYC/8QAIBEAAgICAQUBAAAAAAAAAAAAAQIAAwQRIQUSIjFRQf/aAAwDAQACEQMRAD8A4Y5p5WWU+fuCDUIAiJiVEVHSTsgcyj47k20zlwZ/KddHvmsHSA4EH+ElNQw0gCSm+mXNRlq3ENEuJyjfsCFdsrqXMQqtgPyMLy8NPo5UbSDQ6tXLXHGTiBwCePJCv6foD9U0SkQ4sbnk4gSeNvVCqpdUmwxjO/p2XkFXqHGh+xO7S6FnaH3iX3TmjBjeB4kpTUbZNc5vx8hI7IlbHXpmZq5CntkSNz+9y1a9h13WLGODS4xPMJo4AEzwlgU7XHrGpP09ZvHj/atUqlmygA01w0OdA24kJO7YMHh/q9XEi3bzwfVBI3DI3adzo/Ra/rM0sUqT4GIDt+YYJQtd0m79jpbd9yT6BCT2YxLkia/H6mEqVT8mNV1Rr3lrZAHdwP3vSVlVtSS0HzCEJw43zMhU59SRAImAfJVrl7sBTBOEzj2ShC5X3O7ToS3SqFtuxqEIUFRJ7zoT/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcCA//EAC0QAAEEAgEDAwMCBwAAAAAAAAECAwQRACEFEjFBBhMiFGFxB1EVMoGRocHR/8QAGQEAAwADAAAAAAAAAAAAAAAAAAEDAgQF/8QAHxEAAgMAAgIDAAAAAAAAAAAAAQIAAxEEIQVBEzKx/9oADAMBAAIRAxEAPwDOfV3AMJ4GRJ42N9SqknpbcKhHST8iQaN/kVvEHB8c6kMJixXnZTpASSq0FJPSq9aA8k464nmgFogqcdkSGnbDbtqb/lJ6aGzZ/wA499PSUcO9BKYgi/WM+3YUSOoKolSjoG9FPjxvJ1gEgMcEw4yiyxa3OA+4i5HguQ4KWlEjjC3EQlalrYJ6nh42dEAjtQOVlyCvkeRillTbQdpISRQTR31JOxrfYX4zV/WXJIc4qMwJqUym3kPJ6VqtIB7kkdtnXY1kb9QosJrjY8tTiGVsuthToHuKWD2o1d7ujrLWccLpQ7k6fM8X8QZqzufkzXlPcZad46S6yp8H3fcSrY8BP4+2GT5fp2M7Blr4wOTZcdz5vdQTaTZSa/odYZEMZxlZc7nq5L4Z4Jmw2nEkEkMBZB66B0rvV42m81P5bg4sFmZbDzai40D7jiSog0pR0LVvVG05RpATGZkJR0ey9TjLhAKrvtfjWMPTM1TzTPHOusR4zyi466TR+I1vtf8Ac7wKdQK+xGzXHfwtsJccQ7AW6FuOLQQsCqLZP7d9A675z6zmCNDg8Y646qOpxDimuokBCe1E/wDcWCTMgzC4C3KT1EKbfcHSvxZH4rK5yTrj7nXIeSt0qo9CrCR4A8V9sa6B3N6nlPXS1Wfb3HMX1KuA9MZi9aI666PltKhsH71Zq/3wyuAAKUEAqSe5Pf74Yx1NQos4eluuMpZKyWkklKfCbz1S4n6ZIBHUkk2Luv8AWGGOUIkxPIvpQtCpLyvj2Us1X2N6xMlRBGz3wwwmIkp1wrUfkTQtOq/OsMMMI5//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Aliens</div>
-                                    <div class="artist">Oceanvs Orientalis</div>
+                                    <div class="name">Waiting For a Sign (feat. Koudlam) [Live Version]</div>
+                                    <div class="artist">Scratch Massive</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIDAQQI/8QAIhAAAgIBBAMAAwAAAAAAAAAAAAECEQMSITFBBCJRYXGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/APPri9VWLL8plauTtbmVSXJqM1Ce9DBkj7KuAIrU90BkeQAfJN26SFeR3W1/or5Msbmnj1JdpnNPG3LVFqn/AEB23Ju+R8UFknpbo3FheSM3GUbj19LeOox22c1Woo55wcJ119Atlayaakkk2t2AghLlmpdJABEaoyj7aXfRFyppq9X0AKpd7AAA/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwIE/8QALxAAAQMDAgUCBAcBAAAAAAAAAQIDEQAEBRIxBhMhQVEUgSJCcZEHFRYjQ1Jhcv/EABgBAQEBAQEAAAAAAAAAAAAAAAMEBQEC/8QAHxEAAwACAgIDAAAAAAAAAAAAAAECAxEEEiFBMTJR/9oADAMBAAIRAxEAPwCt/TTzL7D7doGUhP7gK9RnYD/elX2LTdJYbCC0HEwIckiO+3eszts3c5PLFab66LAjloKhAHnaqS0zLMAJKlFWxKjMeawZqYrsjSculpmguuZJQPJNklGr4dWqSJ2Pt4pFxAVOWem6DZc1fxTEe9eF3JJFmS2SCNvjO/3pcjLK0A3CgdagCreJpsmaWtfocYmnszbjvAqvi+4kKWlxKgTOnruOvjpRVPxoyEW1ywp0T0UlRSesyI8CihluVpDfJKcK3q37C50kKKbZwpHcq0k1xjcunloMqDhBnr9valP4e3It7hhQIJSdjsodxTPO4B3F3CruzSpzGOHUhxPXlT8i/EdjsRRciKX1O8fIqbTH7+ZBt1aFLgIG/wDbv7UtuMwn0ziVLUVKjR9e9KlXgFoskjVuDXfD+Jdy76bm8SprFtmVukRzI+RHknyOgqfrb0VUplbY84gW49irLmLPNWyjmT/zRSfi3LJS+p1QEa40jaNqKuSfozu69kNwzkksrSZIKY2rWsBmVJKFsukFYgjVI+hFFFJkeqRzEtsqR+W+nUtzHWHqD11+mRv9qz/P8TOC7cauHk6m/hSmYA+g7CiilzwuqKckrRMcT8RYS44Z5TdqBmUupVzZkdDMz4jppooor3MrqiJryf/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Wilkie</div>
-                                    <div class="artist">Roman Flügel</div>
+                                    <div class="name">Circle (feat. Kamilla Kovacs)</div>
+                                    <div class="artist">Be Svendsen</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQBBQYCA//EAC0QAAIBAwMCBQEJAAAAAAAAAAECAwAEEQUhMRJBBhMUIlEzYXGBkZKhwfDx/8QAGgEAAgMBAQAAAAAAAAAAAAAAAwQBAgUGB//EACARAAICAgICAwAAAAAAAAAAAAECABEDIQQSE1EFIjH/2gAMAwEAAhEDEQA/AMpDG25YgE9h2qEB9Q4kOXC+346f9pqya3kVzNMsQC5HV3PxXMy2rTmWCcyqo6BhSM9ydxxXFsDsz0ywKE8JMLucYqvuo2eWM7YTJ+2mb2WM9ayealuoUu4XrOCdgMd81ACvpNtdiaJjMzoY1OWTpIHu+M5zirpjYL2qCfkYy/ivcrbhl5yMUVw315AwxnGB/NFEFCQTct42U9TOux7Vn9Y8UtBMLO3hjRomYs7ruwOOTntWqXT2ETl5FUgcHPu+6sHfWcWseJDBCB5MZVZ5G2BweB/e1H4njcktsCKfJNlRAuM0xMvfWtrOi+sVo41gUIyx5C8HJGTgsRySc7gDbamdKtoYorpdQc2silpljjAb3HAWPnYY7/hWl1Hw7b6V4NtCtxbMM+aYIiuAp/cnFZnV5RaXkodT0uxZGHDA71OXMWPRRqJcPiqGOR22IrKEY+Zkk8A/FFKz3SyDA6hRVRiaaJzKDN00mQaRNrbhmIjGScnc80UVkr9fyaZpqJkNHDjAjT9NKXMUU31I1bHyKKKIrG7giBVVEpbaHfEa/lRRRTIY+4Agep//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYEBQcCAwj/xAAtEAABAwMDAwEIAwEAAAAAAAABAgMEAAURBhIhEzFBFAciMmFxgZGhI0JRkv/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBgIF/8QAJBEAAgIBAwMFAQAAAAAAAAAAAQIDEQAEEjEFEyEjQVGB8MH/2gAMAwEAAhEDEQA/AJEnqdVrZIQgF5CSk/2GFZT27njHbt+bODDWtlPVUFKTwpQ7Z8/Sorj0a3MqnSiUIKkt5SOSVEJH7I7nA/NZzqrVbov6RH9T6KNMHVQ4Pc2gJBbI7f1Wfv8AKoztJqoVSEUw5P8AMsptVNpZ3LmweBmlXC4Wm3IJlzmEEeN+T+qh265RLq5iCVlBa6yFnGFp3FJxg+CPP+ikOQzbE66vzUizv3h4uJVCisk4wRkk48YIq00zfutqVhLkRi1R4SVsPQw1sLSXCAFZ8jeEA5AxnPIoLaIJGSLJq/w5zMfU5O4N3F44qBBIIoqbcGdiicc0UgpDC8oUcMLxL9pstR0TPYjoPUTsd3Z7BC0qP6FIkLWM/WsG8W24qQQ3G9VHQltKffbO5R4GSSnd3Jp+1CEOtPsO8ocSpCh8iMGssfZi6Nu9uukBorbbWpDyHVFQcBTjB+RGRxXf6cqGMxkW12P31kn1Xes2+/Hvjsm93BWl464dpUGpcX071yhIKpAcRhOFEdvhHGeQeDUVxuZFg3XUN+Q7GSuB6GOJA2uyV7AneQeeANxNKVy9qN1WGm7Qlq1sNE7G4aeknnvnB97t5qnjP37Xd8jw3H35TzigCpaioITnlRJ7Ad6dTRuoLOAo5PzWc8zqxCrZOeoHl9S3x1qJKltIUSfmBRXRJUlDTbKCSlCQgfQDFFSCr4y3gQhBeKt4hyZTihHbKj/p4H7qim6DdvEcs3CYiO2SFfxo3qGD9qKKfXVSRVs8YCXRxT33BeWdk9melLbtW9HduDo8yV5T/wApwPzmmmDFt9rZU1aYMeIhXxBlsJ3fU9z96KKDLPLMfUYn7zUOigioooGciSTk0UUUPHM//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lose Control</div>
-                                    <div class="artist">Teddy Swims</div>
+                                    <div class="name">Marionette</div>
+                                    <div class="artist">Mathew Jonson</div>
                                 </div>
                             </div>
                         </div>
@@ -336,7 +337,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2025, 02:09:10 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Nov 2025, 02:08:54 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
