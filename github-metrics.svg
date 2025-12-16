@@ -31,16 +31,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    218 MB used
+                                    217 MB used
                                 </div>
                             </section>
                             <section>
@@ -296,38 +296,38 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAECAwQGBQf/xAAsEAABAwMCBQMDBQAAAAAAAAABAgMRAAQFEiEGEzFBUSJxsRQVYTJCgaHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQMRAjJhEzH/2gAMAwEAAhEDEQA/ANHZ8Nff+H7i/bubBpvUtwBsOaRsJEg7DbpBpnCGKwnJuMPmLe2XdvtqdfLiiFMoj0loqEnsdvepeDuLsde4i7xzrLWPurspQQwNCFEwCQmfSY6xtWXy1/gslmrvIP529YecclHLstm0jZKQZmAABTLor4aLGrt8LxHiXF3rIt2bd1kt6pWlO0FSj1mZA7R+a8l4g0BtBQZCnCY0xWx5PDt284FZR64uXkhKLhbSmy2vcypPRQJ2iZHasJkrrnIQgJgoUe9PHshc9WcpWzjn8fAopV/rUe23wKK2mY2X1TSTBWFfioLhxK5028kiQVJqDG8bZLHtvIbYxyw4qfXap9O0QAIEd953rkZLM32Rv3Ly6uFF9YCSUegaR0EDaKzKBv6XeqLjjIWoler/ACqmQtwyltQJKVHuKrG7uIjnuwfKzTFvOORzHFrjpKpinxhp3YuUlqqGEjWvxt8Cim/uVv4+BRV6KxAT5/qlE+dvaiipIFgaCdW/iKEe5miiigFO5PSiiioA/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAUGAQcCAwT/xAAxEAACAQMDAwIEBAcBAAAAAAABAgMEBREAEiEGMUEHExQiUXEVMmGBFiMzQlJikbH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAExEf/aAAwDAQACEQMRAD8At7tHS3n8LoJkLKepqqKXY39pMjMDjwVO0jVzboZF6guMsQMdFEkcKoPylgpJ2DxwUB+pUAdjrXXVFBJRdTdPNRyiCKvnnqZPbbDCcNt9wccZUqM47r99VlDS1kH8iC5XSTDFiZGBDsTyS3fvnx/5rhWjFeoq1WKy2C5ZHf203DsPJxnkkfYZ0zrak/FU9LIrCKpUqxDbWU4PYjuftyNLoKS4SERz1VXH3y5nz/zHj7/vqUrupKSeD4CT8ThuLTyL7c0rgIsTfPJvyQMAFvlLY48nTgcdLxV1T1HfEuG/ZRVARXwMSsyIysP0A+bH+Un6aNZ9NJ6+ahqHujh5qhIKxH3MS0ckfyk58gLtPPdc8Zxo1LRBdY3oS9aUVFSj3Xpo0aHyHXDliAASTvOOBxqisl5u8NOzJbpYl2bgZkc91zxnjsM8amq9WofUwzSRq8fxMMc7KcMJvbR2CeNu8lufL/TWy6dD8CqCOUs0OD7lTnsrgcDg9taoRPfro1xpbZUUqwy1m9ojKjgZQHdk7s9+OAR+2k/U9huVZHV1k9QslSke2lADKEZgFB3bRz82eTjBPHjVBc4IpeqrHujV3D1IUFi5/MR57d/rpb6qNHT9PtQwVESS1LMskBUB5YudwTbzu5BH1240hXX6XWcw3ugulQJ0rJrBCJY5X3n+pgEHAwCEBC+AQBxo16/Sg0sdVIlPNV1Us1tpZpqiVmdd+GyBnheCoCjwv7k1KFFP07dD1ZVzVCieAUzySTEnZJLkYYFv9Y1HJPY8+dc7e1opkc0dvuFSpYq0qe80e7OCQ5G0jIPOSBn9NGjV1Dqhu9JHDPNb1ineAhXaAxyMGbGON2FOBnHGTx40p6hsP8RTfFtTwUNbJ7e2VpkjKsG+XsWy3YDP250aNMWmHprQi23msp980ri20ku6RyDvYNuUqDtAA2gccDRo0alH/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">It Was All a Ruse</div>
-                                    <div class="artist">Stavroz</div>
+                                    <div class="name">Maine</div>
+                                    <div class="artist">hey, nothing</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQBAwIFBgf/xAAnEAACAQMEAQQCAwAAAAAAAAABAgADBBESITFBBRMUUYEiYQYjsf/EABsBAAICAwEAAAAAAAAAAAAAAAMFAQIABAYH/8QAIREAAwACAQMFAAAAAAAAAAAAAAECAyERBAUSEyIyUZH/2gAMAwEAAhEDEQA/API6jFuZUJYe5ktLLhGwrZ3JO05+melTK4F6dyjMVUnZtOcbavjPzLvUI7m68Z/HFq07lbmuKTISaNJKeWNTklvgYzNHcFGqMaaFEPCk5x9zHUN+0DgrJSfn96Bn1ZPJhKCTmEnkvsbVG+JL6aJy+WQ98aTHQAOpDqHpvTKqyupU6hkSqab2FzY34Ny+GjprXyB9vb+TqXFDHt/7EDAguVKo/Gc42I6Iz3OQv7N7W8rUCQ/psV1Dhh0fsbxKybVTvqDq7srr+W2NgAf8jHiErrb4ug2Xw6sSPyXjOx/XcPeCYTciXt3U1WSYp/JP9RX6LE8Qmy0iE1+R/wCmiYcmEJBd7FKNOozk1FwuSAG5xn9TG0t7qhVIqV1q0d8AggrncgfcIQzyU20L8HR4pUtLaeh3eEIQIxP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYCBQMEAQcI/8QALxAAAgEDAwIEBAYDAAAAAAAAAQIDAAQRBRIhEzEVQVGBFCJhcQYHJFJTkaGxsv/EABgBAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAGxEAAwEBAQEBAAAAAAAAAAAAAAECEQMSMUH/2gAMAwEAAhEDEQA/APRgFTAzWKZXeB1hk6UhUhZNu7afI4PB+1Iut/iO90OK4utVvoZdPtrpbRnigMckjbdzEAORwflx5mhaVrwdOtfeL9D4NPD+nu+J6o3b/wBuzv71tsKWtA1iTVtKmYrPC8QU7mcEsSCSPYgj7j0qy0WeSZ7gMzMibcbvU8+ftQu+Tx1vwsCO9FSaihyOEPI9K64/MDT7Tw7To75xNHBfmeRQVCvJJLkAliABhiOew+1PGp9f4cC33cn5tvfH0qoh0YX15Zz3APTtpjNsI4ZtrAf9ZoaOUSl7pi7ous+EaTc2yqk8oRrtpDN3iXIUAKpBOEPngnnPOKsdF1HWLi7trd5ILN7zczZtmLxhVz2ZsZyVHI5z2FMk+g2dxcXklxJcyRXQCyW/WKx4Chey4PYeZOD2xVfc6Nb2UqNZ26xqoIXZ5ZwT28zgc0Lc6V7L/RijVkjVXcyMoALkAFj64HH9UVq6e1wbf9Vndn5c98fWihmteXhnU1JTRRQgh036wfrybf4+Nv8ArP8Amsh9qKKAixooooD/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">The Bridge</div>
-                                    <div class="artist">d4vd</div>
+                                    <div class="name">You?</div>
+                                    <div class="artist">Two Feet</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EACsQAAIBAwMEAgEDBQAAAAAAAAECAwQFEQAGEgcTITEiQTIUFVEXI0JS0f/EABoBAAIDAQEAAAAAAAAAAAAAAAIDAAQFAQb/xAAeEQADAAICAwEAAAAAAAAAAAAAAQIDEQQhBRIxFP/aAAwDAQACEQMRAD8A9LnDuzf/AFBvVX063BS1MG3XLUNwcjLmUDnTc/PJfywccTj396QKbqNuvb+7Lp+11toudxvdNi50pp/7dPMiMh5M2FJUAktyKEe9U+779R2nqnuil2Nf5aLb14k7FVUwKCgViGk4YIyobkAQQeJIHg+fOwWVZKeiNZHHJLBEUiHDGELEgv8A7NhvvwAAMeNFMunpD+Px6z16yRf6kbll6d2raSftctDHWB4k7CNMSrhlVgfjx5E+cZPkE49sw6tbmu/UCC51iWFLtbYjRW2ilgHYEkjKhIkzhSD8gzNxwCBjOrZrNBJbUQdrvE8iPHHj/HHSnu7bK0dulNIzR0bOJKmKBF+aj2VB9EYzjODo3ha7LuTxWSIdz2kbBY6/c2wN+JDv+tstG9+jmrZb1HEgeeRYlVaUSeAiqQpyQAfo5OdGsY6a3agu3Ui0Jve7zS2u3QSRUD134nAZolfkcKpLZ85HoetGlGWcb0qaCp6gbzba8tG+3qiqUOpcfNTIpZ4wfY5g4x4wwwMemmkQokhC/LJ+tJPUmosty3/ui7bdtU0m3xMUEsTkIkrepQQMAMyuQp8Eaadp3iIVi016QLVwgCop+QYv4/IYPn+SAfB07DST7NbxWWIpqvoK0gmVw57hOff3q/rquL9FFEVPcf4yFvIx96tRX7Yz3FoJOfheHbOPfvPczn/mkfcNxp6utrqO3Tw08zxyvEsrcRCgBOCcnDEfFRn8iNO9lK7NX9KwRW39IfSqos0PVHadZu+40VZazG0a94rxgYB1jWUH0A2ME+MY/wAcaNc9Mam1Wzqptq8byscdvslanKmMoKwZAKLMeXgryHn0Pv1o1TPKt7Zo++Irpb9z7hpNtttg0W75zTrZZZA3EKuTWOPSn4sRg+CwOMjGsqHTi8RXHcFotFwsNetvSJ6ir76IAePIrGz4IIOcnx+Pv60aNQ4Q4KS9R2Rbw1PMbNNEsETS3RePeb4cmAYMRnJ4+MeCcgHNtN06vwv9j2/cbtt6Jv08tTSTNOHiYg8jG2FyxJ/kEEfZA8GjU2HVN62zUto3W67n39Z7hvltuyU23ZGoJLUjqv6clFxVIo+LLnj4zgcTgZ8aNGjUAP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBwgFA//EACoQAAEDAgUDBAIDAAAAAAAAAAECAwQAEQUGEiExE1FhFCIyQQeBQnGR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDAAT/xAAbEQEBAAMAAwAAAAAAAAAAAAABAAIREgNBUf/aAAwDAQACEQMRAD8Aq7LsIvoDjBRpFwSpBPu+uN6csOiPSWksyYyy58RZoi/nemHK+SnkwbuNhthv+KT7r/ZFPmGxUrKGmVkJSbKFt/0e9dpkFzIyBFgIZQGktKJ+NlJ571AxnC4/pVLSz0fITbbvvVrTsKnsywmNFD6lW6bpTcb9+xqLimTpL0R9c4Ml1Kitv2khW3B0mj2S8tlXMyHm5DiUsLcSbKS4Um5Hg2saKuHOGU50gSZUgJQWW7NdIX6lyD8eeKKRB91BrsyzMjFKS0hq9thYcV0MQzBhmFaus20w6UlV7AbfdZSxTPr70NMeMHW0BNlG9if8rlSc4YxNgemmYg+41wnWrUUp7X5t+6nwTdNpLE/ySxGZeSwUvahqbUNrHsfFQE/kRUrDSpxsIkcJAJ0ms6QJElaw11VErGywKfcr4Y2y8tmbMU84sANBsHTci+996tj48flPLJmqRjnqisyHQ0vVdSe3YjxRUJWFlpJeIQTqFuqbG1FZCU3UzEimQ4AQf78V7yYZiPBLiRo8UUUNT0mA2daVdMWHAtbau9FxMwZSXemFKSNrm1jRRT4yt5jH5TU1UlbqllZNwo3FjyLH6ooorR1f/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">1542</div>
-                                    <div class="artist">Xique-Xique</div>
+                                    <div class="name">Swayed</div>
+                                    <div class="artist">Kiasmos</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAwACAwEAAAAAAAAAAAAAAAUHAwYBAgQI/8QAMxAAAgEDAgQEBAMJAAAAAAAAAQIDBAURACEGEjFBIiNRYXGBobEHMpETFTNSYrLR8PH/xAAXAQADAQAAAAAAAAAAAAAAAAAEBQYD/8QAIBEAAgIBBAMBAAAAAAAAAAAAAQIAAyEEERIxEyIy8P/aAAwDAQACEQMRAD8Altvutop6OGOotEU8yJhpHUbt67Hf567G+23Hh4boR+XYuxGxOfffOOuk8dOSeh064b4bqb/cBT06sIUwZpMbKPT4nS82BRuYaEJ6mOy2f9/3WSpWmEFCH8MKEkM38o9R/wA1UqSwpQxftZ1WSdceVnIQdi3+P11sVtscFgooY4ohG7Lyo7Lsvt7f7nSy6VMkFUFp4C1c5Pl5AU+59B9PTW+krF58rfImOos8Q4L2ZqfGXB9LdYpLjSPHSVY3k5jhH+Pp7H5HRrbYIohOstQ6zVqbilj3EXuqn+4/TRpqaK3O+0AFrjEklLArIACgkOxUkZX46pvDXEVps9pjoVpZadOryjdnbuxI3+muLFwzQXK026avtgNXVl15SgBUjJ/MCMjwk5x0Ok3G3DdNa6a1CjWppjPJNDJmfKll6YznG+pA2La3AykCFRylGtd9jvUD00c1NKrELzGRS4z3C5zn3O3rrzz2tRLJTQsrgfxJHw0gHQBsfpv07DGvnGdqqNJGlfleNuU/b7jVB/C55qirmkrLhKsT0pmiMsvlyBXCsDk74+40x0wfTt6tgwDUcbRkZlMt1BDS+C3xc5zh2B2J/qY9fqfbRphBXq7xrSxq6zrzRsSEU4GTjue/QaNNwQezFZYqcCY6GSQJwsFpajHI2GZORW8o9C3XrpfxTbXutNaeaeGmaG5TleYFy2S22Bj76NGo1TwsG37uUoPJcyF8RW6SB7grTRy5ZmwgxgcxxsfjrxWe6LTWamqEeJamnmkjGW5mIZeZTgdgwx89GjT5PZcxdZgmNLNxpcjJRV9yqGWGlqPHUIvmYY5IB3HQnto0aNaMu5g2wn//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcCBQYDBAj/xAAxEAABAwMCBAQEBgMAAAAAAAABAgMEAAURBiEHEjFREyJBYRQycXIjM1KBgrGRocH/xAAYAQEBAQEBAAAAAAAAAAAAAAAEAwUCAP/EAB4RAAIDAAMAAwAAAAAAAAAAAAECABEhAwQTMUFh/9oADAMBAAIRAxEAPwBoRIrWB5BSx1dxhZsWpZVpi2b4pEVZbccW9yFSh1wAk7Z23pnw3R3pLa80Ii98V3WYchuGiVFEt5xW++eU4H1GaGtfccVvBOlceKmobwpLMFqNaml55lMjncx9yun7AGmVwdvkq+2mci5PqkOx3QErWPNyEbZPruDuaUuuNIP6MXGXFfTMiO4HjA7jPfHT/tazgRPSzeJsNRwX2ApI90nP9E1InfyL8k8yANjpcZbHoKKi6vrRXUJQlZDaIxVBrn4O1XSxX2chfgMPGK8pA+VLg8pPtzgD+VaqLygik7xeuUvUmokaYt7avAi+Z5ZI5CrlBJVt0AIA9yapU6XTk1/Ey1syNJPOw4ZWGWS7yKSeZG4JPfOPSlVoCUbbqy3v5wjxQhX2q2P90w2tSxNJaZj2iOEzZ4YKQhP5eehKiTk9e/fpS0KFR5GeQtLSrdH6T2orZNTrcRdTfxPSzqSKKhbpKZtrhyUnIeaS5t7jNFXEymWjRmLt2qGVkAujP1pN8Xb8qPriYIhKGZEdpTgQcB1WMAq747euKKKd5rcg3IyaJX2bUARLiOygHUR4RisDl6qIJAwOvzde5rjud1kGS44+gqKj5lJOfMNjnsaKKMeNSamgvZdeLI7+FmoBcNJQGir8Rnma/wAE4/0aKKK9VYIZmJNmf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">What Love Is</div>
-                                    <div class="artist">Zimmer90</div>
+                                    <div class="name">Good Luck, Babe!</div>
+                                    <div class="artist">Chappell Roan</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAcCAwQFCP/EADMQAAEDAwEEBA8BAAAAAAAAAAEAAgMEBREhBhIxQRRCgtETFiIjMjNhY3Fyc4GDobGy/8QAGAEBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIRAyFREjH/2gAMAwEAAhEDEQA/APpNFzXKR8NuqpY3bsjInOaccCASFM/G67cBXk/hb3KHfCHJL6VVYkuycNGOWqlw2ru2gFc7P0W9y0s2tvDt7FwOcnHmmdyW+FHkj0q7d7rAfZFhTOL6aFzjlzmNJ+OEUmhovOlnrjkeof8A5Kh9M5peDI8bpVxu8T57TWxQt3pZIXta3PElpAClw2WvXg5I2294j6oL4+Xaz+1ZOjOcPTVnizTRt9B+i4uktYCXEDGp00XvTbO395OLJXa8ukQgcfn9i46jZTaGWCRhsFY4uBHlVEB49tWUlWzGeB+tPRaqI5oqc+7b/AiULHRUVPG8YeyJrXDPMAAoszqN6IiAIiIAiIgP/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwYE/8QAJxAAAgECBQMEAwAAAAAAAAAAAQIDABEEBRIhMRNBUSJhcYEjQvD/xAAZAQACAwEAAAAAAAAAAAAAAAADBAECBQf/xAAdEQACAwEBAQEBAAAAAAAAAAAAAQIDESESBDJR/9oADAMBAAIRAxEAPwC3LZI5nJe6kcHtWjVisQDMCCfFYrK5nUKha3vWhwsjtGPWLg7AmujXwW6Vl9EWucHWIwSTYfUpOnuL1FcIIodQiGu9l33rnln6cYDXsx5FXHMY+npYKwHP95pJ+8xGdb6n+WWvl/UYsqabqNx5oqs50Y4GaMa41sNufiil3GzQSpsZjchC4pdKng3+6eLEx9YW47b1j8oleHUYTuO1abJs0AVcPKNiD+Xx8+1Hf0elqGZuL4yOZYiVLjUqp5rnXFK0TBLNI1wTS3OZ3xEa6powVUsQORYgAfd70r6smGxUiRSa1ViuteCPNCf1qPASqk46mPZY5ZIrwkg23sefqiqoWlmiXoFuspvzaiqu/wBdKJSSwWZZHJIyvEQdW1qbYUWxYUyiJl3BvYNaiis+ptLA9i6QxDFUmZZixc2up7e16UTzBY2AsSf2PNFFDtbJgu4cy5piI4Sistyb3tuKKKKzZ3zTxMbVcf4f/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Motomia</div>
-                                    <div class="artist">Kleintierschaukel</div>
+                                    <div class="name">Raspberry</div>
+                                    <div class="artist">Saje</div>
                                 </div>
                             </div>
                         </div>
@@ -336,7 +336,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2025, 02:09:16 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Dec 2025, 02:09:43 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
