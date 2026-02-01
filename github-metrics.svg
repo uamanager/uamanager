@@ -37,12 +37,12 @@
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    222 MB used
+                                    224 MB used
                                 </div>
                             </section>
                             <section>
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    52 Stargazers
+                                    53 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -296,18 +296,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBQcDBP/EADIQAAIBAwMCBQEFCQAAAAAAAAECAwQFEQASIQYTByIxQXEVMlGBsdEUFjNCYWKRofD/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAIB/8QAHBEBAAMAAwEBAAAAAAAAAAAAAQACAxEhMRIT/9oADAMBAAIRAxEAPwDNu7LSKqqWuLsnakXtHuQgH+UjIKtn116eiKeee41gtNPPUxICduBuQeqtzxkHj399X9seCK2y1cpCdqPG4HDByMrj7+RqfhdcpLV1bc6mpCKZ4RIzMowASCePTnUmqhyewskeRJ6v3euNVL2VpFncRuyjexYluCM4yT8nGNZ11DaLj0yGjrojEZWOzcPNtHpzrWLl1lc6aZrpRQwxUMzERgRgll4H4fnpI8Y6pq76RN25FLx52MPNnQ52s24fI/XXUTbBinnS6TMu6B8xxbsF2+fUDnRpgobZSUltpZaqkZK6ZeRncxJzggeg4x8aNOncJ0J36fFPUXelp5JZnoXJZ4d21twHpn503eGdXSJebsLjEtRA8CR+YZAGf01lktUom70KhXZsgbjnP/c6f+grulmesNdTGSWcLvUD7QBJ3A/HtrN0Duark25SX9fDbLteZ7bQ7qeCKH9oSTeoUtu+wqk6oPGGCW1XKy1E7B8MXTH9pH66rpKenk65nqx3zay5m7qj+GfZQc4wD/rXLr+s+sLTGNppkh3Fdy5wDyOfw1ga/QkZxepG3XukFAlOyHuCfesuMbkyDg/B99GkmmmdgI/Ue25vz0ao+kk/4klBTzswdVXbnyc5HxpzttdLa6WHuRzQ1ZXI8y9l15wfvHGjRqLe31wMvxD2XNP1lcKgtGtFTdnAy7NzgZzhQME86o7pekkjcPIUVuMFOfjGjRruNKtvJvSyVirJHI9yEVLTSiQ4wrDB/wAf10aNGkvojBrUSf/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYIA//EACwQAAECBQMCBgEFAAAAAAAAAAECAwAEBQYREiExB0ETFCJRYbFCM2KRwfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A6QU2AmEr1w6mi2CqjUdYTU1IC338foJPAH7yP4HzDhuGqylGpc1P1B0NSss2XHFkZwkfEcN9TrgF3XZOVVorYl3lAoaUkEjAAyT74A27QGQqMzMVScW+8VqClE5VzF/aMnKO+fk3mkuPPS6lMqKjlDgwQRj/ABisp1LnZ59KJfUtJz6lbDA5MWFuyD4r4Q4AA3n1Y1JPbbMA1+mdONKpraHihUw4rW4pAIB9ud+IIs7dUAUDfG3eCAZ/V+rspt2akntK/NpLZbP5J2zHLb9BkUPKd1LU3nZvPEMrqtcPmqpOpQ8p1lnS2kDdKT+XH2YWkq/4yiFkjeAh1apu0o+HSG2ShaRrWo5I9kgZ2ESbRecffS44gayn1EDb7/qMrcDJbq80QFadYAVjbgRqrKVolUIJPB+4Bq0BSU4z2giJTXQhgZO5ggMVdbDqkTQSoZDhURq7Axn5ZZbcBUcAjkQQQHrVG3ZmU8IZ0ghXHsYLbKkuFWRgQQQG4lp0aUjI2+YIIID/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">A Little Bit Happy</div>
-                                    <div class="artist">TALK</div>
+                                    <div class="name">Verdict</div>
+                                    <div class="artist">Public Memory</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMCBAcGCP/EACoQAAIBAwMCBQQDAAAAAAAAAAECAwAEEQUSITFRBhMiQYEHMqGxFGFx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDBAH/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIRAzETIVFB/9oADAMBAAIRAxEAPwDC/GWpnUtbu5lcNCjeVDg8bVOOP9OT81c8L3SQRJPbpsmEvq5JBAGCcVzL8hRnoD+6np04hZhJM0aEkgjgZ7GptdUa2tL4a/a60nh64tNSt2J0e8cR3cO7Ihc9JE7DuK1iyukeJHjdXjYBlZTkEexFec9L1fRzbvZ6tO/8CZsvtySOc8YHeuzX6qeH9MtYbPSbK8mhhURxqAEXA6ck5/FQljvSJvZuFpd7SOaKxqw+rkDXSJd6a8UR+4pJvK/GAPzRUXil4Nxy8MVIJYk547/mlIiyGSNyMEccU+JtwC8An+veq8+Y3V1PIreUehAgYnGRhevNDK8LDAKsDkGrFwdkgkj3bX9WR3pkc28BWjVlxjp26nFAqgtFmym8+Ng6q8hH3ZwzH9UUuOGF5N0DtCxPAYZU0UrRpjkaVNWJxtJOTjOcY5NSnPmMQQPV6gFFFFUaIrVCbdiu6EnB6rx79qspEjKdylHzhiOg+KKKWQQ7RGT0xlY23ZGKKKK7QNn/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBgcFCP/EACoQAAIBAwIFBAIDAQAAAAAAAAECAwAEEQUSBhMhMVEiQWFxMoEUQqHx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECBAP/xAAZEQEBAQEBAQAAAAAAAAAAAAAAARECIWH/2gAMAwEAAhEDEQA/APSVtNbyAspBXyTU/Mj2goVwfbNZBd6Dc6TEhOoqu4gKqKyZx9Nink1i73CFNQPNVdzLtUnHbOO+Pmlq2mO5IJC9KXKyMM46eSazaTiO/t51Etwr91BCjBPjoe/6piDja1ECfy7hYpmO1RuXEnjb1/yidDPi9vAxFFVS34niupGjhvV3hdxVl7UU/R45ut6qNStXteXstn/JifX8Y9gc/dZrxPZS6VMNQhuZZprrbG7SHONoO09MdatKTooGVJb76VWuPdQmk0pLS2tHl5j7iUX8cfPtnz4zWe2tE5kZdpOqa3HdTQadM8t2zHdFsDljn+uR079/FXbhW04ogukvNcskktBkGIlefH06OoH32znHtXM4em1zh27uZtP062u47wq0gO5JFwMY3H2/7V5tNakvDKJLSa3Kn080j1jyMGqvSJxNMyQRsHkU3MDyD1bZOv77+aKgmv0AO9iD80VOryE4tQlZAzDGaljm5yhsDb90UUsEoJQj1AY+TUUnLbIBUY9xRRRh0rI+MKCcnvRRRVY52v/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">bitches broken hearts
-Explicit content</div>
-                                    <div class="artist">Billie Eilish</div>
+                                    <div class="name">Deep See Blue Song</div>
+                                    <div class="artist">Flavien Berger</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUDBAYHAQL/xAAsEAACAQMCAwcEAwAAAAAAAAABAgMABBESIQUxUQYTFCJBYZEycYGxFaHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIAA//EABkRAQEBAQEBAAAAAAAAAAAAAAEAERICIf/aAAwDAQACEQMRAD8A8n4zbR2nfTSouVDaWBLDPLbnXObrj7HjRu44YkLEKWIOenPO3xSqGV+4Zn1FQcD1qnOQ8oDFoyxB5c/euW/ZfS237T8Wt7mW3jhbvVidX068q4z70yg7Up/FzSmziOPpzcZYnpjFc2uZgIgrENj0J/RFSW1wzwskROlV1FQpOPcmtttbV9pu0UFzZd1BBtKoJ8+dB+N6KyFyNWMMSaKR2FbV+B4c8ciIHSL2b16/ei14BZrMs8kgkhG4Rt8+x6VGOGnxQKyug1HykgAD8+tOOHRGzRjHKzs5Gz78q49VhUeJdmYrtIGtEEeo5cIoH7/yp7LhcnCoL2SVpZBKioxhXBwNsaRzp2bx3CkqVB6b4+9DTN5d6Omrks3ecGldEjS3jji1at236AH1optd3Ab6gdS/FFT16jCWxXiFSr4zqJ3OP7qXxmMDvmUL5dh+aKKqRvqC8bTIqHVsTn3qvPft4lY8nO+M0UVglas9yHnI1LqJzpNFFFOUX//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Good Together</div>
+                                    <div class="artist">Shallou &amp; Ashe</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAQBAgUDBgf/xAAlEAACAgECBgIDAAAAAAAAAAABAgARAxMhBBIxQVFhBXEiYoH/xAAYAQEBAQEBAAAAAAAAAAAAAAABAAQDBf/EABoRAQEBAAMBAAAAAAAAAAAAAAEAEQIDEiH/2gAMAwEAAhEDEQA/APgS49hJOMg73GVTp5l2BdizEknvPWwskkccg4z4Md05JDMKPT6glbIacI5pwh5m6IR6nVamQOPRe5kN8luAlj2RM53BdngW1Qh+FXzCvuZOfjlbCQri4liyk4VUuAFvaL35Hi9EhRyQrKa8QmTwOcY8hG2/eETuE+w8LN0f2EsMK92sd6hCZcLptOgLPUKBZJgMIq+YXV/yEI+StrNjVVu35vHqEISQrb//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">better off (filous remix)</div>
+                                    <div class="artist">Jeremy Zucker &amp; Chelsea Cutler</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -317,27 +330,13 @@ Explicit content</div>
                                     <div class="artist">HONEYMOAN</div>
                                 </div>
                             </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEEBQYCAwf/xAAxEAABAwMBBAkCBwAAAAAAAAABAAIDBAURMQYSE1EUFSFBVGGBk+EWMiIjJERScaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQF/8QAIhEAAgICAQMFAAAAAAAAAAAAAQIAAwQRExIhUQUxQVJh/9oADAMBAAIRAxEAPwDR1tcPG1HuFI673AEfrKn0eUzUlZLTNdZy1hDImfe/l5DzWXYtNS9bgACaCGxz0qZpbd7g446ZU/2XkLJ10uA/fT+kpU11VYnVRoWXSI12nD47S7PLd5+Shrxa5rZOGS4dG77Xjv8AlIqux7W6QNH9Ea6WoNk9pj1tcPG1HuFCZIVXDX9REcjeZV/qweCPufCumzm0gqtn+g07TRz1jZmtqN/PDeMDTHacEHVco3FI2quFKx8M7XPp3uD/AMBw6N40c08/LvHoq8vCW6vQHtJaMpkbZM6bJs3ZpdnzRQ0scNXEwYrMfmCT+edT29uMpntFtWHWaSGWHpElE6KM1G/jivIO9gY7NCdSqrJdjMwMfe5Ww94EB4jhy1x/qiLpWtqmR09LG6KjiJc1r3Zc9x1e46Z8tAFBj+nsXBsO9Hfz2lNmYApC9pJfVg8Efc+EKubiFs8CSDmbzHPDCTcCEJ0n3F4bd3vyk3AhCIbhuBCEIhuf/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Goliath</div>
-                                    <div class="artist">Sébastien Léger</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBAgFBv/EADIQAAEDAwMCBAQEBwAAAAAAAAECAxEABAUGEhMHIRQiMUFRYXGBCBYyoRUjUpGUsdL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A01c83EPDFKV7kyVCRtnzfeJ+9RA3/lgsjzLmQe43eX9v3+VTOvtMI3vuoaRMblqCRP1NcnE6sw+Uu7pizu0ksFQ5F+VDmxW1ZQo9lBKuxI7TQXmDkgwA8q3LvCQSEmOSex+kf2qVar7k/l8WyUfqBn33enyiPnUiLy2WAUXDKgfQhwGpEvsqA2vNn6KBoIrHxXErxxbK93l4xA2wPj7zNFWQZ7g0UGQvxHdTbbVi8RhtKpv1eHfU54lIKA8sgJCUAHcSCSO4BkxFKJi/zSryyxd1eXdoLJh9njedUnYlQUtxMH+r02+5phdebVGE65G8btgi2dQzeIS03sClBEGI9TuRM/Gl1ksk0vHYNx2zZeuw06XVvyeUcxKZggn0UO/saBy4zSGXas2H7fU1sle1KglOeIQTO0pCSn3T5on17VR0Lqu50td5xrJ/xm9D1m3ZWl9aucrVqsoCh+uEJWEx2790xS1Osmoj8raX/wAI/wDVedt8gtu2ubdxy64HTuS0y/xthfeCUwQYn5H50GzulXWfC6jyqNP3SLi0yfG0htb0EXL2wBwDb2BkE+wI79qKS/4TrEZTqJ4p9pLjmOtXXudalFXn2oSkd4ESozE+tFBovqTom31dg3WEsWqsihI8O88gEt+YFQCoJSFAR6VwNJ9H8EzY3K9TYXGXV2++pxDYb3ItmzENI7CADJ+9FFB2XOkWhXUbfyxjQPiG4/1XltR9EMI5esvYjGWbVgW+B63ZZHKoKUJWFqMCB9/hRRQM3S+lsNpi1LGDx7VmlSENqKSSpYQITKiZMSaKKKD/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">You're Somebody Else</div>
-                                    <div class="artist">flora cash</div>
-                                </div>
-                            </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jan 2026, 02:10:58 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Feb 2026, 02:12:16 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
