@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="531" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="736" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}svg.calendar{margin-left:13px;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.tracklist,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.tracklist{align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}svg.calendar{margin-left:13px;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            2 Pull requests opened
+                            1 Pull request opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -284,21 +284,59 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
                     </svg>
+                    Suggested tracks
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field error">
+                        <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
+                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
                             </svg>
-                            Unexpected error
+                            From Apple Music
+                        </div>
+                        <div class="tracklist">
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwYE/8QAJxAAAgECBQMEAwAAAAAAAAAAAQIDABEEBRIhMRNBUSJhcYEjQvD/xAAZAQACAwEAAAAAAAAAAAAAAAADBAECBQf/xAAdEQACAwEBAQEBAAAAAAAAAAAAAQIDESESBDJR/9oADAMBAAIRAxEAPwC3LZI5nJe6kcHtWjVisQDMCCfFYrK5nUKha3vWhwsjtGPWLg7AmujXwW6Vl9EWucHWIwSTYfUpOnuL1FcIIodQiGu9l33rnln6cYDXsx5FXHMY+npYKwHP95pJ+8xGdb6n+WWvl/UYsqabqNx5oqs50Y4GaMa41sNufiil3GzQSpsZjchC4pdKng3+6eLEx9YW47b1j8oleHUYTuO1abJs0AVcPKNiD+Xx8+1Hf0elqGZuL4yOZYiVLjUqp5rnXFK0TBLNI1wTS3OZ3xEa6powVUsQORYgAfd70r6smGxUiRSa1ViuteCPNCf1qPASqk46mPZY5ZIrwkg23sefqiqoWlmiXoFuspvzaiqu/wBdKJSSwWZZHJIyvEQdW1qbYUWxYUyiJl3BvYNaiis+ptLA9i6QxDFUmZZixc2up7e16UTzBY2AsSf2PNFFDtbJgu4cy5piI4Sistyb3tuKKKKzZ3zTxMbVcf4f/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Raspberry</div>
+                                    <div class="artist">Saje</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAUGAwQHCP/EACYQAAEDAwMEAgMAAAAAAAAAAAEAAgMEBREGEiETMUFRImEHFDL/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAgEEA//EABsRAAIDAQEBAAAAAAAAAAAAAAABAgMRIRIT/9oADAMBAAIRAxEAPwD0OiKoflCuvtr0y+4adlgjdTHfUdSPe4s4Hxzx3PP12XG3nToqr+k1BPNLei5bZNU6tuVFT09ztEloie0A3Rj2by4/wGQyZ3Fx4IznyF0m2yumoIHv6u8tGTIzY5x9lvjPfCJ6tFtbrk4s2URFpAUHqaym7NppG3OvoXUzxI39Zw2u972EYdxxg++ynFhmh6ske5x2NzuHtE86Y1pC1dtt1a+hdU05ldRTCWDOQ1jx2PHB48e1Ptxj4kkH7yqdM3U9wvEMbqaKitsM4dkOB3NHHODk5HjAVqo4XwRua+Qv+RLc+B4UQn73mHpOLikm9NhERWQEREAREQBERAf/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Too Much</div>
+                                    <div class="artist">HONEYMOAN</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcI/8QAMhAAAQMDAwIEBAQHAAAAAAAAAQIDBAAFEQYSITFBBxMiURRhcYEVIzKRQlOhscHR8P/EABkBAAIDAQAAAAAAAAAAAAAAAAEDAAIEBf/EACYRAAICAQMCBgMAAAAAAAAAAAECAAMREiExBBNBQlFhgbFxodH/2gAMAwEAAhEDEQA/AOzXe7vQXXQltC0c46+n0g+rn3NQ2q/FBMSc1AsEUTH17gp5ediSEk8AHnnjOce2a2eLNy2R49mhpSZM8/mK25Ib6Y++P2Fa9JaSgW+A0XY7Ti9vAWkHj71yGs7WBjLH9Cbq6lK9yzjw95ARNYa8uKW5CPKDK1dCyn0hSwkdR15plYvFW5MviLqOG00ClW2QhB28NgjcM9MnqP271davvlt05AZQqImZcZzgZhW9pI3yXcjAHskHBKjwBzSi46JZl2IruSWHrosFx9xtGEBRGNrY7JSOB3IGTyajX2KNVgBH4wZZRQ50gaffJP3LCDPflPJC9gaXuDawOFkexz0xz8/tyVGeElxKfi7LKSn4iGorbVjkpJAP+KKLDTwdjvEMpVirciKdWuFzxTYS7jalhG3n71d6qvC7DYHZsO2TLrJA2sxIjRWpascZwPSn3J6fM1LeKtlebfh3+AhS1xfQ8kDko7KpzpvVkCTZy/JlNtJZbKnFqOAEgck0u46bhYeCAPkeE0AGzpwF8uc/JzPPsLXeodKaslaq1xpOdJucwfDwlyVKjtxkdVIaSUnnBxnrj5k16S0pcrjeNPtXC9Wr8IeeTuTFU95i0o7FfpGCfbt354qUsWmndUapTrPVTJCWRss1sdHEZrqHXE/zFfqx/DxnkDD/AFjqKNa7c6POSXVAjH/d6v1VyacAbxNFTOwAkjpFWPFVxLeNqmV7sGitvhJaH3JUy/y0KSt/LbG727n+w/eirdsoiVnkDeHqLFe5mHH8GJ019sOJKFpCknggjrXM9S+HCXHzK08+mOsqCzHWfyyoHPB+vY0UUVcjI5HpFqxUgqcGLkWfXaj5XltdP1eaP902sXh845MRM1RLTLcScpjoJ2Z+Z7/T+tFFQLXUc1oAfWNbqLbFwzbfA+hLezwZsSfJL77aoJwGGkDGwfTHAxxjJ6Z70UUUMROZ/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Somebody New</div>
+                                    <div class="artist">The Amplifetes</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAcCAwQFCP/EADMQAAEDAwEEBA8BAAAAAAAAAAEAAgMEBREhBhIxQRRCgtETFiIjMjNhY3Fyc4GDobGy/8QAGAEBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIRAyFREjH/2gAMAwEAAhEDEQA/APpNFzXKR8NuqpY3bsjInOaccCASFM/G67cBXk/hb3KHfCHJL6VVYkuycNGOWqlw2ru2gFc7P0W9y0s2tvDt7FwOcnHmmdyW+FHkj0q7d7rAfZFhTOL6aFzjlzmNJ+OEUmhovOlnrjkeof8A5Kh9M5peDI8bpVxu8T57TWxQt3pZIXta3PElpAClw2WvXg5I2294j6oL4+Xaz+1ZOjOcPTVnizTRt9B+i4uktYCXEDGp00XvTbO395OLJXa8ukQgcfn9i46jZTaGWCRhsFY4uBHlVEB49tWUlWzGeB+tPRaqI5oqc+7b/AiULHRUVPG8YeyJrXDPMAAoszqN6IiAIiIAiIgP/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Motomia</div>
+                                    <div class="artist">Kleintierschaukel</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAQFBgcIAQP/xAAqEAABAwQBAwMDBQAAAAAAAAABAgMEAAUGERIhMVEIE0EHFCIVYXGhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAECBAD/xAAcEQADAQADAQEAAAAAAAAAAAAAAQIRAxIhMUH/2gAMAwEAAhEDEQA/ANGxh+ApQB+1UB6kckv1luWLRrDc5cBMhLqnBHWUe4oKSBvXfp8VD7LAzu6tz33s+lQY8NlD7rj8t7SUq347a1Slv6Dr3DWGqCKzFfsV+otltKbmvPJL8PiVFbcx7fYkdD5AprfRmjEJ99WfSle22XktmU8FrAGyAP63TMdn1T9ZNcnVazVjw/E0VRvpxyu73+45FDu82VJbiMtFAkOFwpVyUFHkevX/ACioa6vC5erRq9TqQMgwpxW+I9zej8c0mmi1SWm7HmAeITIetDCQjfxpZA7eCKkfqbx+93Z7GJNktcye2wl1Ln2zRc4K2kjYHUdN1WM2JmshtbacQuqOTKWVKTEe/MJTxB0R31V5qIXl6/mD7BzCSfpi/aXN/cRZKXm3lK6rQoLBB34OqiEyZcZItkq7Jab4pPs7RpJSFbOwO42aXtWXLm7b7TOH3NTixxcUuK7sDwBrVJbrY8une2EYbdYyUJKeKIjyhs62eo6du1aYczeszVNOMRZXpWQj9ey5xpYWhSEAEJ4gjmrrr4/iilfpfxy92e6ZLJvNqmwGnmWkNmS0W+auSiQN9+lFZL++Gzj8n00Ex0QOuqUBR8miihCdKjquFR8miik48XSSDsmiiig4/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Beyond Dialogue</div>
+                                    <div class="artist">Portico Quartet</div>
+                                </div>
+                            </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2026, 03:25:48 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jul 2026, 03:25:20 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
