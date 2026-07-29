@@ -296,24 +296,32 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQFBgEDBwL/xAAsEAACAQQBAwMCBgMAAAAAAAABAgMABBEhEgUxQQYTURRhByIyUnGBI8Hw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREBAQEAAwAAAAAAAAAAAAAAAAERIUFR/9oADAMBAAIRAxEAPwDifsdQt/a4LEkis2Dg55DOt5yuqSFtcW80YaMPdvyMkhfmeeOR7dsAgnvTnqLrSNezN02aGWSTEhk4/kVgNgZ76HnvmsenIbqIy3l7heUT4XAyeXcn9us7rYYhjm+snlu05N7azRSQLtCuABnwCTr76pCwVLoxwXftO8bkLzOSFwSx3oHz53WOn31w9yZZ1drJ2EcYC/mds6C6wTgg7HgVru1NvNBFIyPLPMrNEe4A0Mka71Unq3em7+zSwdT7duy/5d6DJoZJ+ftRVN6rbRyQyXQKNNGvExhhjHz33RRrYkTYtN1FbW5VC8y8lxhcMDrffH99qa6w03G4tp2RERzEwjA3gAnfkZJqZ6bY2l/cXCXcjC4igaNOWiWJAOf+81F+quoGIwWS2cZlbYVW5bOQDofIz4zROki3S5br8LI+pWMqQOvVPb9zOFCNBggH92dY/wBVznrCIbz24+ISJQmu7fJqcgV7WZoOTpDGxbDLmMsAO4zjO8ZqMv4Xa/nlVQvBFKKTs1cRJ9Dht443e4jMtnBp1H6yCPjz3z/Aor16dllure8trkRqZCpJBPIgDBxj7CimrItzo16I736hHRUJE0YGLhTgEMDoY3/OBVbvrQS39zc/UsVaRVDRSA4XGRsDZwMYyPiiikKXW3S5vGeTMSrJyIBP9Lk6BzTa9Le+u2igMSN3kmYEjwABgZ/nHxRRQnLYlqvS7iVTdJGQXjlA/UUzkj5z3we9FFFI1j//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIDAQQI/8QAIhAAAgIBBAMAAwAAAAAAAAAAAAECEQMSITFBBCJRYXGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/APPri9VWLL8plauTtbmVSXJqM1Ce9DBkj7KuAIrU90BkeQAfJN26SFeR3W1/or5Msbmnj1JdpnNPG3LVFqn/AEB23Ju+R8UFknpbo3FheSM3GUbj19LeOox22c1Woo55wcJ119Atlayaakkk2t2AghLlmpdJABEaoyj7aXfRFyppq9X0AKpd7AAA/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Monument</div>
-                                    <div class="artist">Tale Of Us &amp; Vaal</div>
+                                    <div class="name">Wilkie</div>
+                                    <div class="artist">Roman Flügel</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EACsQAAIBAwMEAgEDBQAAAAAAAAECAwQFEQAGEgcTITEiQTIUFVEXI0JS0f/EABoBAAIDAQEAAAAAAAAAAAAAAAIDAAQFAQb/xAAeEQADAAICAwEAAAAAAAAAAAAAAQIDEQQhBRIxFP/aAAwDAQACEQMRAD8A9LnDuzf/AFBvVX063BS1MG3XLUNwcjLmUDnTc/PJfywccTj396QKbqNuvb+7Lp+11toudxvdNi50pp/7dPMiMh5M2FJUAktyKEe9U+779R2nqnuil2Nf5aLb14k7FVUwKCgViGk4YIyobkAQQeJIHg+fOwWVZKeiNZHHJLBEUiHDGELEgv8A7NhvvwAAMeNFMunpD+Px6z16yRf6kbll6d2raSftctDHWB4k7CNMSrhlVgfjx5E+cZPkE49sw6tbmu/UCC51iWFLtbYjRW2ilgHYEkjKhIkzhSD8gzNxwCBjOrZrNBJbUQdrvE8iPHHj/HHSnu7bK0dulNIzR0bOJKmKBF+aj2VB9EYzjODo3ha7LuTxWSIdz2kbBY6/c2wN+JDv+tstG9+jmrZb1HEgeeRYlVaUSeAiqQpyQAfo5OdGsY6a3agu3Ui0Jve7zS2u3QSRUD134nAZolfkcKpLZ85HoetGlGWcb0qaCp6gbzba8tG+3qiqUOpcfNTIpZ4wfY5g4x4wwwMemmkQokhC/LJ+tJPUmosty3/ui7bdtU0m3xMUEsTkIkrepQQMAMyuQp8Eaadp3iIVi016QLVwgCop+QYv4/IYPn+SAfB07DST7NbxWWIpqvoK0gmVw57hOff3q/rquL9FFEVPcf4yFvIx96tRX7Yz3FoJOfheHbOPfvPczn/mkfcNxp6utrqO3Tw08zxyvEsrcRCgBOCcnDEfFRn8iNO9lK7NX9KwRW39IfSqos0PVHadZu+40VZazG0a94rxgYB1jWUH0A2ME+MY/wAcaNc9Mam1Wzqptq8byscdvslanKmMoKwZAKLMeXgryHn0Pv1o1TPKt7Zo++Irpb9z7hpNtttg0W75zTrZZZA3EKuTWOPSn4sRg+CwOMjGsqHTi8RXHcFotFwsNetvSJ6ir76IAePIrGz4IIOcnx+Pv60aNQ4Q4KS9R2Rbw1PMbNNEsETS3RePeb4cmAYMRnJ4+MeCcgHNtN06vwv9j2/cbtt6Jv08tTSTNOHiYg8jG2FyxJ/kEEfZA8GjU2HVN62zUto3W67n39Z7hvltuyU23ZGoJLUjqv6clFxVIo+LLnj4zgcTgZ8aNGjUAP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcCA//EAC0QAAEEAgEDAwMCBwAAAAAAAAECAwQRACEFEjFBBhMiFGFxB1EVMoGRocHR/8QAGQEAAwADAAAAAAAAAAAAAAAAAAEDAgQF/8QAHxEAAgMAAgIDAAAAAAAAAAAAAQIAAxEEIQVBEzKx/9oADAMBAAIRAxEAPwDOfV3AMJ4GRJ42N9SqknpbcKhHST8iQaN/kVvEHB8c6kMJixXnZTpASSq0FJPSq9aA8k464nmgFogqcdkSGnbDbtqb/lJ6aGzZ/wA499PSUcO9BKYgi/WM+3YUSOoKolSjoG9FPjxvJ1gEgMcEw4yiyxa3OA+4i5HguQ4KWlEjjC3EQlalrYJ6nh42dEAjtQOVlyCvkeRillTbQdpISRQTR31JOxrfYX4zV/WXJIc4qMwJqUym3kPJ6VqtIB7kkdtnXY1kb9QosJrjY8tTiGVsuthToHuKWD2o1d7ujrLWccLpQ7k6fM8X8QZqzufkzXlPcZad46S6yp8H3fcSrY8BP4+2GT5fp2M7Blr4wOTZcdz5vdQTaTZSa/odYZEMZxlZc7nq5L4Z4Jmw2nEkEkMBZB66B0rvV42m81P5bg4sFmZbDzai40D7jiSog0pR0LVvVG05RpATGZkJR0ey9TjLhAKrvtfjWMPTM1TzTPHOusR4zyi466TR+I1vtf8Ac7wKdQK+xGzXHfwtsJccQ7AW6FuOLQQsCqLZP7d9A675z6zmCNDg8Y646qOpxDimuokBCe1E/wDcWCTMgzC4C3KT1EKbfcHSvxZH4rK5yTrj7nXIeSt0qo9CrCR4A8V9sa6B3N6nlPXS1Wfb3HMX1KuA9MZi9aI666PltKhsH71Zq/3wyuAAKUEAqSe5Pf74Yx1NQos4eluuMpZKyWkklKfCbz1S4n6ZIBHUkk2Luv8AWGGOUIkxPIvpQtCpLyvj2Us1X2N6xMlRBGz3wwwmIkp1wrUfkTQtOq/OsMMMI5//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">1542</div>
-                                    <div class="artist">Xique-Xique</div>
+                                    <div class="name">Waiting For a Sign (feat. Koudlam) [Live Version]</div>
+                                    <div class="artist">Scratch Massive</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBAgUD/8QAKhAAAQQCAQMCBQUAAAAAAAAAAQACAwQRIRIFMUETIgYUUXGxMmGBkeH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGhEBAQEBAAMAAAAAAAAAAAAAAAERAiEiMf/aAAwDAQACEQMRAD8Aebtg1oXya4MaXOSnW+IOsXeclZtJkO+PMEn8pquMbNE+J/6XtLT9koVK0dFvykgPqQ9zkYc3uD/SjnmYq1qdE6/YsXX075rCwNt9Mn3D6YKZQSQNpK6PVFnrfzkcZZHE3jz8OyNAJzB9o34S7mCVbaFBJQszYHxJb6nXexvTafqtc33SnYac9sLKr07tyJktuB0k+Me4DX+JqvZFZ3buPyuVaV2BgN/hpW3N9U36wIT1WlOImdPlmq+S0gFv23tNUWTGwkEHiNEbCnwclQXY8+VnetVIsckecoVQTvaFIUsxPlhc0N2cHa5w1ntblzBy+gBwhCrbmDPKZnPjjy0EFTDycxpLTy86QhSFjyEpHB+D+yEITD//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYFBwgCBAn/xAAuEAABAwMDAgMHBQAAAAAAAAABAgMEAAURBhIhEzEHQVEIFCIycYGRFSNCU2H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AktK60sukrW3bJFunsNoThISyT9zkUws6siTkuOwn1bFIO0LTtP4pc8QtP3+LEkdCNEaQUftvKbU8pavQgcJ48+ftSf4S26+p1TDizCHobjgDzbo47/xzz+KCzZWoxEt0nrqQgoGcnvmqC1TqeNMvD64sZcnqp25z5/5Vne0hb2bUlLcFSklw889qpKDEMI+8DD5RhSQBndwe/pzQREmE6EuI6SgpG0kHvgjIJortMG5vzXHnG+oXCSskH4s0UHojcI/WiOJQ2hSyk4Chxmka16Unwn/fVsRX561pcAxtShY9cnlKckjHchJNWE4SlpRSAVAcZNQESXOM6RKfiPLipAQ2EYzknlWCe2KDNfj9Iub2qEN3CRHcZaVsKmWSlGc8gZJJx2J9c0o23T7s5rfHfDbCj8IHZXlmnX2irslVyDjzR6hWUBvsUgcedK+gJDnu7rijhgqHTSe/bk/TNBKfpLcFKS8kcDjAorlqeUUpACsH6+VFBr1Tg6W8cjGaWrtfYLGESJ6WXf6xjI8ufSiigz54tJsdzlzZk6ap59xSRHQhPyBPzZJ4+wqrmZkNh0JiTSlWflJxn8UUUEpMnOPW5Knjyk7d3qKKKKD/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Beanie</div>
-                                    <div class="artist">Chezile</div>
+                                    <div class="name">Always You
+Explicit content</div>
+                                    <div class="artist">Isak Danielson</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYEBQcCAwj/xAAtEAABAwMDAgUEAgMAAAAAAAABAgMEAAUREiExBhMHFCJBYTJRcYFCoYKRsf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAHhEAAgIDAQEBAQAAAAAAAAAAAQIAAxESIQRBEzH/2gAMAwEAAhEDEQA/AEu3veUeX3IbTi+Sl5AX777nG+PmmG1yo04FuNHgLeLeA2uR2l/45UAf0faqxyJdHFNqtpK3XN1dtWpSDg74JxzgYyRilTrNd4jsx2Lw4hb6jvt6wR7Z4/1QZwTgHsatLBSxBxH2VIjW2Ot27NSYaEL7Sm3iorWcb4Qds/Oahqu3RMq6sMTXrz2FaVKlehCQvA5SBkj5yKS7HcH75e7fG6olyHohe7ZDqj6Rjj7jfFNvX/TNot7a0WdLuQkd1ByRk7ggn3/FLZwp1abSgupYSd4oMuWB6K5b56H7VLSVxXWxsoYwpKjnnfmioPhpIav/AEVfem7koaIgEuO6RktDcEpz9iQce4JH4K1+qrx4hqi3VjDZpcPtMeRUFNAAJdTnJxzkexqqvklgXSXMfaDiWEFfdO3bV7YOOa48FIaULv0duYzLToa9TerShXqyBqAz+QK78ZHmoNsbhoUhBc9RSDuo8ccmoyhFus7FdwNGx+TOol8bd6rZuc4aoxkJWvbhI2/oVtcy4MLtEv0Odp4am3FthKSkj2OdxXz/AA7a+9pBUlDZ/keK0PpdyW7YXILqStURSmUlxRwnG+Bng/FO9FeACJP478lgfs8fCpMYdXXK2SkqEec2qKpwHSUBR2I/emipnS8dbc1MpDae5r1OBZwHsKBAPGBx/wBoo2eexjlZKL6hxpn9qvsyzBtyzuOwpWFJdeQvPdBOQNJGBj+6rp8yVcJS5M6Q7IfV9TjiipR/Zooq3Uf2SbHUdlhYZGpzyzysIO6T7jfNb9aLEq0RZCo4V5afBTltRACXtJO322JPxRRQccjqPsU7clKGPUgrTjdOPqGOPyeKKKKZiSE9n//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Nuits d'été</div>
+                                    <div class="artist">Oscar Anton &amp; Clementine</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -323,20 +331,13 @@
                                     <div class="artist">Ishome</div>
                                 </div>
                             </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYEBQcDCAL/xAAxEAABAwMDAgMFCQEAAAAAAAABAgMEAAURBhIhEzEyUZFBYXGBsQcUFSJCRHOhssH/xAAZAQACAwEAAAAAAAAAAAAAAAABBQIEBgP/xAAhEQACAQQCAgMAAAAAAAAAAAABAgADBBESBSIhMUFRcf/aAAwDAQACEQMRAD8A8/w4pWBgGrSPaS4cBJzU3TsBUkpCRWl2LTqQlJUgE05L0qaZMUa1q74T1Eix6VS9MYMxtSo28dQA4O3PPPwp3tuh7NjLwcI3L7E+HI2nt5Z9adbdY0pA/IPSr9m2tto5Az8KznIXIqHoxH5NPx3HFB3GZjuo9J2mLAeLKVl4AbNxPkc59mc4opw1pG6bLpOCDyPdRVNSV8BiY4W1BGSmJm2mbf1whkKmtEp3B2MPDz7cd/hzWgfZwxcJcBp167xpjasrUlSMOoBWQBwcdh7R7qpNKK+62t97HDTSl+gJp/01FRCtUIJYaQ6I7aFKT3OBnnjzJPzqV1dsxxK9pxyggy1kWhqQDuky2yQBlqQtv+gcVEXp6IkHfIuDgPOHJryh/qu77SZBBcUtJHbasj6V9sJajJVtcznHjVn0zVAu2I4FBBE3WUZtiIUtb8AY5WT9TRRriS0phQDiCr3Giu1MnWTqKMzzk9JLkJKEXHoo6Y3BOwqPHbxA/wDagWq6KZD/AF5T24gbP1c8+dFFPdRMSXYH3I0m4yusvpTpK0E5CtxTn5Z4rmLnOH7yTj+VVFFDUSO7fcZpmpLe5o9EBlmR+IkpK1rSDsUFcrS7uyQpPBQU4yc54Aoooo6iEux+Z//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Monotone (Original Mix)</div>
-                                    <div class="artist">Secret Groovers</div>
-                                </div>
-                            </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2026, 03:22:32 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jul 2026, 03:21:49 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
