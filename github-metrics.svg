@@ -296,32 +296,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAQACAwEAAAAAAAAAAAAABQADBgIEBwj/xAAtEAABAwMCBAUDBQAAAAAAAAABAgMEAAURBiEHEhMiMUFRYXEUFpEyM1Nj4f/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAGhEBAQEBAQEBAAAAAAAAAAAAAAERAiESMf/aAAwDAQACEQMRAD8A8bdCBDaWnIcUSFV1ObKq2G06O1HeLciZa7TIkxFkhLiSnBIODjJ9aynh9q8KI+35+R5hII/OaenlCNttONoCA8VqVy7AYz8mswYi/TKwiR1kDvJUkAEeO3xTCdA6ySkhNgnp5VA4wBv+axHQGr892n7hk7/t/wC0aMoFSo3KemHebHmRVSF00rqC0RFyrnZ5sWMggKdcbwkEnA3+aqCx9GcDyBwzthUM4U9tj+xVbTDnyZlwejORFxktKOFpWD2jwUcjwJ2AG4wc1qPBd0t8MoBCSrlU8rlHicOK2HvT0u5JTFZeU640pZy4ppG6QMkJVscb+lRXRzPCT1xjNPrjl6R1QtCQA2CSVEYxtXC5TkRJMdLjjx6nYCEpwSTsBtj18dqMTLaTGEhxITNjskIU4shxYIGTynYn0238qw3e9sWmGrqvvoUY6UocUkqJcVkjYDCTg+eDt7Uj8wJxvSUcM56eu45h5n9QH8g9KqN4qyHHOF8hT6gXnFMKX8lQJ2qqox6/Q/DXX9jsOkY1vuEh1uQ2XOYBlSh3KJG4HoaV05xftaICWr84888UrS4pLeeocgpJwABtttn3qqqrIJ1ZA104h2edq223HnARGSsdVxk82DnlBTjHb5EeGaU1bxEsdwsc2LAnNKU9HAKVNLBWrYYyQNxuc1VVOD6rWdbastly0Qq3xZSHJJ6XYAc9pBPl7VVVU5E2v//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBQQCA//EACsQAAEDAwQCAQQBBQAAAAAAAAECAwQFESEABhIxE0EHIlFhgXEUFSNCof/EABgBAAMBAQAAAAAAAAAAAAAAAAACAwQB/8QAGxEBAQEBAQADAAAAAAAAAAAAAQACESEDEkH/2gAMAwEAAhEDEQA/AKnSoTZYaKY5f5jisrdCA0eVhYXBVj9Z619X4VKpyBNmusxo6ykcnVcUBRvYAk/9P59a06a3FiwTKlOttRmkclOuK4pSB2ST1pQ3pudncEc0SgoW6lZSp6QpohHHsBNxc3+/2671izk3k8rrxtin1HbtUdEOmVOHJkvJWltDSrk4z+tTnaVNqdO3+9SagzwZRgWcKwsm+QTmxBSf5+2uxqdP2jMj1B7xOBCVeT6eIWnsjvH3x0R1pp23Dr1e3WxXqpBFNiJQC22tNnHBbGL3Az2c6c+MBCX7P7dVQpYQHVNpyQL39JHrRpsqsVJaWvNrZsdGsrnQ8qiNDN+7xlNv1HbdWjLZM1EdPhLgW20Qu/NBAuQQAc5B/i2mnZqXXqYqbKkplzHlkOyE/wC5GPXWt+tbX258kxKU4ZCmX47bUtKo9gsNLvxSv8YOPWkWhLf+PZr1ErLLiIy5DimFr6cRywpJ66IxraHDlHvsx7rp6ahQpSFAgoT5AftbVAgVmF/QQIxksrqbkRDiIvkAccPAG1vV/wA6l1U3D/fZDVGooBffWELAPJSRnKrdAWvrs+TXk7Sdp7MJvwcUBQfUoqWMkFSLfSDgElWerA2NgIalw5qalSm5LCD/AJkn6FdpULgg/kEEfrRrI3U3BZ2Olpt96DHdQ2iO+yfraWqxQb3GSrBN8lWe76Ncc9jtJPiWtxtsTKkanUxEZdYCWebZWFOcgATbNkj10ATqsbZK5s5yibnVGrkwpEryIYCmGWiLoJJ6JPQ92vo0apmVvG16WI3yXU0sU1EOnx2iGS3HCApwhHIlYGbg3sTpx3FSGatDQy8E+Rp1MhhShcIdQbpJHsX7HsY0aNMnlyRfkJKaT8WGHUm0rWppuIfGSoBdrBQvY2uL+saNGjU5r//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Toro</div>
-                                    <div class="artist">Liily</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBwgFA//EACoQAAEDAgUDBAIDAAAAAAAAAAECAwQAEQUGEiExE1FhFCIyQQeBQnGR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDAAT/xAAbEQEBAAMAAwAAAAAAAAAAAAABAAIREgNBUf/aAAwDAQACEQMRAD8Aq7LsIvoDjBRpFwSpBPu+uN6csOiPSWksyYyy58RZoi/nemHK+SnkwbuNhthv+KT7r/ZFPmGxUrKGmVkJSbKFt/0e9dpkFzIyBFgIZQGktKJ+NlJ571AxnC4/pVLSz0fITbbvvVrTsKnsywmNFD6lW6bpTcb9+xqLimTpL0R9c4Ml1Kitv2khW3B0mj2S8tlXMyHm5DiUsLcSbKS4Um5Hg2saKuHOGU50gSZUgJQWW7NdIX6lyD8eeKKRB91BrsyzMjFKS0hq9thYcV0MQzBhmFaus20w6UlV7AbfdZSxTPr70NMeMHW0BNlG9if8rlSc4YxNgemmYg+41wnWrUUp7X5t+6nwTdNpLE/ySxGZeSwUvahqbUNrHsfFQE/kRUrDSpxsIkcJAJ0ms6QJElaw11VErGywKfcr4Y2y8tmbMU84sANBsHTci+996tj48flPLJmqRjnqisyHQ0vVdSe3YjxRUJWFlpJeIQTqFuqbG1FZCU3UzEimQ4AQf78V7yYZiPBLiRo8UUUNT0mA2daVdMWHAtbau9FxMwZSXemFKSNrm1jRRT4yt5jH5TU1UlbqllZNwo3FjyLH6ooorR1f/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Swayed</div>
-                                    <div class="artist">Kiasmos</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEEBQYCAwf/xAAxEAABAwMBBAkCBwAAAAAAAAABAAIDBAURMQYSE1EUFSFBVGGBk+EWMiIjJERScaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQF/8QAIhEAAgICAQMFAAAAAAAAAAAAAQIAAwQRExIhUQUxQVJh/9oADAMBAAIRAxEAPwDR1tcPG1HuFI673AEfrKn0eUzUlZLTNdZy1hDImfe/l5DzWXYtNS9bgACaCGxz0qZpbd7g446ZU/2XkLJ10uA/fT+kpU11VYnVRoWXSI12nD47S7PLd5+Shrxa5rZOGS4dG77Xjv8AlIqux7W6QNH9Ea6WoNk9pj1tcPG1HuFCZIVXDX9REcjeZV/qweCPufCumzm0gqtn+g07TRz1jZmtqN/PDeMDTHacEHVco3FI2quFKx8M7XPp3uD/AMBw6N40c08/LvHoq8vCW6vQHtJaMpkbZM6bJs3ZpdnzRQ0scNXEwYrMfmCT+edT29uMpntFtWHWaSGWHpElE6KM1G/jivIO9gY7NCdSqrJdjMwMfe5Ww94EB4jhy1x/qiLpWtqmR09LG6KjiJc1r3Zc9x1e46Z8tAFBj+nsXBsO9Hfz2lNmYApC9pJfVg8Efc+EKubiFs8CSDmbzHPDCTcCEJ0n3F4bd3vyk3AhCIbhuBCEIhuf/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Goliath</div>
-                                    <div class="artist">Sébastien Léger</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAIDAAMAAAAAAAAAAAAAAAUGAgMEAQcI/8QAKhAAAQMDAwMDBAMAAAAAAAAAAQIDBAAFERIhQQYTMSJCYTJRcZEjodH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgAD/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAECETH/2gAMAwEAAhEDEQA/APqACvOKCs2zvVpaQg5Ke6oqABIyM4/VZkVU7re41r63t0SNbpLk+6qDchxpsqCWUA6Vrx9IySAfzxvVxUAamaNnGkilZrGKVQayoDmoi6X5mIoNRwJErVgMpOORnfjzml+mOwba8+zo7owEazsTn/N6ocW4OdmQ/cBFbLy1JcLQKzqOD6fdnHxjJTv9640S94u81q+RpKAxraBThKFBTqfJTnByM/Y/nipodYxEla1tOhkOBoH3FWAfBO+x4qi3KPdFyixaZrSB2wSEowWU/SEb+RgqORjfc8V0KtTqlxWzLLD5e7rYUB/Jp9WVc84+BRMw3XfXtnIWkEYIO9KgOkbg/NamtvaCiM92mlJ9yQkefkHI2pU+BHXmPNuKmg2lsIbUSnKjv/W1UvrDoG5XeO07alsxLlrw46XVDU2AcD0/OD4pSuhdHQ3Rt7tDUld6nmVMd9AWhwrSlAAAA1CrMx06UohAsIC2Gw3qKtXjwQTv+6UrB32axptd4emxyhppyOhjsNo0pBSpR1bbe77cUpShn//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Escapism.
-Explicit content</div>
-                                    <div class="artist">RAYE &amp; 070 Shake</div>
+                                    <div class="name">Zweiheit</div>
+                                    <div class="artist">Zebra Centauri</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -331,13 +309,35 @@ Explicit content</div>
                                     <div class="artist">Chelou</div>
                                 </div>
                             </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBgcFCP/EACoQAAIBAwIFBAIDAQAAAAAAAAECAwAEEQUSBhMhMVEiQWFxMoEUQqHx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECBAP/xAAZEQEBAQEBAQAAAAAAAAAAAAAAARECIWH/2gAMAwEAAhEDEQA/APSVtNbyAspBXyTU/Mj2goVwfbNZBd6Dc6TEhOoqu4gKqKyZx9Nink1i73CFNQPNVdzLtUnHbOO+Pmlq2mO5IJC9KXKyMM46eSazaTiO/t51Etwr91BCjBPjoe/6piDja1ECfy7hYpmO1RuXEnjb1/yidDPi9vAxFFVS34niupGjhvV3hdxVl7UU/R45ut6qNStXteXstn/JifX8Y9gc/dZrxPZS6VMNQhuZZprrbG7SHONoO09MdatKTooGVJb76VWuPdQmk0pLS2tHl5j7iUX8cfPtnz4zWe2tE5kZdpOqa3HdTQadM8t2zHdFsDljn+uR079/FXbhW04ogukvNcskktBkGIlefH06OoH32znHtXM4em1zh27uZtP062u47wq0gO5JFwMY3H2/7V5tNakvDKJLSa3Kn080j1jyMGqvSJxNMyQRsHkU3MDyD1bZOv77+aKgmv0AO9iD80VOryE4tQlZAzDGaljm5yhsDb90UUsEoJQj1AY+TUUnLbIBUY9xRRRh0rI+MKCcnvRRRVY52v/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Deep See Blue Song</div>
+                                    <div class="artist">Flavien Berger</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAUGAQcCAwT/xAAxEAACAQMDAwIEBAcBAAAAAAABAgMEBREAEiEGMUEHExQiUXEVMmGBFiMzQlJikbH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAExEf/aAAwDAQACEQMRAD8At7tHS3n8LoJkLKepqqKXY39pMjMDjwVO0jVzboZF6guMsQMdFEkcKoPylgpJ2DxwUB+pUAdjrXXVFBJRdTdPNRyiCKvnnqZPbbDCcNt9wccZUqM47r99VlDS1kH8iC5XSTDFiZGBDsTyS3fvnx/5rhWjFeoq1WKy2C5ZHf203DsPJxnkkfYZ0zrak/FU9LIrCKpUqxDbWU4PYjuftyNLoKS4SERz1VXH3y5nz/zHj7/vqUrupKSeD4CT8ThuLTyL7c0rgIsTfPJvyQMAFvlLY48nTgcdLxV1T1HfEuG/ZRVARXwMSsyIysP0A+bH+Un6aNZ9NJ6+ahqHujh5qhIKxH3MS0ckfyk58gLtPPdc8Zxo1LRBdY3oS9aUVFSj3Xpo0aHyHXDliAASTvOOBxqisl5u8NOzJbpYl2bgZkc91zxnjsM8amq9WofUwzSRq8fxMMc7KcMJvbR2CeNu8lufL/TWy6dD8CqCOUs0OD7lTnsrgcDg9taoRPfro1xpbZUUqwy1m9ojKjgZQHdk7s9+OAR+2k/U9huVZHV1k9QslSke2lADKEZgFB3bRz82eTjBPHjVBc4IpeqrHujV3D1IUFi5/MR57d/rpb6qNHT9PtQwVESS1LMskBUB5YudwTbzu5BH1240hXX6XWcw3ugulQJ0rJrBCJY5X3n+pgEHAwCEBC+AQBxo16/Sg0sdVIlPNV1Us1tpZpqiVmdd+GyBnheCoCjwv7k1KFFP07dD1ZVzVCieAUzySTEnZJLkYYFv9Y1HJPY8+dc7e1opkc0dvuFSpYq0qe80e7OCQ5G0jIPOSBn9NGjV1Dqhu9JHDPNb1ineAhXaAxyMGbGON2FOBnHGTx40p6hsP8RTfFtTwUNbJ7e2VpkjKsG+XsWy3YDP250aNMWmHprQi23msp980ri20ku6RyDvYNuUqDtAA2gccDRo0alH/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">The Sink
+Explicit content</div>
+                                    <div class="artist">hey, nothing</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAQFBgcIAwL/xAArEAACAgEDAwMDBAMAAAAAAAABAgMEBQAGERIhMQcTQSJRYRQygaEVYnH/xAAaAQABBQEAAAAAAAAAAAAAAAAEAAECAwUG/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMEEjEhQQUTUf/aAAwDAQACEQMRAD8AzRTrT3bMdenBLYnkPCRRIXdz+AO50qtYbJ1EsPbxl6BK5VZjLAyiIt+0NyO3Pxz508+l+Zp7d9QcJl8o7pSqTF5SilmA6WHYDz3OtAZbce1927cv157FsQ24q3Q71m6ZDCXIIQsSASQO5P31TlzDF3CtXVfZbigmYP0Fv26jipZK2iVrt7bcTEHghO31Hnt2576cZNtZ2F2imwmUSQFQUapIDyx4Xtx8nx99Wzv3f+QwljFx7Qgoph8JEsdeaSsrSLK6cO3B8fx/3T/6e+odChti3ms5dytu5eESWDyZGrhWkUtGT4ADh+PvyBqH32Aa7lzaDqSvsC+vUznYhlrWHgsxPDNGxV45FKshHkEHuDo0oyqw/wCSt/prT3IPeYx2JFKvKvPZmB7gn5/OjRAgER9uNWHuaaSLadZKR6VlEcZYHj6ennj+tNXpPgqW5t/4rEZRJHp2TIJBG/Qx6Y2YcH47jVz3Ng4TJbetY/a7vkbMNmGFEFkTJVkaNn6HkUcFQwH1cfPGhdgWyn8mr8bsLhXIjGuQ8GUXTgF3G16Ne2TLK/EgI46V7efuOoffUsw0ccWz1RgvtiCTq4Pnz3P51bWM9IduU6rXbNqKaRqcthoQwBBILr0/6KoI5+eOfxpu3HsavWwu1WsQXmqXbMcOVWrGzOqSKXXoAHjtw3HJ/nQzhshCjq7mpg2cGujZGNmqmbgPpGjUq9UcBFtjfWUxUEJgqxMrQJ7vun22UFSWIB5Png+PGjWmPI8Tlz3ItSt2KNlbFOxNXsJz0yROUZe3B4I7jtrvj8tkcaJxjb9uoJ16ZfYmaP3B9m4Pf+dGjSqRuelzGTWVJVyN0SpF7CuJ26lj446Aeey8fHjXeLcebjmeaPM5JJnKszi0/UxX9pJ57kf1o0afiI9xDctWL1l7NyeWxYkPU8krl3Y/ck9zo0aNKNP/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Colors</div>
+                                    <div class="artist">Black Pumas</div>
+                                </div>
+                            </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2026, 04:01:06 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Aug 2026, 04:00:18 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
