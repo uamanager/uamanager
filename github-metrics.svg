@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    235 MB used
+                                    236 MB used
                                 </div>
                             </section>
                             <section>
@@ -296,24 +296,32 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQDBQECBgf/xAArEAACAQMDAwMDBQEAAAAAAAABAgMABBEFITESE0EGInFCUWEjgZHB0fD/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQUDBAL/xAAgEQACAQQCAwEAAAAAAAAAAAAAAQIDBAURFBUSQVFS/9oADAMBAAIRAxEAPwD1K4Ie6mZCGBcnI+a06Gwfaantu2Nsr/NTtER0lOPG3Nd6v5L0S3i4N78hEowJJU1C9xEi++RBj7mm9RurKxiJu5VRhuqjdj42FUN1q1tfMiafbvLOzcEYyKfPl8F1UP0Pwavp0dzC0l9bKvWu5kGOaKoJNBur4vI4hiTIBRQCfvv/ANmis5Xjk9tHuONglrZmK7LkguMD88VI+q3tpIiWb9x2IPax1bUvpWlBZFZjavg/U2ePiuphhEi9QmBx5VcKvwK4ykedesbjUEupbl4mjd1UtF1CQoPJAG+/xn55rb0XJPcQCeVWiIJKdwdLY+kkeD/VdXeem4ZJO8k7vKSWc5GWb9xx/tLRWr2smbfO2c5XegDoE6jFIZsDcDjGPPNFJvd/pDuZyRwRRQAnZaEbeRkvRHIUOD0k4JBq+j7ca4XIA2AxtRRVVWlNogvIVjD9LMPcwFROgJ2O35oop8SmLsKwpPYzXDLHC0asxAHjc7UUUVnO2gmaRv6rP//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBQcDBP/EADIQAAIBAwMCBQEFCQAAAAAAAAECAwQFEQASIQYTByIxQXEVMlGBsdEUFjNCYWKRofD/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAIB/8QAHBEBAAMAAwEBAAAAAAAAAAAAAQACAxEhMRIT/9oADAMBAAIRAxEAPwDNu7LSKqqWuLsnakXtHuQgH+UjIKtn116eiKeee41gtNPPUxICduBuQeqtzxkHj399X9seCK2y1cpCdqPG4HDByMrj7+RqfhdcpLV1bc6mpCKZ4RIzMowASCePTnUmqhyewskeRJ6v3euNVL2VpFncRuyjexYluCM4yT8nGNZ11DaLj0yGjrojEZWOzcPNtHpzrWLl1lc6aZrpRQwxUMzERgRgll4H4fnpI8Y6pq76RN25FLx52MPNnQ52s24fI/XXUTbBinnS6TMu6B8xxbsF2+fUDnRpgobZSUltpZaqkZK6ZeRncxJzggeg4x8aNOncJ0J36fFPUXelp5JZnoXJZ4d21twHpn503eGdXSJebsLjEtRA8CR+YZAGf01lktUom70KhXZsgbjnP/c6f+grulmesNdTGSWcLvUD7QBJ3A/HtrN0Duark25SX9fDbLteZ7bQ7qeCKH9oSTeoUtu+wqk6oPGGCW1XKy1E7B8MXTH9pH66rpKenk65nqx3zay5m7qj+GfZQc4wD/rXLr+s+sLTGNppkh3Fdy5wDyOfw1ga/QkZxepG3XukFAlOyHuCfesuMbkyDg/B99GkmmmdgI/Ue25vz0ao+kk/4klBTzswdVXbnyc5HxpzttdLa6WHuRzQ1ZXI8y9l15wfvHGjRqLe31wMvxD2XNP1lcKgtGtFTdnAy7NzgZzhQME86o7pekkjcPIUVuMFOfjGjRruNKtvJvSyVirJHI9yEVLTSiQ4wrDB/wAf10aNGkvojBrUSf/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lush</div>
-                                    <div class="artist">Four Tet</div>
+                                    <div class="name">A Little Bit Happy</div>
+                                    <div class="artist">TALK</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAEDCAcEBv/EADIQAAEDAgIFCQkAAAAAAAAAAAEAAxECEgQFBxQhQZETFSMxUXKhscEXIjNCcYGCk9H/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQQF/8QAGxEAAQUBAQAAAAAAAAAAAAAAAAEDEhNRQQL/2gAMAwEAAhEDEQA/ANUoiIAiqLNPLcrc5PZebeEwrUAREQHAPbs+8aYwjbEiIsNUH6z6KynTHjXKejra/WJ81mxjO246RojumfNW152zVEMVH8oXXoZ4hzb3Omi3dNWNZaivVbt1rd1XAFeRvTnmF4vYptjezs8KpXAqc7apAjDGe+P4p5+ZA+BXO/3grQzhL3NO/OadMd8rDNJ7a2zHgfVFn6vPmp2s/aUSlnBc4fGDF0jqkpViyRsJhEWGammHkjWJAknio1rdceKIpNSwQg4nZ1niiIk1EEP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQBAwIFBgf/xAAnEAACAQMEAQQCAwAAAAAAAAABAgADBBESITFBBRMUUYEiYQYjsf/EABsBAAICAwEAAAAAAAAAAAAAAAMFAQIABAYH/8QAIREAAwACAQMFAAAAAAAAAAAAAAECAyERBAUSEyIyUZH/2gAMAwEAAhEDEQA/API6jFuZUJYe5ktLLhGwrZ3JO05+melTK4F6dyjMVUnZtOcbavjPzLvUI7m68Z/HFq07lbmuKTISaNJKeWNTklvgYzNHcFGqMaaFEPCk5x9zHUN+0DgrJSfn96Bn1ZPJhKCTmEnkvsbVG+JL6aJy+WQ98aTHQAOpDqHpvTKqyupU6hkSqab2FzY34Ny+GjprXyB9vb+TqXFDHt/7EDAguVKo/Gc42I6Iz3OQv7N7W8rUCQ/psV1Dhh0fsbxKybVTvqDq7srr+W2NgAf8jHiErrb4ug2Xw6sSPyXjOx/XcPeCYTciXt3U1WSYp/JP9RX6LE8Qmy0iE1+R/wCmiYcmEJBd7FKNOozk1FwuSAG5xn9TG0t7qhVIqV1q0d8AggrncgfcIQzyU20L8HR4pUtLaeh3eEIQIxP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Some Kind of Up and Down Yes</div>
-                                    <div class="artist">Efdemin</div>
+                                    <div class="name">The Bridge</div>
+                                    <div class="artist">d4vd</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQFBgEHCAP/xAAtEAABAwMCBQEIAwAAAAAAAAABAgMEAAUREiEGEzFBURQHIjJSYZGhsUJxgf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAHhEAAgIBBQEAAAAAAAAAAAAAAAECERIDEyFBUTH/2gAMAwEAAhEDEQA/AOl9TQOS259cb4o5kRSdZVp7ZWCP3VNVGRFAM2+FhQGTzHUpOM47q8iskWVASp7iaONXzPoOfzRuPpXbfRL2XiKzXi63a3W53mybY8GZCWwTgkZB8dcj+0mp9lls7hpQPlQxWqfZ/BsVl4k4mlN8QsKM+UHUZkNgfyGBvv2raEZxst5Ykh4eUuAj8Uma6YHBodCAkdBRUcq4R/VLjGQPUIAKmwoagD0260UM0DBnD9tnXJt1Tk1vUl5RIddV73vKycKJ33+u/WrAiSjmKRIUlCUq0lwEFOrxkd6ZRw76Z5z04YXEW1pShwZU2e2M9d/NVpMK526cCISUuLaLfMScoKs/EcDY1lbTOlFz00kXSPBbUyHtaQ3tuT0zvv4p6Gv0qguM7pX2KFY/VURy63CWy1anIqWErRyZD2gq1jOdWTtkncnbNSslma2/Aat6EGOhAbeewCVJHapRvsvuZfESFyirfuTlwfkP+pdxlwvqycDA6GioW4zLlZXJstxCXo6gA2PlHgjpiiqKyctSEXTVFlEsaR7w+9LTAxLb0SEhaeuM0UUhrxT4EzDt6WlNcpHLX1HmvJEVtlbTkWQ8ltv4WgvKD96KKFi4R8ELyt28R3GHGlsqRuDrwFf6KKKKZMk9KM+Wf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIDBAH/xAA0EAABAwMCAgcFCQEAAAAAAAABAgMEAAUREiEGMQcTFEFRYXEWgZGx8BUiIzJCYqGi0eH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIRITFB/9oADAMBAAIRAxEAPwCAuFwQ0MAnPrVf3ni9tt4oZQ48NRSTqwPd41NXR/UslZx591JU61EzkloEsLVq1D9B5/RqEpelab8Nq+K7g24XMDq0qH3TnODz3pksnEyZxKWlaFAZKDsf+0qCK2tLiZDpUpR1KwPy/QqMtwLF3bCF5OvAI9f8pOUzMsvG1zFOlBUo6vHNFLdnlJbdSDlSDzB7vSiptDyE23zhbxMMR4xSdPWAAg8x8wd+W1YQpc19pFqlcNSZMuGlekagkFCihQQrB/eo55jWDyr3iu4z4dndSxcH46UJwlKdk4JOUkd4OTt50iwuIrpGa6pqbIxpRowc6CjZJTnkQCR6GqStAosO2QrULrGlvcNvS4Eht5pccL3Q4hxRJznGAnCee4GayhBr2aciM2GWl0Mltb6kpIaUOqUc942R/bbvqsfaC5oY7OzcZbcYJUgNhwgYIIVt55x6V1nie9SSXV3WZ2oJACwvdQBBGSOe+PhSwZkfrfaZibWm4BCTD1adaeWc4Hr7s0VE9HkybIsrsByU72Jt7PV5ynPPlRUnoa2TPSFET9hunYlSkgfHNVUMx3ELKNeMgpyRn3jeiinHA0dIuEZSkh+1MFPiFrB+db4rLMqWBHQhpK07DmE7jx8gaKKTChv6OXsXCZHcQlBc/FGB3jY/xRRRU66UR//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">E P H E M E R a L</div>
-                                    <div class="artist">WOODJU</div>
+                                    <div class="name">You Will Never Know It</div>
+                                    <div class="artist">Carpetman</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYFBwgCBAn/xAAuEAABAwMDAgMHBQAAAAAAAAABAgMEAAURBhIhEzEHQVEIFCIycYGRFSNCU2H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AktK60sukrW3bJFunsNoThISyT9zkUws6siTkuOwn1bFIO0LTtP4pc8QtP3+LEkdCNEaQUftvKbU8pavQgcJ48+ftSf4S26+p1TDizCHobjgDzbo47/xzz+KCzZWoxEt0nrqQgoGcnvmqC1TqeNMvD64sZcnqp25z5/5Vne0hb2bUlLcFSklw889qpKDEMI+8DD5RhSQBndwe/pzQREmE6EuI6SgpG0kHvgjIJortMG5vzXHnG+oXCSskH4s0UHojcI/WiOJQ2hSyk4Chxmka16Unwn/fVsRX561pcAxtShY9cnlKckjHchJNWE4SlpRSAVAcZNQESXOM6RKfiPLipAQ2EYzknlWCe2KDNfj9Iub2qEN3CRHcZaVsKmWSlGc8gZJJx2J9c0o23T7s5rfHfDbCj8IHZXlmnX2irslVyDjzR6hWUBvsUgcedK+gJDnu7rijhgqHTSe/bk/TNBKfpLcFKS8kcDjAorlqeUUpACsH6+VFBr1Tg6W8cjGaWrtfYLGESJ6WXf6xjI8ufSiigz54tJsdzlzZk6ap59xSRHQhPyBPzZJ4+wqrmZkNh0JiTSlWflJxn8UUUEpMnOPW5Knjyk7d3qKKKKD/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Always You
+Explicit content</div>
+                                    <div class="artist">Isak Danielson</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -323,20 +331,13 @@
                                     <div class="artist">Chappell Roan</div>
                                 </div>
                             </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBQECAwb/xAAmEAACAQMEAQMFAAAAAAAAAAABAgADBBEFEiExkQZBUSIyQlJh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQQCAwUG/8QAHxEAAgMAAgIDAAAAAAAAAAAAAAECAxEEEhNRFCFB/9oADAMBAAIRAxEAPwBQimdxOT38yRTQ/J8zotP6jx7ze7pkWNcr9wQkGdhmLTH3XhrRK1GKq4Zh7ZkxKJ478zxeg3xq6vQppklnAxGTSt4KJq2OoNkXB4yHSoNkd+YS3pW/UJf0RVp52mozOV7f29ulSm53NtORNVuVQMxIOMmL7U9Uerd1SpPLGIX8pVRGa6nNmdGuRb+oKNdQAq1Cce2OeI4NJ1K1vWVUbbUP4mInewfcCd3cudJ1yrbXNJiSArDkGIcPmqrYv9ZffT3+0P2jRBxxCVFj6osnRCzYJx5hNn5MPYj4pCdubusgbhsdShbcWJwcn+QhOYvk28ZrQSRjafgww36nxCEX0mTad9cqVAZscQhCS8kvYOqP/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Frame of Reference</div>
-                                    <div class="artist">Lake People</div>
-                                </div>
-                            </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2026, 03:44:17 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Aug 2026, 03:42:53 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
