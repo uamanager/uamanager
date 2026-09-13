@@ -296,6 +296,20 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAEEBQYCAwf/xAAxEAABAwMBBAkCBwAAAAAAAAABAAIDBAURMQYSE1EUFSFBVGGBk+EWMiIjJERScaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAwQF/8QAIhEAAgICAQMFAAAAAAAAAAAAAQIAAwQRExIhUQUxQVJh/9oADAMBAAIRAxEAPwDR1tcPG1HuFI673AEfrKn0eUzUlZLTNdZy1hDImfe/l5DzWXYtNS9bgACaCGxz0qZpbd7g446ZU/2XkLJ10uA/fT+kpU11VYnVRoWXSI12nD47S7PLd5+Shrxa5rZOGS4dG77Xjv8AlIqux7W6QNH9Ea6WoNk9pj1tcPG1HuFCZIVXDX9REcjeZV/qweCPufCumzm0gqtn+g07TRz1jZmtqN/PDeMDTHacEHVco3FI2quFKx8M7XPp3uD/AMBw6N40c08/LvHoq8vCW6vQHtJaMpkbZM6bJs3ZpdnzRQ0scNXEwYrMfmCT+edT29uMpntFtWHWaSGWHpElE6KM1G/jivIO9gY7NCdSqrJdjMwMfe5Ww94EB4jhy1x/qiLpWtqmR09LG6KjiJc1r3Zc9x1e46Z8tAFBj+nsXBsO9Hfz2lNmYApC9pJfVg8Efc+EKubiFs8CSDmbzHPDCTcCEJ0n3F4bd3vyk3AhCIbhuBCEIhuf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Goliath</div>
+                                    <div class="artist">Sébastien Léger</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAIIAQQFBgcD/8QAKRAAAgEDAgQGAwEAAAAAAAAAAQIAAwQRBSEGBxIiEzFBUXGRFBVhsf/EABkBAQEBAAMAAAAAAAAAAAAAAAACAwQFBv/EAB0RAAEEAwEBAAAAAAAAAAAAAAABAhFRAxMUEkH/2gAMAwEAAhEDEQA/AI1+kDHxKFZrBwjJXvD2p2enU9Qr2x/DdVZaqsCCG8jtMSfKdVub2uvIe2FGp1BLpqDZ3KoxyR8Z/wBnKsbQWqCwjYhAkvBT7f7KqncMy6FF/DJwcylOi7VUXHmQJUoZeXUSM5i8O6fZ8tNJFtQRFvEVqyKAFbKnDAD1zvIwAdslzx7YPe8rEVWPXbab4iDO4YDYiRICt0jY4k/TdzVEhG6T7H6hEk+VN7FmvSe0fUVrIYPaIQnU7XWe45MVGaTiTXadglkt6xtkpmkEZQezGMfE1k6coGAohCNrrHJio8/1w9hCEI2uscmKj//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">101 (feat. Joe Newman)</div>
+                                    <div class="artist">Portico</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCBAEGBwP/xAAvEAABAwMDAAcIAwAAAAAAAAABAAIRAwQSBSExBiJBUWGBsRMUIzRCUnHwkaHB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwUBBAYC/8QAIBEAAgICAQUBAAAAAAAAAAAAAQIAAwQRIQUSIjFRQf/aAAwDAQACEQMRAD8A4Y5p5WWU+fuCDUIAiJiVEVHSTsgcyj47k20zlwZ/KddHvmsHSA4EH+ElNQw0gCSm+mXNRlq3ENEuJyjfsCFdsrqXMQqtgPyMLy8NPo5UbSDQ6tXLXHGTiBwCePJCv6foD9U0SkQ4sbnk4gSeNvVCqpdUmwxjO/p2XkFXqHGh+xO7S6FnaH3iX3TmjBjeB4kpTUbZNc5vx8hI7IlbHXpmZq5CntkSNz+9y1a9h13WLGODS4xPMJo4AEzwlgU7XHrGpP09ZvHj/atUqlmygA01w0OdA24kJO7YMHh/q9XEi3bzwfVBI3DI3adzo/Ra/rM0sUqT4GIDt+YYJQtd0m79jpbd9yT6BCT2YxLkia/H6mEqVT8mNV1Rr3lrZAHdwP3vSVlVtSS0HzCEJw43zMhU59SRAImAfJVrl7sBTBOEzj2ShC5X3O7ToS3SqFtuxqEIUFRJ7zoT/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Aliens</div>
@@ -303,31 +317,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcBA//EADAQAAIBAwMCAwcDBQAAAAAAAAECAwAEEQUSIRMxIkFRBiMyUmFxkTOB0RSSobHh/8QAGQEBAQADAQAAAAAAAAAAAAAAAgEAAwQF/8QAHREAAwEAAgMBAAAAAAAAAAAAAAERAgMxBBIhUf/aAAwDAQACEQMRAD8AvMGrWksiRs672JBy+AuMfzTK1kspGfoGORkOG2sGwe/7VkV7dhLJJZCcbmzwT8vpXfZrWDpOsdSSQi2n/UyOBgHJ/wAir7vQccOcro2bqKQSA393/KU6xrMOnS2qypIRM2zKkHafqMUr0P2v0vVIJGt513x/Gv1+nrVG1K4FvrX9XFK17az+8jQMQrMTgDknFYl+myGvArLAW5HYd/L8UVF0eZZtIikVSuQuVLZwcHjNFExoxx26lrGO/jf/AEtKL5WRJWG/Yp38AEnHOOaZRuHso9qMi9R/1DjyXyH811bE3rCFCCxHlwPz3otT6G0q+lMu6I2xlVmKztJ8OW8sY49fKrRFYXl5fRwxyKYXG504GD2+/P2r0t9OttNuUN3IjMG+FeeKtfszq2kxs3WEMeeFYr59zn84/ajWyon6dHrGh6QsVtZK8KsuI1fJA5z9qKscWoW1wkqwzIzIV3YPqDRSgqYxZahGLbpyMyHxA+DIIOPqPSmba3HGepDMiMG3+GAZ7YI+Kiir2a386E1zqMUzBC5LbduejyQTn5qlRXXUb3TvkkkKkPnjHzelFFTKpW5mjFIruWAxqrxghVyVEfCg9+SSeaKKK688OYeTvzuXLiP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBwgFA//EACoQAAEDAgUDBAIDAAAAAAAAAAECAwQAEQUGEiExE1FhFCIyQQeBQnGR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDAAT/xAAbEQEBAAMAAwAAAAAAAAAAAAABAAIREgNBUf/aAAwDAQACEQMRAD8Aq7LsIvoDjBRpFwSpBPu+uN6csOiPSWksyYyy58RZoi/nemHK+SnkwbuNhthv+KT7r/ZFPmGxUrKGmVkJSbKFt/0e9dpkFzIyBFgIZQGktKJ+NlJ571AxnC4/pVLSz0fITbbvvVrTsKnsywmNFD6lW6bpTcb9+xqLimTpL0R9c4Ml1Kitv2khW3B0mj2S8tlXMyHm5DiUsLcSbKS4Um5Hg2saKuHOGU50gSZUgJQWW7NdIX6lyD8eeKKRB91BrsyzMjFKS0hq9thYcV0MQzBhmFaus20w6UlV7AbfdZSxTPr70NMeMHW0BNlG9if8rlSc4YxNgemmYg+41wnWrUUp7X5t+6nwTdNpLE/ySxGZeSwUvahqbUNrHsfFQE/kRUrDSpxsIkcJAJ0ms6QJElaw11VErGywKfcr4Y2y8tmbMU84sANBsHTci+996tj48flPLJmqRjnqisyHQ0vVdSe3YjxRUJWFlpJeIQTqFuqbG1FZCU3UzEimQ4AQf78V7yYZiPBLiRo8UUUNT0mA2daVdMWHAtbau9FxMwZSXemFKSNrm1jRRT4yt5jH5TU1UlbqllZNwo3FjyLH6ooorR1f/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Terracotta</div>
-                                    <div class="artist">Garden City Movement</div>
+                                    <div class="name">Swayed</div>
+                                    <div class="artist">Kiasmos</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQQC/8QALBAAAQMDAwMEAgEFAAAAAAAAAQIDBAAFEQYTIQcSMSJBUYEUYhYjYXGh0f/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAHBEBAQACAwEBAAAAAAAAAAAAAQACEQMSMUFR/9oADAMBAAIRAxEAPwCl37X7Vnmy2FWe4SRHc21LZwe48cgfHNZyuqjCUFf8bvam+9TYWhtJCiMZxz/f7pG1brhUDUN8S5Ai9qJC45IU4FLAVnPCsA5Aosmuol4DbLURlDhKStsqWk+nIBHOCPUax2/l1HEa9qxpbVsfUj7rSYMuAptHdmThJPOMY+aZkus9o/rNnPj1Dmp1bHWJdxRJLDQk7m96VqwFc+xNeLuwy1H7fxGlIbSopBWrzyfn5JqezBx4+bqVut5xuI7j49QoqP2K9OTNWwmzCZDrj6StYcVxjHIGceBRTMtyy4g+0g1qXJ/Uu8wS83HaNydTuLOAMq8mtWVctL6bu0NUVMie8ywUOONhJQVnjlJIwfPufNLHUNWeoepUg+oT3vf9jWE1HkPuobbT3LWoJSM+STgCr1Auq76f15DnOpTb9KXJ8/oUVpXLV06A6lDukZu47nb3HE5X+oCQfb4pf0w1fOm9ujybk4wn8hQBjj1KQOfJ8fQzXTqXW14kS40562vO2xpKlAtEZCiMA4/wf91DWFwaU15Ff1paokbTyIb70tDKll4ko7jhXGKKWtMwZT3UPT932VIYlXJDhQTy2dzwf+0VQFKu62v9N7JcL7cpdytj2HnS9uqkJUHFE5OEgZT912I6a6dRFS3GZcjLS4HA80EBwH47u3xRRRqx7MxQ7DBjRkMp3HCCVbjiu5alEkkk485Ne02eP2pSp6QoD5V5+gMUUUdSDJs1uwxHbgxKVb323GnApKytGRg8E45xRRRR1JuTf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAQEAAgMAAAAAAAAAAAAAAAYFAgcDBAj/xAArEAABBAIBAwMCBwEAAAAAAAABAgMEEQAFMQYTIRJBYQdxFBUiQlF0gdL/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/EABwRAAMAAgMBAAAAAAAAAAAAAAABEQISEyExIv/aAAwDAQACEQMRAD8A+qcZhbvfa+DMagS+8p90BSEtoKifJA497GekxvNS7NVBC5bchIU4UrSR4ok+ffwcXXhWmUsKrGTKNlqUvdtL0ruVzSq+11V/HOeHqHqLQdPQUbDdbBcOMpSUhxYJsqNgUAfPPtxeU016SVmMytDsoGwhNOauR+IjOo7zbo8hSTwQcZIQgfqciQvqaGIbalvCOkgCx+9XuOPvmB0vsWJXV05AlsPuR23kr7bvcKQEmr9xnd5QlRtSUk8XWZLkGa2+4qD+VsoPgeqKoqq/NkKF+PjEsZlsdHP8aQgWYajtVSCw8m1FQu/4qyOK+Oclvr40w7qel3JwUvWtTmTKRdI7ak+n1KI4AJ/2zndBY3VeH9Xf9Zf/AHhuJs3VtiavVusWPWlMZVkfFrIzR5GF7pO/S1mBH0sVvUvF6EWlONr4BCllX6R7Js+BxWMt220NgJbQlIAoBIqhjISgN054xjGIYxjABjGMAP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Maybe Tomorrow</div>
-                                    <div class="artist">Stereophonics</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAcIBf/EADAQAAECBQMCAgkFAAAAAAAAAAIBAwAEBQYRBxIhMUETYRQiNlFigZGh0RUjMnGU/8QAGQEAAwADAAAAAAAAAAAAAAAAAQIDAAQF/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECAxESBCH/2gAMAwEAAhEDEQA/AN1qVaYYnphlK7KsFuQUbM28gqKmevPv4WKr1xsCXtBIBjspNc/eMivd3F5VPHKLNmi/JYWq7NrJy5TBtk4IplcdcJnK/aIiKyTeJHTIXPQ9iZrEgqiibv3h6/WA7monhqQ1iQ8l8ZMRyXRq5MzIOZEgaJRUXDHhecYSGYHCclOi5T+XHC9/pzAK2QsrXTR0VLXFTpmbaZYrFNdVwkEWwdRSJfcnPWCMGsJd140hUzj0oP6X1oIOElNtEt6TUoF51ds3m0VJtzd63KLnpCTWpmX9Ld2TQljoO/Pbt5RX1Lndmo1xDu4GeeTr8SwnVSfQAIxVNyjt3YztRe+Io4LA+ezixtjJJvizMvuGbagSCQrngVEs/OPTaqo/qeDfbBl5tBUEXjcnKF5e6EGWqTTfiB4goApncq8RFTZhx55yYdeTwwLaIj0XzTyhVD6bl9ydbizb7AmWEvKiiD4FmaAUTdz1ghK0tnEc1DtwVXlZ5rv8UEM4pHOhuEupll3fO6h3HNSNt1aYlXp902nW5YlExUuFRccpCy7p/eyr7KVr/KX4gggKTLcooBpZeKEalatbUV6IkoSY+0egOn96o3tS060gp29EL8QQQ2mZox6X2Td8jqHbk1PW5VpeUanmjddcliEQFC5VVVOEggghWw8o/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Wish I Knew You</div>
-                                    <div class="artist">The Revivalists</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcCBP/EADAQAAEDAwQCAAQDCQAAAAAAAAECAwQABREGBxIhEzEiI0GRFFGBMmFyoaOxweHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AEW+m7uuNNbq3202W/Li2+MpoNMiO0rjlpCj2pJPsk9mqvY93d2LzOjx41+l8HHEpU8IDSktgnBUcN+h7rWdQWC2XLc/WsybHYckNTGEBbuPhH4do9dV7m1pigNwm2UhOMEJwB9xQVKNdd5HAyXtaxI4cTn5kZsY/pd9fzrti7bvlxSX9Ypwkkcm4rJCv3glH+KtpUt5aVPPgn3lWc/pXPkSrPALUr18XVBJtrd9dva4tce+aldnW9al+Zkx2khXy1EdpSCO8H3RTnQjSkaut2SB2rofwKooKxeZSIu4e5rzqU8Iz0d9RIycCMgnA/Sqqm9agW7Cbiswrg9dWQ5EU2lTKGlnvxqKj8XXecj7YqLeC6m16m3U4I5OSn4UVKs/shbCcn7A0r2oi6glO2V+bbnVQQgpiy1pz8vITyAPsDOB/qgvGmnblcXJMS6Rg3cobnjdQ0srQfYyk99ZBHRNOXIobzzCkAf99azfcq36j0/fpVyhtuS4i2VLCmeTaeCcFRISR2kge/YOcUosF03NmQWxYrNJZjKKlpcdZ4NnJyTl0hJFBsm1iQnXr+Q8MyDx5A4x4fp9D3RXq2pbu6LraE6kXBcuoKy4YiMJA4HAP0KvzIwP70UFW3T2w1Rf7/uBJgWtbqJ70J6CrytjzeNCUrHasjHfvFajoyx3W06RsMCRbFIfiQkMOI5IPFQAz2D+f5UUUEGrbBeptg8MW2+WQArCQ6kHJGM5JpSzp7U8qO06/bZKHVoHNDzzZWlWMEEhRH2Pqiiga6QsF6h6khPzbctlhsq5Oc0EAcSB6OfdFFFB/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Think</div>
-                                    <div class="artist">Kaleida</div>
+                                    <div class="name">Don't You Want Me</div>
+                                    <div class="artist">The Human League</div>
                                 </div>
                             </div>
                         </div>
@@ -336,7 +336,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Sept 2026, 05:13:12 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2026, 05:10:20 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
