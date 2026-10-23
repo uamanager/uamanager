@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="531" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="736" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}svg.calendar{margin-left:13px;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.tracklist,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.tracklist{align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}svg.calendar{margin-left:13px;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -39,10 +39,10 @@
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    59 Stargazers
+                                    57 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -284,21 +284,59 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
                     </svg>
+                    Suggested tracks
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field error">
+                        <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
+                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
                             </svg>
-                            Unexpected error
+                            From Apple Music
+                        </div>
+                        <div class="tracklist">
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcBA//EACwQAAEDAwMDBAIBBQAAAAAAAAECAwQFBhEAByESEzEVIkFRYXEWF0KRk6H/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgAD/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECESExEiL/2gAMAwEAAhEDEQA/ANUsGzbQXttQKhUbcpDzhpjLzzq4aFLWe2Cok4yTrrNAtCSXVN2tb8cFHUw29AQVLwRkqIGEjnH7+dSaMZn9CKQmmIdXMXR2ENIbaDilKLQAGDxj7J+NZlUbwmUesojVaDOjSnY6G1MTltpSjOAHPak9XOfGATx48Gvh3i1tmjopu3giPPSbUpbXZcS0sCmpX7lAkYKU8jg8681R9sUsoe/jVOKF9WOmkZPGCcgIyPI1LpsJ6bAlTbwiw6bTE9p1vqX7ipCSCpWRhIPUfaAD/nVILh2wExMYPtKHc4d7J7aFH7VjA8DWVsJd+SXfdpWcva6u1WlW7SWj6Y8+w8iEhtaT0EgjjIP/AHRpi3FajM7RXE3BKDFFKf7ZQcgp7ZxjGjVRbCLJO2CunbO1cY6jTY4H+savXmIMuQwt0RX5UZXU0taUqU0ojGU/I4+sayv0eTO2msmoM1N+HHp1PYfkMNk4kIDQPT++MDz512w6bSIvrV31CS5HYnpClR5Tvsjg+7oCiAMZwAR9YGORo8rXYUOe4FL9chU6M5CfltCQpTjTTwb5S0sjqJBynqAHHOSP1rP4G2VJqVAbqdUYqVGQhAU5ELod4SDzkoCs41bzI1Qn2HCnQJVYdbcqYl4aOHmmCSCkpweoJ89PzqxodRnXuxEUqJLZgMJV3nJLfYD7mCMBHk/k+OeNZWl0ywr5NNTSthblisyX5MVMOaY63z7+17ukH6x+NGmPcotjam5m2mw0EUp4Bsf2jtnGPxo0x0qIrWfeVoubXUSlTrgo7ToprLLzb0xKFIUEAEYzkEEfjB0kNRaBIueGmubh0yq25Ge7rEJ2Q002kDJQlSEYSrn58ceOdGjVJVY0rNWiX7aPQpabsowSVlQQ5LbAUeckjPHPgfHGedesDcKzY8BLSLkoqXEJxgzEY6sec5+dGjUOKJoXtw72tObt7c0WNcdIkSHae60y2iUgqWoNkDpAOSSTo0aNVFYUlh//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Pleased To Meet You (Mixed)</div>
+                                    <div class="artist">Elliot Adamson</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAwACAwEAAAAAAAAAAAAAAAUHAwYBAgQI/8QAMxAAAgEDAgQEBAMJAAAAAAAAAQIDBAURACEGEjFBIiNRYXGBobEHMpETFTNSYrLR8PH/xAAXAQADAQAAAAAAAAAAAAAAAAAEBQYD/8QAIBEAAgIBBAMBAAAAAAAAAAAAAQIAAyEEERIxEyIy8P/aAAwDAQACEQMRAD8Altvutop6OGOotEU8yJhpHUbt67Hf567G+23Hh4boR+XYuxGxOfffOOuk8dOSeh064b4bqb/cBT06sIUwZpMbKPT4nS82BRuYaEJ6mOy2f9/3WSpWmEFCH8MKEkM38o9R/wA1UqSwpQxftZ1WSdceVnIQdi3+P11sVtscFgooY4ohG7Lyo7Lsvt7f7nSy6VMkFUFp4C1c5Pl5AU+59B9PTW+krF58rfImOos8Q4L2ZqfGXB9LdYpLjSPHSVY3k5jhH+Pp7H5HRrbYIohOstQ6zVqbilj3EXuqn+4/TRpqaK3O+0AFrjEklLArIACgkOxUkZX46pvDXEVps9pjoVpZadOryjdnbuxI3+muLFwzQXK026avtgNXVl15SgBUjJ/MCMjwk5x0Ok3G3DdNa6a1CjWppjPJNDJmfKll6YznG+pA2La3AykCFRylGtd9jvUD00c1NKrELzGRS4z3C5zn3O3rrzz2tRLJTQsrgfxJHw0gHQBsfpv07DGvnGdqqNJGlfleNuU/b7jVB/C55qirmkrLhKsT0pmiMsvlyBXCsDk74+40x0wfTt6tgwDUcbRkZlMt1BDS+C3xc5zh2B2J/qY9fqfbRphBXq7xrSxq6zrzRsSEU4GTjue/QaNNwQezFZYqcCY6GSQJwsFpajHI2GZORW8o9C3XrpfxTbXutNaeaeGmaG5TleYFy2S22Bj76NGo1TwsG37uUoPJcyF8RW6SB7grTRy5ZmwgxgcxxsfjrxWe6LTWamqEeJamnmkjGW5mIZeZTgdgwx89GjT5PZcxdZgmNLNxpcjJRV9yqGWGlqPHUIvmYY5IB3HQnto0aNaMu5g2wn//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">What Love Is</div>
+                                    <div class="artist">Zimmer90</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQDBQECBgf/xAArEAACAQMDAwMDBQEAAAAAAAABAgMABBEFITESE0EGInFCUWEjgZHB0fD/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQUDBAL/xAAgEQACAQQCAwEAAAAAAAAAAAAAAQIDBAURFBUSQVFS/9oADAMBAAIRAxEAPwD1K4Ie6mZCGBcnI+a06Gwfaantu2Nsr/NTtER0lOPG3Nd6v5L0S3i4N78hEowJJU1C9xEi++RBj7mm9RurKxiJu5VRhuqjdj42FUN1q1tfMiafbvLOzcEYyKfPl8F1UP0Pwavp0dzC0l9bKvWu5kGOaKoJNBur4vI4hiTIBRQCfvv/ANmis5Xjk9tHuONglrZmK7LkguMD88VI+q3tpIiWb9x2IPax1bUvpWlBZFZjavg/U2ePiuphhEi9QmBx5VcKvwK4ykedesbjUEupbl4mjd1UtF1CQoPJAG+/xn55rb0XJPcQCeVWiIJKdwdLY+kkeD/VdXeem4ZJO8k7vKSWc5GWb9xx/tLRWr2smbfO2c5XegDoE6jFIZsDcDjGPPNFJvd/pDuZyRwRRQAnZaEbeRkvRHIUOD0k4JBq+j7ca4XIA2AxtRRVVWlNogvIVjD9LMPcwFROgJ2O35oop8SmLsKwpPYzXDLHC0asxAHjc7UUUVnO2gmaRv6rP//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Lush</div>
+                                    <div class="artist">Four Tet</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAEFAQAAAAAAAAAAAAAAAAcCAwQFBgH/xAAqEAACAQMCBQMEAwAAAAAAAAABAgMABAURIQYSMUFRImGRBzJxgRMU0f/EABoBAAICAwAAAAAAAAAAAAAAAAUGAAcCBAj/xAAlEQABAgUDBAMAAAAAAAAAAAABAAIDBAYRMQUSISJBYdFRcYH/2gAMAwEAAhEDEQA/AI2knKFlU1bUlj1pJy8zDqa9hFKzyr5lmAlZtrqSBqdPeqsjj5ViEyBjH39qqsx6xUncBYu3yd1FbXSB4ZCFYHwakFhe6wU1GYbKwy9wuAoaEjLoOZtqVmZiKNMtdxqoVUmdFA8AkClZ3K0ztyO6tNGvP3IomzEEVs7bF3t9JrDCwQnYnb4Fdfw9wpbW8qy5K3lnYb8p+34o1L09NzHU4bR59IFM1hIyPDTvd494Wh4aweRzM4THWcs3l+ij9napas8WnAGGlzWbu4nmhTWG0iP3ydgWPbXwKuNxHDjbL+G1tmiAGnpQbD4qIPqBxPNnr1ITIRDD28n3ohE0eFp0Ax38kY+0utqGbqCabKtG1hyB8d+VoGl/uXcszgB5ZGc6dASdTpSqbFwrAKAW/FKV8p7c7abAKSrSURj0oAvk9apvsxFBGVjjXXzqf9pSrpDA53K59wFy+TyzNE7IoDdtzrr+zXIsr8zF9eY7n80pSVWMRwfDhDFrqxaFgs2RY1urH4sm1JXopLH2pSlJYT27K//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Backseat</div>
+                                    <div class="artist">Balu Brigada</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAQMGAv/EAC4QAAIBAwIEBAQHAAAAAAAAAAECAwAEERIhBTFBURNxgaEiMpGxFCNCQ1Jh4f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAiEQEAAQQCAQUBAAAAAAAAAAABAgADESEEEjEiQVFhcfD/2gAMAwEAAhEDEQA/AJayywK8Z1yEEtGFGdYO9aIrVppV8UOl02SPEQAeWevoRVeThiyWkkjSs9yULBo2IUEbhQB06VSbhIVyqFggKuuo50HO4Gem3vR8fgdHEj+aXK+yNNTIrdREoaAKSAWwaJraKZUTLKFb7HcVYlt5FVflGPtStoqyLKjZcltiDt35+tXtpj6V0+1Zbuue55KhyeNHM8dw0X8oyDpyOWCDRVS/4ZBcwMk8o1fpBAbfy/2ipW7csqQMj90y8yvIusFdILYftxpnPfG9OQQrBvrRsgAgrnrmlrG04fex+Pb2fhKflcJ4bH+xjf600yMirGSHkwQWxvz5/SrYPfbUrProKyJIxI40QnkcaDtvnvtzqTNDaycRQ6lVShClU2LDJ3wee/tVE6ZF3ImXGMDc7bEdqh8a4bGcO0yWmfiAgiyw88Hf6UnkykEZ2zJ+1sLmVJardMiXEJwq4I/LB5+ZopWzvrVERQ7vJGAHMsmlR2ODvv2xRSzk20O7uslGQ6rdw7iXHbm3W6VbWePV8UcbjOO2RyPrXSoUnVZHjlgbqrkE+xooouNZ6g9lz8uanuTe2CvEVjDa3Fw/iMkL6rjlsDtqwPf1NLcd4hDa8MW7tWjuUd9LsjY2wcnI67UUUF27K2ShHwGaI3hakyTWZsfx0btr5JIzZdW54yemN+xFFFFIlcUE1ko4yTVf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Heaven up There</div>
+                                    <div class="artist">Palace</div>
+                                </div>
+                            </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2026, 05:32:29 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Oct 2026, 05:36:48 (timezone Europe/Kyiv) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
